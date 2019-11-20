@@ -1416,3 +1416,150 @@ Script Stack (0 frames):
 [2019.11.20-10.05.45:697][761]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
 [2019.11.20-10.05.46:059][761]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap2A1D654348241D4805A21FA1ED01C8D2.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.11.20-10.05.46:343][761]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap_BuiltData9FED191349A4C1092FBB149FE4B24E74.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.11.20-10.09.58:748][536]LogEditorViewport: Clicking on Actor (LMB): sliding_door_C (sliding_door)
+[2019.11.20-10.09.58:987][556]Cmd: DELETE
+[2019.11.20-10.09.59:050][556]Cmd: ACTOR DELETE
+[2019.11.20-10.09.59:056][556]LogEditorActor: Deleted Actor: sliding_door_C
+[2019.11.20-10.09.59:144][556]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.11.20-10.09.59:144][556]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2019.11.20-10.10.00:134][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-10.10.10:061][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-10.10.27:250][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-10.10.31:871][842]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.20-10.10.36:207][254]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.20-10.10.45:343][103]Cmd: TRANSACTION UNDO
+[2019.11.20-10.10.45:343][103]LogEditorTransaction: Undo Move Actors
+[2019.11.20-10.10.45:405][103]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.20-10.10.45:405][103]LogGeometryMode: Warning: Unable to resolve BoxBrush11 Brush in new BSP, see above
+[2019.11.20-10.10.45:405][103]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.20-10.10.46:443][185]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2019.11.20-10.10.46:443][185]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.20-10.10.48:323][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-10.10.56:780][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-10.11.28:126][ 49]Cmd: TRANSACTION UNDO
+[2019.11.20-10.11.28:126][ 49]LogEditorTransaction: Undo Move Actors
+[2019.11.20-10.11.28:184][ 49]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.20-10.11.28:184][ 49]LogGeometryMode: Warning: Unable to resolve BoxBrush11 Brush in new BSP, see above
+[2019.11.20-10.11.28:184][ 49]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.20-10.11.29:951][198]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2019.11.20-10.11.29:951][198]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.20-10.11.34:568][596]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.20-10.11.45:126][574]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-10.11.46:658][716]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-10.11.48:080][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-10.11.54:858][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-10.11.56:310][618]Cmd: TRANSACTION UNDO
+[2019.11.20-10.11.56:310][618]LogEditorTransaction: Undo Select Brush Surface
+[2019.11.20-10.12.18:851][732]LogEditorViewport: Clicking Background
+[2019.11.20-10.12.19:548][801]Cmd: TRANSACTION UNDO
+[2019.11.20-10.12.19:548][801]LogEditorTransaction: Undo Clicking Background
+[2019.11.20-10.13.19:975][390]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.20-10.13.39:689][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-10.14.27:595][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-10.14.31:271][538]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.20-10.14.35:167][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-10.14.48:411][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-10.15.03:050][766]LogEditorViewport: Clicking on Actor (LMB): sliding_door_C (sliding_door)
+[2019.11.20-10.15.19:029][359]LogEditorViewport: Clicking on Actor (LMB): sliding_door_C (sliding_door)
+[2019.11.20-10.15.33:853][870]LogEditorViewport: Clicking on Actor (LMB): sliding_door_C (sliding_door)
+[2019.11.20-10.15.39:032][408]Cmd: TRANSACTION UNDO
+[2019.11.20-10.15.39:032][408]LogEditorTransaction: Undo Move Actors
+[2019.11.20-10.15.40:770][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-10.15.40:840][568]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-10.15.40:860][568]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.20-10.15.40:860][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-10.15.40:860][568]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 20, 2019, 12:15:40 AM)
+[2019.11.20-10.15.40:860][568]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.20-10.15.40:885][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024411s)
+[2019.11.20-10.15.40:885][568]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.20-10.15.40:885][568]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2019.11.20-10.15.40:885][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025372s)
+[2019.11.20-10.15.40:990][568]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2019.11.20-10.15.41:056][568]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.20-10.15.41:078][568]LogInit: FAudioDevice initialized.
+[2019.11.20-10.15.41:112][568]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.20-10.15.41:117][568]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.20-05.15.41
+[2019.11.20-10.15.41:118][568]LogWorld: Bringing up level for play took: 0.005418
+[2019.11.20-10.15.41:132][568]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.126
+[2019.11.20-10.15.41:142][568]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.20-10.17.07:803][489]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.20-10.17.07:803][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-10.17.07:848][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-10.17.07:848][489]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.20-10.17.07:953][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-10.17.07:961][489]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.11.20-10.17.07:998][490]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.11.20-10.17.35:887][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-10.17.35:991][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.11.20-10.17.36:981][470]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap_Auto88958882C4BA8ABA074F35CB875B1D042.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2019.11.20-10.17.36:986][470]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.083
+[2019.11.20-10.17.36:986][470]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.083
+[2019.11.20-10.17.36:988][470]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assests/sliding_door] ([1] browsable assets)...
+[2019.11.20-10.17.37:010][470]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/assests/sliding_door.sliding_door]
+[2019.11.20-10.17.37:010][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/assests/sliding_door]
+[2019.11.20-10.17.37:062][470]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/sliding_door_Auto8DDA52F6845A497D7DAED4FA2290B9FA1.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/assests/sliding_door_Auto8.uasset'
+[2019.11.20-10.17.37:064][470]LogFileHelpers: Auto-saving content packages took 0.077
+[2019.11.20-13.23.35:459][301]LogHttp: Warning: 000002A52FA051C0: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0D68C160-4F9D-DBEE-8C14-0197C8EF5991%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1d2f0fcd462c5ebb21d2f9b7ad1f5b8c%7C2cf7905d443c487fbebac155e216fbf4%7C9d2cb2eb-42eb-4ee1-bc7d-e920e3910ca0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 502, content length: 138, actual payload size: 138
+[2019.11.20-13.23.35:459][301]LogHttp: Warning: 000002A52FA051C0 Response Header Server: awselb/2.0
+[2019.11.20-13.23.35:459][301]LogHttp: Warning: 000002A52FA051C0 Response Header Date: Wed, 20 Nov 2019 13:23:34 GMT
+[2019.11.20-13.23.35:459][301]LogHttp: Warning: 000002A52FA051C0 Response Header Content-Type: text/html
+[2019.11.20-13.23.35:459][301]LogHttp: Warning: 000002A52FA051C0 Response Header Content-Length: 138
+[2019.11.20-13.23.35:459][301]LogHttp: Warning: 000002A52FA051C0 Response Header Connection: keep-alive
+[2019.11.20-20.34.19:856][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-20.34.35:487][573]LogUObjectHash: Compacting FUObjectHashTables data took  14.09ms
+[2019.11.20-20.35.18:039][374]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/assests/userdoor.userdoor
+[2019.11.20-20.35.47:018][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/sliding_door" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/sliding_door.uasset" SILENT=true
+[2019.11.20-20.35.47:060][340]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/sliding_door0BE1A6934A5327682C3419944EDDC45E.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/sliding_door.uasset'
+[2019.11.20-20.35.59:236][109]LogSlate: Window 'userdoor' being destroyed
+[2019.11.20-20.35.59:245][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.20-20.36.09:354][983]LogUObjectHash: Compacting FUObjectHashTables data took   9.81ms
+[2019.11.20-20.36.09:358][983]LogMetaData: Removing '/Game/assests/door_button.SKEL_door_button_C' ref from Metadata '/Game/assests/userdoor.PackageMetaData'
+[2019.11.20-20.36.09:358][983]LogMetaData: Removing '/Game/assests/door_button.door_button_C' ref from Metadata '/Game/assests/userdoor.PackageMetaData'
+[2019.11.20-20.36.09:495][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/door_button" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/door_button.uasset" SILENT=true
+[2019.11.20-20.36.09:545][983]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/door_button248FA0C24F1EC5355DE8279C6144B281.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/door_button.uasset'
+[2019.11.20-20.36.09:885][983]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2019.11.20-20.36.09:986][983]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2019.11.20-20.36.10:072][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.11.20-20.36.11:647][ 44]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/assests/door_button.door_button
+[2019.11.20-20.40.21:013][879]BlueprintLog: New page: Compile door_button
+[2019.11.20-20.40.21:655][879]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2019.11.20-20.40.23:767][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/door_button" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/door_button.uasset" SILENT=true
+[2019.11.20-20.40.23:829][995]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/door_button45A70BBF4603247781CFA58FCC8E38E6.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/door_button.uasset'
+[2019.11.20-20.40.24:417][ 30]BlueprintLog: New page: Compile door_button
+[2019.11.20-20.40.24:834][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   7.38ms
+[2019.11.20-20.40.26:165][104]LogSlate: Window 'door_button' being destroyed
+[2019.11.20-20.40.43:677][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-20.40.47:425][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-20.40.50:542][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-20.40.50:635][378]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-20.40.50:671][378]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.20-20.40.50:671][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-20.40.50:671][378]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 20, 2019, 10:40:50 AM)
+[2019.11.20-20.40.50:671][378]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.20-20.40.50:710][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038953s)
+[2019.11.20-20.40.50:711][378]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.20-20.40.50:711][378]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2019.11.20-20.40.50:711][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.040053s)
+[2019.11.20-20.40.50:830][378]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2019.11.20-20.40.50:926][378]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.20-20.40.50:962][378]LogInit: FAudioDevice initialized.
+[2019.11.20-20.40.51:008][378]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.20-20.40.51:015][378]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.20-15.40.51
+[2019.11.20-20.40.51:015][378]LogWorld: Bringing up level for play took: 0.006059
+[2019.11.20-20.40.51:030][378]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.024
+[2019.11.20-20.40.51:031][378]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.20-20.41.14:282][988]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.20-20.41.14:282][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-20.41.14:322][988]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-20.41.14:323][988]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.20-20.41.14:421][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-20.41.14:434][988]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2019.11.20-20.41.14:475][989]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.11.20-20.41.18:578][421]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-20.41.18:680][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.11.20-20.41.19:945][421]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMapEAF3F66D41DB4B82D116EB97819BE4E2.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.20-20.41.20:499][421]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap_BuiltDataD239D02141BC24D09BBA1ABFFEE155B7.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.11.20-20.41.21:681][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-20.41.21:832][535]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2019.11.20-20.41.22:324][535]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMapCAF117944287F09BBB6C1DB033883758.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.20-20.41.22:619][535]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap_BuiltData721E10C140EB1CDF39DAD79488617DFE.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
