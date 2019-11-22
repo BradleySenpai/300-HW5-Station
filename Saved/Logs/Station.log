@@ -1417,6 +1417,7 @@ Script Stack (0 frames):
 [2019.11.20-10.04.46:743][891]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
 [2019.11.20-10.04.47:174][891]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMapECAE422F44571349273C398F4430EB29.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.11.20-10.04.47:453][891]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap_BuiltData0752B5644842AA7FB9292A8FCBA7D930.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+<<<<<<< Updated upstream
 [2019.11.20-10.05.37:524][121]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.11.20-10.05.39:729][238]BlueprintLog: New page: Compile sliding_door
 [2019.11.20-10.05.40:094][238]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
@@ -5480,3 +5481,5 @@ Script Stack (0 frames):
 [2019.11.19-06.13.32:219][931]LogExit: Exiting.
 [2019.11.19-06.13.32:240][931]Log file closed, 11/19/19 01:13:32
 >>>>>>> Bradley
+=======
+>>>>>>> Stashed changes
