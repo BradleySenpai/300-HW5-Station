@@ -4035,6 +4035,7 @@ Script Stack (0 frames):
 [2019.11.22-07.04.12:356][395]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
 [2019.11.22-07.04.14:408][395]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap5D3C76BC4498BA0CEA8F77BB9E777731.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.11.22-07.04.14:896][395]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap_BuiltData1C61B1C0414660E374B7D0B936F56E69.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+<<<<<<< Updated upstream
 [2019.11.22-07.12.31:717][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.22-07.12.42:533][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.22-07.12.47:817][ 80]Cmd: BRUSH ADD SELECTNEWBRUSH
@@ -5481,5 +5482,7 @@ Script Stack (0 frames):
 [2019.11.19-06.13.32:219][931]LogExit: Exiting.
 [2019.11.19-06.13.32:240][931]Log file closed, 11/19/19 01:13:32
 >>>>>>> Bradley
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
