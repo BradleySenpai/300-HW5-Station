@@ -4025,3 +4025,284 @@ Script Stack (0 frames):
 [2019.11.22-07.04.12:356][395]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
 [2019.11.22-07.04.14:408][395]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap5D3C76BC4498BA0CEA8F77BB9E777731.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.11.22-07.04.14:896][395]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap_BuiltData1C61B1C0414660E374B7D0B936F56E69.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.11.22-07.12.31:717][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-07.12.42:533][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-07.12.47:817][ 80]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.22-07.12.51:490][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-07.13.22:391][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-07.14.26:927][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-07.14.27:163][580]LogUObjectHash: Compacting FUObjectHashTables data took   7.98ms
+[2019.11.22-07.14.28:349][580]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap_Auto6D160F78847F917431D66689106AB9338.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2019.11.22-07.14.28:355][580]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.396
+[2019.11.22-07.14.28:355][580]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.396
+[2019.11.22-07.15.19:782][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-07.15.20:760][669]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-07.15.20:885][680]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-07.15.57:907][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-07.15.58:043][963]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-07.16.00:144][139]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.22-07.24.28:885][799]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2019.11.22-07.24.30:583][799]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap_Auto75EED1D0F4B0F4F0334BE6E80BDF27B2C.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2019.11.22-07.24.30:591][799]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.815
+[2019.11.22-07.24.30:591][799]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.815
+[2019.11.22-08.03.27:742][641]Cmd: DELETE
+[2019.11.22-08.03.27:743][641]Cmd: ACTOR DELETE
+[2019.11.22-08.03.27:783][641]LogEditorActor: Deleted Actor: Brush
+[2019.11.22-08.03.27:886][641]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2019.11.22-08.03.28:067][641]LogEditorActor: Deleted 1 Actors (0.324 secs)
+[2019.11.22-08.03.29:773][813]Cmd: DELETE
+[2019.11.22-08.03.29:773][813]Cmd: ACTOR DELETE
+[2019.11.22-08.03.29:815][813]LogEditorActor: Deleted Actor: Brush
+[2019.11.22-08.03.29:929][813]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2019.11.22-08.03.30:142][813]LogEditorActor: Deleted 1 Actors (0.369 secs)
+[2019.11.22-08.03.30:763][866]Cmd: DELETE
+[2019.11.22-08.03.30:763][866]Cmd: ACTOR DELETE
+[2019.11.22-08.03.30:802][866]LogEditorActor: Deleted Actor: Brush
+[2019.11.22-08.03.30:882][866]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2019.11.22-08.03.31:093][866]LogEditorActor: Deleted 1 Actors (0.329 secs)
+[2019.11.22-08.03.32:283][985]Cmd: DELETE
+[2019.11.22-08.03.32:283][985]Cmd: ACTOR DELETE
+[2019.11.22-08.03.32:328][985]LogEditorActor: Deleted Actor: Brush
+[2019.11.22-08.03.32:417][985]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2019.11.22-08.03.32:621][985]LogEditorActor: Deleted 1 Actors (0.338 secs)
+[2019.11.22-08.03.34:028][129]Cmd: DELETE
+[2019.11.22-08.03.34:028][129]Cmd: ACTOR DELETE
+[2019.11.22-08.03.34:097][129]LogEditorActor: Deleted Actor: Brush
+[2019.11.22-08.03.34:199][129]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.11.22-08.03.34:398][129]LogEditorActor: Deleted 1 Actors (0.370 secs)
+[2019.11.22-08.03.36:362][336]Cmd: DELETE
+[2019.11.22-08.03.36:385][336]Cmd: ACTOR DELETE
+[2019.11.22-08.03.36:422][336]LogEditorActor: Deleted Actor: Brush
+[2019.11.22-08.03.36:496][336]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.11.22-08.03.36:675][336]LogEditorActor: Deleted 1 Actors (0.291 secs)
+[2019.11.22-08.03.39:249][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.03.40:586][733]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.22-08.04.04:105][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.04.09:340][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.04.22:538][766]Cmd: TRANSACTION UNDO
+[2019.11.22-08.04.22:538][766]LogEditorTransaction: Undo Move Actors
+[2019.11.22-08.04.42:038][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.04.53:858][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.05.02:220][605]Cmd: TRANSACTION UNDO
+[2019.11.22-08.05.02:220][605]LogEditorTransaction: Undo Move Actors
+[2019.11.22-08.05.30:433][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.05.31:751][640]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.22-08.05.33:390][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.05.49:701][448]Cmd: TRANSACTION UNDO
+[2019.11.22-08.05.49:701][448]LogEditorTransaction: Undo Snap Actors To Floor
+[2019.11.22-08.05.50:335][456]Cmd: TRANSACTION UNDO
+[2019.11.22-08.05.50:335][456]LogEditorTransaction: Undo Snap Actors To Floor
+[2019.11.22-08.05.51:926][588]Cmd: TRANSACTION UNDO
+[2019.11.22-08.05.51:927][588]LogEditorTransaction: Undo Edit X
+[2019.11.22-08.05.55:086][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.06.06:163][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.06.15:616][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.06.17:610][118]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.22-08.06.24:151][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.07.14:014][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-08.07.14:263][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2019.11.22-08.07.16:425][ 49]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap_Auto80585A04243F51F526F37D8B5162C0265.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2019.11.22-08.07.16:435][ 49]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 2.402
+[2019.11.22-08.07.16:435][ 49]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.402
+[2019.11.22-08.07.36:814][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.08.06:872][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.08.11:261][734]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.22-08.08.14:739][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.08.31:480][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.08.33:351][875]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.22-08.08.36:703][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.08.37:847][322]Cmd: TRANSACTION UNDO
+[2019.11.22-08.08.37:847][322]LogEditorTransaction: Undo Edit X
+[2019.11.22-08.08.57:531][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.09.39:211][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.09.55:969][249]Cmd: TRANSACTION UNDO
+[2019.11.22-08.09.55:969][249]LogEditorTransaction: Undo Move Actors
+[2019.11.22-08.11.29:670][963]Cmd: EDCALLBACK SURFPROPS
+[2019.11.22-08.11.31:607][170]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.22-08.11.31:607][170]Can't find target actor or component.
+[2019.11.22-08.11.32:306][244]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.22-08.11.32:306][244]Can't find target actor or component.
+[2019.11.22-08.11.33:425][365]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.22-08.11.33:425][365]Can't find target actor or component.
+[2019.11.22-08.11.34:831][526]Cmd: TRANSACTION UNDO
+[2019.11.22-08.11.34:831][526]LogEditorTransaction: Undo Select Surface
+[2019.11.22-08.11.35:210][532]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.22-08.11.46:557][528]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush95)
+[2019.11.22-08.11.46:626][528]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-08.11.51:379][821]Cmd: ACTOR MIRROR X=-1
+[2019.11.22-08.12.02:185][689]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush96)
+[2019.11.22-08.12.02:265][689]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-08.12.04:939][848]Cmd: ACTOR MIRROR X=-1
+[2019.11.22-08.12.22:970][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.12.24:942][915]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.22-08.12.27:847][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.12.30:886][480]Cmd: TRANSACTION UNDO
+[2019.11.22-08.12.30:886][480]LogEditorTransaction: Undo Edit Z
+[2019.11.22-08.12.46:965][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.13.07:236][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.13.13:820][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.13.26:377][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.13.41:900][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.13.56:997][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.13.58:153][139]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.22-08.13.58:945][194]Cmd: TRANSACTION UNDO
+[2019.11.22-08.13.58:946][194]LogEditorTransaction: Undo Brush Add
+[2019.11.22-08.14.03:265][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.14.04:946][774]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.22-08.14.06:578][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.14.31:958][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.14.44:465][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.14.52:930][494]Cmd: TRANSACTION UNDO
+[2019.11.22-08.14.52:930][494]LogEditorTransaction: Undo Move Actors
+[2019.11.22-08.14.57:828][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.15.13:817][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.15.14:974][687]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.22-08.15.16:124][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.17.08:387][868]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.22-08.17.28:775][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.17.32:663][322]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.22-08.17.41:403][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.17.47:062][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.17.54:994][483]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.22-08.18.21:946][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-08.18.23:992][222]Cmd: ACTOR MIRROR Y=-1
+[2019.11.22-08.18.27:596][518]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.22-08.19.02:704][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.19.30:924][773]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.22-08.19.34:587][111]Cmd: DELETE
+[2019.11.22-08.19.34:587][111]Cmd: ACTOR DELETE
+[2019.11.22-08.19.34:839][111]LogEditorActor: Deleted Actor: Brush
+[2019.11.22-08.19.35:199][111]LogUObjectHash: Compacting FUObjectHashTables data took  10.79ms
+[2019.11.22-08.19.35:466][111]LogEditorActor: Deleted 1 Actors (0.879 secs)
+[2019.11.22-08.19.40:853][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.19.42:876][894]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.22-08.19.45:018][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.19.47:727][322]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.22-08.19.47:746][322]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.22-08.19.47:756][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-08.19.47:756][322]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 21, 2019, 10:19:47 PM)
+[2019.11.22-08.19.47:762][322]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.22-08.19.47:868][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.105170s)
+[2019.11.22-08.19.47:870][322]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.22-08.19.47:870][322]LogPlayLevel: PIE: World Init took: (0.001922s)
+[2019.11.22-08.19.47:870][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.107638s)
+[2019.11.22-08.19.47:980][322]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2019.11.22-08.19.48:072][322]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.22-08.19.48:101][322]LogInit: FAudioDevice initialized.
+[2019.11.22-08.19.48:144][322]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.22-08.19.48:158][322]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.22-03.19.48
+[2019.11.22-08.19.48:159][322]LogWorld: Bringing up level for play took: 0.012914
+[2019.11.22-08.19.48:174][322]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.806
+[2019.11.22-08.19.48:175][322]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.22-08.19.50:392][561]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.22-08.19.50:392][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.19.50:428][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-08.19.50:429][561]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.22-08.19.50:535][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.19.50:550][561]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2019.11.22-08.19.50:572][562]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2019.11.22-08.20.07:475][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.20.22:912][875]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-08.20.26:160][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.21.05:422][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.21.09:120][460]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.22-08.21.53:372][256]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.22-08.22.00:031][767]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush112)
+[2019.11.22-08.22.00:090][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-08.22.03:552][115]Cmd: ACTOR MIRROR Y=-1
+[2019.11.22-08.22.06:137][324]Cmd: TRANSACTION UNDO
+[2019.11.22-08.22.06:137][324]LogEditorTransaction: Undo Mirroring Actors
+[2019.11.22-08.22.07:990][438]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-08.22.10:428][669]Cmd: ACTOR MIRROR X=-1
+[2019.11.22-08.22.14:577][ 97]Cmd: TRANSACTION UNDO
+[2019.11.22-08.22.14:577][ 97]LogEditorTransaction: Undo Mirroring Actors
+[2019.11.22-08.22.15:873][178]Cmd: TRANSACTION UNDO
+[2019.11.22-08.22.15:873][178]LogEditorTransaction: Undo Select Surfaces
+[2019.11.22-08.22.17:425][297]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-08.22.18:315][399]Cmd: TRANSACTION UNDO
+[2019.11.22-08.22.18:315][399]LogEditorTransaction: Undo Select Surfaces
+[2019.11.22-08.22.22:234][808]Cmd: ACTOR MIRROR X=-1
+[2019.11.22-08.23.28:392][372]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-08.23.28:556][372]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2019.11.22-08.23.30:295][372]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMapB1D7A92D4B21E3FC049965B5832EF3DA.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.22-08.23.30:655][372]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap_BuiltData5ED711F7408A9590D5E90BA747126AC0.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.11.22-08.23.36:020][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.23.36:090][854]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.22-08.23.36:106][854]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.22-08.23.36:107][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-08.23.36:107][854]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 21, 2019, 10:23:36 PM)
+[2019.11.22-08.23.36:118][854]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.22-08.23.36:263][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144636s)
+[2019.11.22-08.23.36:264][854]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.22-08.23.36:264][854]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2019.11.22-08.23.36:264][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.145806s)
+[2019.11.22-08.23.36:398][854]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2019.11.22-08.23.36:485][854]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.22-08.23.36:505][854]LogInit: FAudioDevice initialized.
+[2019.11.22-08.23.36:540][854]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.22-08.23.36:553][854]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.22-03.23.36
+[2019.11.22-08.23.36:554][854]LogWorld: Bringing up level for play took: 0.013304
+[2019.11.22-08.23.36:568][854]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.201
+[2019.11.22-08.23.36:569][854]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.22-08.26.06:775][537]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.22-08.26.06:775][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.26.06:808][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-08.26.06:808][537]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.22-08.26.06:909][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.26.06:922][537]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2019.11.22-08.26.07:180][538]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2019.11.22-08.26.20:737][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.26.38:236][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.26.55:926][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.27.04:240][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.27.13:521][188]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.22-08.27.20:865][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.27.36:905][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.27.42:515][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.27.51:184][924]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.22-08.27.53:372][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.27.55:256][275]Cmd: TRANSACTION UNDO
+[2019.11.22-08.27.55:256][275]LogEditorTransaction: Undo Edit X
+[2019.11.22-08.28.04:419][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.28.04:489][110]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.22-08.28.04:510][110]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.22-08.28.04:510][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-08.28.04:510][110]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 21, 2019, 10:28:04 PM)
+[2019.11.22-08.28.04:518][110]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.22-08.28.04:674][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.156018s)
+[2019.11.22-08.28.04:674][110]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.22-08.28.04:675][110]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2019.11.22-08.28.04:675][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.157176s)
+[2019.11.22-08.28.04:772][110]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2019.11.22-08.28.04:850][110]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.22-08.28.04:871][110]LogInit: FAudioDevice initialized.
+[2019.11.22-08.28.04:903][110]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.22-08.28.04:914][110]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.22-03.28.04
+[2019.11.22-08.28.04:915][110]LogWorld: Bringing up level for play took: 0.011272
+[2019.11.22-08.28.04:929][110]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.439
+[2019.11.22-08.28.04:930][110]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.22-08.30.56:483][459]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.22-08.30.56:483][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.30.56:520][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-08.30.56:521][459]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.22-08.30.56:617][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.30.56:631][459]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2019.11.22-08.30.56:667][460]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2019.11.22-08.38.16:796][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.38.20:930][326]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.22-08.38.25:916][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.39.08:336][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.39.24:239][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.39.26:395][683]Cmd: TRANSACTION UNDO
+[2019.11.22-08.39.26:395][683]LogEditorTransaction: Undo Edit X
+[2019.11.22-08.39.52:257][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.39.55:347][554]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.22-08.39.57:098][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-08.40.05:486][463]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-08.40.05:698][463]LogUObjectHash: Compacting FUObjectHashTables data took   7.73ms
+[2019.11.22-08.40.07:670][463]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap18E47A834C816F712E43669FD9375631.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.22-08.40.08:066][463]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap_BuiltDataDA1BCC3F471E4BE8592F929508941150.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.11.22-08.41.40:620][255]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-08.41.40:802][255]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2019.11.22-08.41.41:950][255]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap68C6D22D4444D745CA9148ACD943A512.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.22-08.41.42:275][255]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap_BuiltDataAC9606674B047F2BF842CFBA776C703C.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
