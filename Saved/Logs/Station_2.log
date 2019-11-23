@@ -760,3 +760,617 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.23-16.23.17:404][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
 [2019.11.23-16.23.18:462][417]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap0E9EE9DE43E7A0C96175DB964A9D188A.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.11.23-16.23.18:833][417]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap_BuiltData0E9EC2F84B9DD693DC83788F77418D22.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.11.23-16.24.54:027][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-16.24.54:092][504]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-16.24.54:111][504]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.23-16.24.54:111][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-16.24.54:111][504]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 23, 2019, 6:24:54 AM)
+[2019.11.23-16.24.54:111][504]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.23-16.24.54:267][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155209s)
+[2019.11.23-16.24.54:268][504]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.23-16.24.54:268][504]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2019.11.23-16.24.54:268][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.156412s)
+[2019.11.23-16.24.54:356][504]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2019.11.23-16.24.54:457][504]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.23-16.24.54:488][504]LogInit: FAudioDevice initialized.
+[2019.11.23-16.24.54:518][504]LogLoad: Game class is 'GameModeBase'
+[2019.11.23-16.24.54:540][504]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.23-11.24.54
+[2019.11.23-16.24.54:541][504]LogWorld: Bringing up level for play took: 0.021302
+[2019.11.23-16.24.54:554][504]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.373
+[2019.11.23-16.24.54:565][504]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.23-16.25.02:025][190]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.23-16.25.02:025][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-16.25.02:068][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-16.25.02:068][190]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.23-16.25.02:170][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-16.25.02:180][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.11.23-16.25.02:223][191]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.11.23-16.25.14:379][391]Cmd: SELECT NONE
+[2019.11.23-16.25.16:974][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-16.25.17:193][630]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.11.23-16.26.44:682][ 12]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.23-16.26.44:702][ 12]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2019.11.23-16.26.44:703][ 12]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2019.11.23-16.26.44:703][ 12]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2019.11.23-16.26.44:703][ 12]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.11.23-16.26.44:703][ 12]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2019.11.23-16.26.44:703][ 12]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.11.23-16.26.44:704][ 12]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2019.11.23-16.26.44:704][ 12]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2019.11.23-16.26.45:015][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2019.11.23-16.26.45:045][ 12]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0638.39] Compile of ThirdPersonCharacter successful, but with 8 Warning(s) [in 362 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.11.23-16.27.08:841][488]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.23-16.27.08:855][488]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2019.11.23-16.27.08:855][488]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2019.11.23-16.27.08:856][488]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2019.11.23-16.27.08:856][488]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.11.23-16.27.08:856][488]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2019.11.23-16.27.08:857][488]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.11.23-16.27.08:857][488]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2019.11.23-16.27.08:857][488]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2019.11.23-16.27.09:175][488]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2019.11.23-16.27.09:205][488]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0662.55] Compile of ThirdPersonCharacter successful, but with 8 Warning(s) [in 363 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.11.23-16.31.11:745][904]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.23-16.31.11:758][904]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2019.11.23-16.31.11:759][904]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2019.11.23-16.31.11:759][904]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2019.11.23-16.31.11:759][904]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.11.23-16.31.11:759][904]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2019.11.23-16.31.11:759][904]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.11.23-16.31.11:760][904]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2019.11.23-16.31.11:760][904]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2019.11.23-16.31.12:073][904]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2019.11.23-16.31.12:102][904]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0905.45] Compile of ThirdPersonCharacter successful, but with 8 Warning(s) [in 357 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.11.23-16.31.13:724][ 18]LogRenderer: Reallocating scene render targets to support 1244x712 Format 10 NumSamples 1 (Frame:1).
+[2019.11.23-16.31.22:040][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-16.31.22:162][508]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.11.23-16.31.24:331][687]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-16.31.37:668][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-16.31.38:885][179]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-16.31.38:944][179]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.11.23-16.31.40:535][179]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.23-16.32.31:926][688]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.23-16.32.31:932][688]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.23-16.32.33:546][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-16.33.02:047][934]LogSlate: Window 'Save Level As' being destroyed
+[2019.11.23-16.33.02:945][934]LogUObjectHash: Compacting FUObjectHashTables data took   9.60ms
+[2019.11.23-16.33.03:273][934]LogAIModule: Creating AISystem for world Station
+[2019.11.23-16.33.03:351][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.23-16.33.03:512][934]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2019.11.23-16.33.04:522][934]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station5CA2FE634E92982F336537B613F1430A.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.11.23-16.33.04:599][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.11.23-16.33.04:832][934]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_BuiltData5EF9EE364CDCE5317FF6BABF0D99E983.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.11.23-16.33.04:841][934]LogFileHelpers: Saving map 'Station' took 2.788
+[2019.11.23-16.33.04:843][934]Cmd: MAP LOAD FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.23-16.33.04:853][934]LightingResults: New page: Lighting Build
+[2019.11.23-16.33.04:854][934]LoadErrors: New page: Loading map: Station.umap
+[2019.11.23-16.33.04:861][934]MapCheck: New page: Map Check
+[2019.11.23-16.33.04:861][934]LightingResults: New page: Lighting Build
+[2019.11.23-16.33.04:951][934]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2019.11.23-16.33.05:156][934]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.23-16.33.05:245][934]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.11.23-16.33.05:279][934]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.23-16.33.05:279][934]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.196ms to complete.
+[2019.11.23-16.33.05:279][934]LogFileHelpers: Loading map 'Station' took 0.438
+[2019.11.23-16.33.14:478][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-16.33.14:591][879]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-16.33.14:614][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.11.23-16.33.14:614][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-16.33.14:614][879]PIE: New page: PIE session: Station (Nov 23, 2019, 6:33:14 AM)
+[2019.11.23-16.33.14:614][879]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.11.23-16.33.14:737][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121687s)
+[2019.11.23-16.33.14:737][879]LogAIModule: Creating AISystem for world Station
+[2019.11.23-16.33.14:737][879]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2019.11.23-16.33.14:737][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.122876s)
+[2019.11.23-16.33.14:804][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.11.23-16.33.14:889][879]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.23-16.33.14:911][879]LogInit: FAudioDevice initialized.
+[2019.11.23-16.33.14:940][879]LogLoad: Game class is 'GameModeBase'
+[2019.11.23-16.33.14:953][879]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.11.23-11.33.14
+[2019.11.23-16.33.14:954][879]LogWorld: Bringing up level for play took: 0.012749
+[2019.11.23-16.33.14:967][879]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 0.786
+[2019.11.23-16.33.14:968][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.11.23-16.33.20:141][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-16.33.23:844][763]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-16.33.32:258][382]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:258][382]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:271][383]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:271][383]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:281][384]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:281][384]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:295][385]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:296][385]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:309][386]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:309][386]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:322][387]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:322][387]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:333][388]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:333][388]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:346][389]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:346][389]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:358][390]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:358][390]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:370][391]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:370][391]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:383][392]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:383][392]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:395][393]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:396][393]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:407][394]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:407][394]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:418][395]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:418][395]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:431][396]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:431][396]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:502][403]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:502][403]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:708][421]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:708][421]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:721][422]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:721][422]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:764][426]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:764][426]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:793][429]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:793][429]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:805][430]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:805][430]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:817][431]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:817][431]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:827][432]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:827][432]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:839][433]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:839][433]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:850][434]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:850][434]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:862][435]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:862][435]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:873][436]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:873][436]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:884][437]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:885][437]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:898][438]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:898][438]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:911][439]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:911][439]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:924][440]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:924][440]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:936][441]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:936][441]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:952][442]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:952][442]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:967][443]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:967][443]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:982][444]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:982][444]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:995][445]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.32:995][445]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:015][446]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:015][446]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:061][450]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:061][450]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:095][453]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:095][453]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:259][466]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:259][466]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:274][467]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:274][467]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:289][468]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:289][468]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:305][469]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:305][469]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:320][470]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:320][470]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:336][471]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:336][471]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:350][472]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:350][472]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:364][473]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:364][473]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:379][474]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:379][474]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:391][475]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:391][475]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:403][476]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:403][476]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:414][477]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:414][477]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:426][478]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:426][478]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:486][484]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:486][484]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:618][497]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:618][497]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:687][504]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:687][504]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:698][505]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:698][505]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:712][506]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:712][506]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:726][507]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:726][507]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:739][508]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:739][508]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:752][509]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:753][509]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:763][510]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:763][510]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:774][511]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:774][511]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:997][533]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.33:997][533]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.34:007][534]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.34:007][534]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.34:018][535]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.34:018][535]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.34:030][536]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.34:030][536]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Station.Station:PersistentLevel.BoxBrush : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.23-16.33.38:681][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-16.33.38:772][874]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.11.23-16.33.38:773][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-16.33.38:812][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-16.33.38:813][874]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.11.23-16.33.38:912][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-16.33.38:926][874]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.11.23-16.33.38:989][875]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.11.23-16.33.40:483][970]LogSlate: Window 'Message Log' being destroyed
+[2019.11.23-16.33.40:491][970]LogSlate: Window 'Message Log' being destroyed
+[2019.11.23-16.33.43:737][191]Cmd: TRANSACTION UNDO
+[2019.11.23-16.33.43:737][191]LogEditorTransaction: Undo Move Actors
+[2019.11.23-16.33.47:766][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-16.33.48:750][584]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2019.11.23-16.33.53:540][920]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.23-16.34.16:950][ 31]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2019.11.23-16.34.18:449][144]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.11.23-16.34.37:004][868]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.11.23-16.34.44:829][507]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-16.34.44:836][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.23-16.34.44:932][507]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.11.23-16.34.45:848][507]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station012F8A164A5D893DC238C98CCDC963C9.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.11.23-16.34.45:896][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.11.23-16.34.46:159][507]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_BuiltData82845D974FB4BAE70EDC2E8A959D6961.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.11.23-16.34.47:475][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.11.23-16.34.47:549][618]LogSlate: Window 'Station - Unreal Editor' being destroyed
+[2019.11.23-16.34.47:906][619]Cmd: QUIT_EDITOR
+[2019.11.23-16.34.48:395][619]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.23-16.34.48:404][619]LogExit: Preparing to exit.
+[2019.11.23-16.34.49:068][619]LogExit: Editor shut down
+[2019.11.23-16.34.49:069][619]LogExit: Transaction tracking system shut down
+[2019.11.23-16.34.49:454][619]LogExit: Object subsystem successfully closed.
+[2019.11.23-16.34.49:476][619]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.23-16.34.49:483][619]LogD3D11RHI: Shutdown
+[2019.11.23-16.34.49:483][619]LogD3D11RHI: CleanupD3DDevice
+[2019.11.23-16.34.49:485][619]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.23-16.34.49:485][619]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.23-16.34.49:485][619]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.23-16.34.49:485][619]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.23-16.34.49:485][619]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.23-16.34.49:485][619]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.23-16.34.49:704][619]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.23-16.34.49:829][619]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (652)
+[2019.11.23-16.34.49:830][619]LogModuleManager: Shutting down and abandoning module BlueprintGraph (650)
+[2019.11.23-16.34.49:830][619]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2019.11.23-16.34.49:830][619]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2019.11.23-16.34.49:830][619]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.11.23-16.34.49:830][619]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.11.23-16.34.49:830][619]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.11.23-16.34.49:838][619]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.11.23-16.34.49:838][619]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.11.23-16.34.49:838][619]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.11.23-16.34.49:842][619]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (632)
+[2019.11.23-16.34.49:842][619]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.11.23-16.34.49:842][619]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.11.23-16.34.49:842][619]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.11.23-16.34.49:843][619]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.11.23-16.34.49:843][619]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.11.23-16.34.49:844][619]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.11.23-16.34.49:844][619]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.11.23-16.34.49:844][619]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.11.23-16.34.49:844][619]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.11.23-16.34.49:844][619]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.11.23-16.34.49:844][619]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.11.23-16.34.49:844][619]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.11.23-16.34.49:844][619]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.11.23-16.34.49:844][619]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.11.23-16.34.49:844][619]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.11.23-16.34.49:845][619]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.11.23-16.34.49:845][619]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.11.23-16.34.49:845][619]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.11.23-16.34.49:845][619]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.11.23-16.34.49:845][619]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.11.23-16.34.49:845][619]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.11.23-16.34.49:845][619]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.11.23-16.34.49:845][619]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.11.23-16.34.49:845][619]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.11.23-16.34.49:845][619]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.11.23-16.34.49:846][619]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.11.23-16.34.49:846][619]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.11.23-16.34.49:846][619]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.11.23-16.34.49:846][619]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.11.23-16.34.49:846][619]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.11.23-16.34.49:846][619]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.11.23-16.34.49:846][619]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.11.23-16.34.49:846][619]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.11.23-16.34.49:846][619]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.11.23-16.34.49:846][619]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.11.23-16.34.49:846][619]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.11.23-16.34.49:846][619]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.11.23-16.34.49:846][619]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.11.23-16.34.49:847][619]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.11.23-16.34.49:847][619]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.11.23-16.34.49:847][619]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.11.23-16.34.49:847][619]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.11.23-16.34.49:847][619]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.11.23-16.34.49:847][619]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.11.23-16.34.49:847][619]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.11.23-16.34.49:847][619]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.11.23-16.34.49:847][619]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.11.23-16.34.49:847][619]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.11.23-16.34.49:848][619]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.11.23-16.34.49:848][619]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.11.23-16.34.49:848][619]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.11.23-16.34.49:848][619]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.11.23-16.34.49:848][619]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.11.23-16.34.49:848][619]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.11.23-16.34.49:968][619]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.11.23-16.34.49:968][619]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.11.23-16.34.49:968][619]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.11.23-16.34.49:968][619]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.11.23-16.34.49:968][619]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.11.23-16.34.49:969][619]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.11.23-16.34.49:969][619]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.11.23-16.34.49:969][619]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.11.23-16.34.49:969][619]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.11.23-16.34.49:969][619]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.11.23-16.34.49:969][619]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.11.23-16.34.49:969][619]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.11.23-16.34.49:969][619]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.11.23-16.34.49:969][619]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.11.23-16.34.49:969][619]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.11.23-16.34.49:969][619]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.11.23-16.34.49:969][619]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.11.23-16.34.49:969][619]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.11.23-16.34.49:969][619]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.11.23-16.34.49:969][619]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.11.23-16.34.49:970][619]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.11.23-16.34.49:970][619]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.11.23-16.34.49:970][619]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.11.23-16.34.50:014][619]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.11.23-16.34.50:014][619]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.11.23-16.34.50:014][619]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.11.23-16.34.50:014][619]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.11.23-16.34.50:014][619]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.11.23-16.34.50:014][619]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.11.23-16.34.50:014][619]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.11.23-16.34.50:015][619]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.11.23-16.34.50:015][619]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.11.23-16.34.50:015][619]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.11.23-16.34.50:015][619]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.11.23-16.34.50:032][619]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.11.23-16.34.50:032][619]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.11.23-16.34.50:035][619]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.11.23-16.34.50:035][619]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.11.23-16.34.50:035][619]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.11.23-16.34.50:035][619]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.11.23-16.34.50:035][619]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.11.23-16.34.50:035][619]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.11.23-16.34.50:035][619]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.11.23-16.34.50:035][619]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.11.23-16.34.50:035][619]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.11.23-16.34.50:035][619]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.11.23-16.34.50:035][619]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.11.23-16.34.50:035][619]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.11.23-16.34.50:035][619]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.11.23-16.34.50:036][619]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.11.23-16.34.50:036][619]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.11.23-16.34.50:036][619]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.11.23-16.34.50:036][619]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.11.23-16.34.50:036][619]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.11.23-16.34.50:036][619]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.11.23-16.34.50:036][619]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.11.23-16.34.50:036][619]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.11.23-16.34.50:036][619]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.11.23-16.34.50:041][619]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.11.23-16.34.50:099][619]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.11.23-16.34.50:099][619]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.11.23-16.34.50:099][619]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.11.23-16.34.50:099][619]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.11.23-16.34.50:099][619]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.11.23-16.34.50:099][619]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.11.23-16.34.50:099][619]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.11.23-16.34.50:099][619]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.11.23-16.34.50:099][619]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.11.23-16.34.50:099][619]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.11.23-16.34.50:099][619]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.11.23-16.34.50:099][619]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.11.23-16.34.50:099][619]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.11.23-16.34.50:099][619]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.11.23-16.34.50:100][619]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.11.23-16.34.50:100][619]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.11.23-16.34.50:100][619]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.11.23-16.34.50:100][619]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.11.23-16.34.50:100][619]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.11.23-16.34.50:100][619]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.11.23-16.34.50:101][619]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.11.23-16.34.50:101][619]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.11.23-16.34.50:102][619]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.11.23-16.34.50:102][619]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.11.23-16.34.50:102][619]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.11.23-16.34.50:102][619]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.11.23-16.34.50:102][619]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.11.23-16.34.50:103][619]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.11.23-16.34.50:103][619]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.11.23-16.34.50:103][619]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.11.23-16.34.50:103][619]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.11.23-16.34.50:103][619]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.11.23-16.34.50:103][619]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.11.23-16.34.50:103][619]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.11.23-16.34.50:103][619]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.11.23-16.34.50:103][619]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.11.23-16.34.50:103][619]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.11.23-16.34.50:103][619]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.11.23-16.34.50:103][619]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.11.23-16.34.50:103][619]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.11.23-16.34.50:103][619]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.11.23-16.34.50:103][619]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.11.23-16.34.50:103][619]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.11.23-16.34.50:103][619]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.11.23-16.34.50:104][619]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.11.23-16.34.50:205][619]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.11.23-16.34.50:306][619]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.11.23-16.34.50:306][619]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.11.23-16.34.50:306][619]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.11.23-16.34.50:306][619]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.11.23-16.34.50:306][619]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.11.23-16.34.50:306][619]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.23-16.34.50:306][619]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.11.23-16.34.50:306][619]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.11.23-16.34.50:306][619]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.11.23-16.34.50:306][619]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.11.23-16.34.50:306][619]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.11.23-16.34.50:306][619]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.11.23-16.34.50:306][619]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.11.23-16.34.50:306][619]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.11.23-16.34.50:307][619]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.11.23-16.34.50:307][619]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.11.23-16.34.50:307][619]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.11.23-16.34.50:307][619]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.11.23-16.34.50:308][619]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.11.23-16.34.50:309][619]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.11.23-16.34.50:310][619]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.11.23-16.34.50:310][619]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.11.23-16.34.50:310][619]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.11.23-16.34.50:310][619]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.11.23-16.34.50:310][619]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.11.23-16.34.50:310][619]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.11.23-16.34.50:310][619]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.11.23-16.34.50:310][619]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.11.23-16.34.50:312][619]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.11.23-16.34.50:312][619]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.11.23-16.34.50:312][619]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.11.23-16.34.50:312][619]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.11.23-16.34.50:312][619]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.11.23-16.34.50:312][619]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.11.23-16.34.50:312][619]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.11.23-16.34.50:312][619]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.11.23-16.34.50:312][619]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.11.23-16.34.50:312][619]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.11.23-16.34.50:312][619]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.11.23-16.34.50:312][619]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.11.23-16.34.50:312][619]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.11.23-16.34.50:312][619]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.11.23-16.34.50:312][619]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.11.23-16.34.50:312][619]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.11.23-16.34.50:326][619]LogDerivedDataCache: Shutdown
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.11.23-16.34.50:326][619]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.11.23-16.34.50:327][619]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.11.23-16.34.50:327][619]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.11.23-16.34.50:327][619]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.11.23-16.34.50:327][619]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.11.23-16.34.50:327][619]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.11.23-16.34.50:328][619]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.11.23-16.34.50:328][619]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.11.23-16.34.50:329][619]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.11.23-16.34.50:329][619]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.11.23-16.34.50:337][619]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.11.23-16.34.50:337][619]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.11.23-16.34.50:337][619]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.11.23-16.34.50:337][619]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.11.23-16.34.50:337][619]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.11.23-16.34.50:337][619]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.11.23-16.34.50:338][619]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.11.23-16.34.50:338][619]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.11.23-16.34.50:338][619]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.11.23-16.34.50:338][619]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.11.23-16.34.50:338][619]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.11.23-16.34.50:338][619]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.11.23-16.34.50:338][619]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.11.23-16.34.50:339][619]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.11.23-16.34.50:339][619]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.23-16.34.50:339][619]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.11.23-16.34.50:339][619]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.11.23-16.34.50:339][619]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.11.23-16.34.50:339][619]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.11.23-16.34.50:339][619]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.11.23-16.34.50:340][619]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.11.23-16.34.50:340][619]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.11.23-16.34.50:351][619]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.11.23-16.34.50:351][619]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.23-16.34.50:351][619]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5F44B5C3-42E2-1CD5-3276-209405489561%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1d2f0fcd462c5ebb21d2f9b7ad1f5b8c%7C2cf7905d443c487fbebac155e216fbf4%7C9d2cb2eb-42eb-4ee1-bc7d-e920e3910ca0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.23-16.34.50:358][619]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.11.23-16.34.50:360][619]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.11.23-16.34.50:361][619]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.11.23-16.34.50:367][619]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.11.23-16.34.50:367][619]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.11.23-16.34.50:368][619]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.23-16.34.50:368][619]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.23-16.34.50:368][619]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.23-16.34.50:368][619]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.23-16.34.50:368][619]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.23-16.34.50:368][619]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.23-16.34.50:368][619]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.23-16.34.50:369][619]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.23-16.34.50:370][619]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.23-16.34.50:370][619]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.23-16.34.50:370][619]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.23-16.34.50:370][619]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.23-16.34.50:370][619]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.23-16.34.50:370][619]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.23-16.34.50:370][619]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.23-16.34.50:370][619]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.23-16.34.50:370][619]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.23-16.34.50:370][619]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.23-16.34.50:370][619]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.23-16.34.50:378][619]LogExit: Exiting.
+[2019.11.23-16.34.50:395][619]Log file closed, 11/23/19 11:34:50
