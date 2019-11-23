@@ -2811,8 +2811,11 @@ Script Stack (0 frames):
 [2019.11.21-08.24.16:429][248]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMapAFEB88FE4FD85C8BC5E4D4B7342A764E.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.11.21-08.24.16:870][248]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap_BuiltData6ED16E9F44063365913D91A2AC7D3035.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
+=======
+>>>>>>> Stashed changes
 [2019.11.21-08.25.08:818][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.21-08.25.11:563][598]Cmd: BRUSH ADD SELECTNEWBRUSH
 [2019.11.21-08.25.11:916][622]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
@@ -4793,4 +4796,7 @@ Script Stack (0 frames):
 [2019.11.22-07.04.12:356][395]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
 [2019.11.22-07.04.14:408][395]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap5D3C76BC4498BA0CEA8F77BB9E777731.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.11.22-07.04.14:896][395]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap_BuiltData1C61B1C0414660E374B7D0B936F56E69.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
