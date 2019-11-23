@@ -2167,4 +2167,7 @@ Script Stack (0 frames):
 [2019.11.20-10.04.46:743][891]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
 [2019.11.20-10.04.47:174][891]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMapECAE422F44571349273C398F4430EB29.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.11.20-10.04.47:453][891]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonExampleMap_BuiltData0752B5644842AA7FB9292A8FCBA7D930.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
