@@ -9797,3 +9797,315 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.03-08.50.57:672][677]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station471230834250B17E240A45BEB08AB935.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
 [2019.12.03-08.50.57:765][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
 [2019.12.03-08.50.58:099][677]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_BuiltData23207FE147B204628E7338B973F92C4A.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.12.03-08.54.52:474][692]LogGeometryMode: Warning: Unable to find BoxBrush84 Brush(s) in new BSP
+[2019.12.03-08.54.52:475][692]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-08.55.17:055][919]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush200)
+[2019.12.03-08.55.17:117][919]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-08.55.28:391][893]LogGeometryMode: Warning: Unable to find BoxBrush99 Brush(s) in new BSP
+[2019.12.03-08.55.28:391][893]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-08.55.36:455][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.55.41:147][102]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.03-08.56.04:824][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.56.15:708][309]LogGeometryMode: Warning: Unable to find BoxBrush200 Brush(s) in new BSP
+[2019.12.03-08.56.15:708][309]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-08.56.21:955][852]LogGeometryMode: Warning: Unable to find BoxBrush84 Brush(s) in new BSP
+[2019.12.03-08.56.21:955][852]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-08.56.23:001][940]Cmd: TRANSACTION UNDO
+[2019.12.03-08.56.23:012][940]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.03-08.56.23:615][960]Cmd: TRANSACTION UNDO
+[2019.12.03-08.56.23:615][960]LogEditorTransaction: Undo Modifier [Edit]
+[2019.12.03-08.56.24:293][ 17]Cmd: TRANSACTION UNDO
+[2019.12.03-08.56.24:293][ 17]LogEditorTransaction: Undo Modifier [Edit]
+[2019.12.03-08.56.24:834][ 64]Cmd: TRANSACTION UNDO
+[2019.12.03-08.56.24:834][ 64]LogEditorTransaction: Undo Modifier [Edit]
+[2019.12.03-08.56.25:659][137]Cmd: TRANSACTION UNDO
+[2019.12.03-08.56.25:659][137]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.03-08.56.33:751][860]LogGeometryMode: Warning: Unable to find BoxBrush200 Brush(s) in new BSP
+[2019.12.03-08.56.33:751][860]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-08.56.35:740][ 51]Cmd: TRANSACTION UNDO
+[2019.12.03-08.56.35:740][ 51]LogEditorTransaction: Undo Modifier [Edit]
+[2019.12.03-08.56.36:236][ 76]Cmd: TRANSACTION UNDO
+[2019.12.03-08.56.36:236][ 76]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.03-08.56.52:425][704]Cmd: DELETE
+[2019.12.03-08.56.52:426][704]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.12.03-08.56.52:426][704]LogGeometryMode: Warning: Unable to resolve BoxBrush201 Brush in new BSP, see above
+[2019.12.03-08.56.52:426][704]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-08.56.54:876][903]Cmd: TRANSACTION UNDO
+[2019.12.03-08.56.54:876][903]LogEditorTransaction: Undo Modifier [Delete]
+[2019.12.03-08.56.56:037][946]LogGeometryMode: Warning: Unable to find BoxBrush84 Brush(s) in new BSP
+[2019.12.03-08.56.56:037][946]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-08.56.57:185][ 52]Cmd: TRANSACTION UNDO
+[2019.12.03-08.56.57:185][ 52]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.03-08.56.59:048][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.56.59:909][284]Cmd: DELETE
+[2019.12.03-08.56.59:909][284]Cmd: ACTOR DELETE
+[2019.12.03-08.56.59:988][284]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-08.57.00:115][284]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2019.12.03-08.57.00:440][284]LogEditorActor: Deleted 1 Actors (0.530 secs)
+[2019.12.03-08.57.17:594][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.57.21:066][ 28]Cmd: TRANSACTION UNDO
+[2019.12.03-08.57.21:066][ 28]LogEditorTransaction: Undo Move Actors
+[2019.12.03-08.57.33:430][959]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-08.57.50:198][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-08.58.24:034][543]LogEditorViewport: Clicking on Actor (LMB): sliding_door_C (sliding_door10)
+[2019.12.03-08.58.36:862][622]LogEditorViewport: Clicking on Actor (CTRL LMB): sliding_door_C (sliding_door10)
+[2019.12.03-08.58.44:890][239]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-08.58.49:769][742]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-08.59.02:580][896]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-08.59.04:545][ 22]Cmd: TRANSACTION UNDO
+[2019.12.03-08.59.04:545][ 22]LogEditorTransaction: Undo Select Surfaces
+[2019.12.03-08.59.08:604][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-08.59.09:440][374]LogEditorViewport: Clicking on Actor (LMB): sliding_door_C (sliding_door11)
+[2019.12.03-08.59.10:485][463]Cmd: TRANSACTION UNDO
+[2019.12.03-08.59.10:486][463]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.03-08.59.11:734][547]Cmd: TRANSACTION UNDO
+[2019.12.03-08.59.11:734][547]LogEditorTransaction: Undo Select Surfaces
+[2019.12.03-08.59.39:066][ 11]Cmd: EDCALLBACK SURFPROPS
+[2019.12.03-08.59.40:753][167]Cmd: EDCALLBACK SURFPROPS
+[2019.12.03-08.59.42:698][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.59.44:057][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-08.59.44:811][562]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-08.59.44:811][562]Can't find target actor or component.
+[2019.12.03-08.59.46:110][697]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-08.59.46:110][697]Can't find target actor or component.
+[2019.12.03-08.59.46:689][759]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-08.59.48:106][888]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-08.59.48:338][905]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-08.59.50:346][ 79]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush84)
+[2019.12.03-08.59.52:288][237]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush84)
+[2019.12.03-08.59.53:356][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-08.59.59:864][891]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-08.59.59:942][898]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush201)
+[2019.12.03-09.00.01:595][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-09.00.16:332][191]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-09.00.22:008][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.00.30:610][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.00.37:424][156]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-09.00.38:704][272]LogEditorViewport: Clicking Background
+[2019.12.03-09.00.40:323][451]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-09.00.41:874][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.00.42:725][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.00.42:825][663]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-09.00.42:847][663]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.03-09.00.42:847][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-09.00.42:847][663]PIE: New page: PIE session: Station (Dec 2, 2019, 11:00:42 PM)
+[2019.12.03-09.00.42:848][663]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.03-09.00.43:006][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.157896s)
+[2019.12.03-09.00.43:007][663]LogAIModule: Creating AISystem for world Station
+[2019.12.03-09.00.43:007][663]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2019.12.03-09.00.43:007][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.159050s)
+[2019.12.03-09.00.43:179][663]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2019.12.03-09.00.43:250][663]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.03-09.00.43:269][663]LogInit: FAudioDevice initialized.
+[2019.12.03-09.00.43:296][663]LogLoad: Game class is 'GameModeBase'
+[2019.12.03-09.00.43:312][663]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.03-04.00.43
+[2019.12.03-09.00.43:313][663]LogWorld: Bringing up level for play took: 0.016338
+[2019.12.03-09.00.43:327][663]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 1.305
+[2019.12.03-09.00.43:337][663]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.03-09.03.09:817][665]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.03-09.03.09:818][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.03.09:855][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-09.03.09:855][665]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.03-09.03.09:961][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.03.09:988][665]LogUObjectHash: Compacting FUObjectHashTables data took  10.16ms
+[2019.12.03-09.03.10:038][666]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2019.12.03-09.03.11:162][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-09.03.19:518][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.03.44:966][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.12.03-09.03.46:550][584]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_Auto62B07AA5B4187EFB9198164A9DC4F236A.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto6.umap'
+[2019.12.03-09.03.46:561][584]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 1.664
+[2019.12.03-09.03.46:561][584]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.664
+[2019.12.03-09.03.48:823][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-09.03.48:928][592]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush201)
+[2019.12.03-09.03.50:727][723]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush201)
+[2019.12.03-09.03.52:337][833]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-09.03.52:459][839]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-09.03.59:964][283]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-09.04.00:135][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-09.04.18:777][621]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush84)
+[2019.12.03-09.04.23:424][978]LogEditorViewport: Clicking on Actor (LMB): sliding_door_C (sliding_door11)
+[2019.12.03-09.04.24:722][ 70]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush202)
+[2019.12.03-09.04.27:079][271]LogEditorViewport: Clicking on Actor (CTRL LMB): sliding_door_C (sliding_door11)
+[2019.12.03-09.04.32:391][700]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-09.04.45:036][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.05.14:565][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.05.32:803][599]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-09.05.34:491][746]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-09.05.40:267][ 94]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-09.05.49:024][744]Cmd: TRANSACTION UNDO
+[2019.12.03-09.05.49:024][744]LogEditorTransaction: Undo Move Actors
+[2019.12.03-09.05.50:090][776]Cmd: TRANSACTION UNDO
+[2019.12.03-09.05.50:090][776]LogEditorTransaction: Undo Move Actors
+[2019.12.03-09.05.57:147][334]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-09.05.59:228][507]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-09.06.16:711][700]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-09.06.17:098][734]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-09.06.20:680][  9]Cmd: TRANSACTION UNDO
+[2019.12.03-09.06.20:680][  9]LogEditorTransaction: Undo Move Actors
+[2019.12.03-09.06.21:316][  9]Cmd: TRANSACTION UNDO
+[2019.12.03-09.06.21:316][  9]LogEditorTransaction: Undo Move Actors
+[2019.12.03-09.06.21:883][  9]Cmd: TRANSACTION UNDO
+[2019.12.03-09.06.21:883][  9]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.03-09.06.22:170][ 10]Cmd: TRANSACTION UNDO
+[2019.12.03-09.06.22:170][ 10]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.03-09.06.25:216][234]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-09.06.36:267][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-09.06.37:164][ 99]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-09.06.43:130][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-09.06.43:358][535]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-09.06.45:565][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.06.51:957][208]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-09.07.28:425][ 46]Cmd: TRANSACTION UNDO
+[2019.12.03-09.07.28:425][ 46]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.03-09.07.34:266][532]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush209)
+[2019.12.03-09.07.35:213][618]Cmd: DELETE
+[2019.12.03-09.07.35:214][618]Cmd: ACTOR DELETE
+[2019.12.03-09.07.35:299][618]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-09.07.35:444][618]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2019.12.03-09.07.35:779][618]LogEditorActor: Deleted 1 Actors (0.565 secs)
+[2019.12.03-09.07.48:936][855]Cmd: TRANSACTION UNDO
+[2019.12.03-09.07.48:936][855]LogEditorTransaction: Undo Move Actors
+[2019.12.03-09.07.53:269][141]Cmd: TRANSACTION UNDO
+[2019.12.03-09.07.53:269][141]LogEditorTransaction: Undo Move Actors
+[2019.12.03-09.08.13:057][632]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-09.08.16:169][911]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush210)
+[2019.12.03-09.08.25:264][700]Cmd: TRANSACTION UNDO
+[2019.12.03-09.08.25:264][700]LogEditorTransaction: Undo Move Actors
+[2019.12.03-09.08.25:934][700]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.12.03-09.08.25:934][700]LogGeometryMode: Warning: Unable to resolve BoxBrush210 Brush in new BSP, see above
+[2019.12.03-09.08.25:934][700]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-09.08.31:747][201]LogGeometryMode: Warning: Unable to find BoxBrush97 Brush(s) in new BSP
+[2019.12.03-09.08.31:747][201]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-09.08.38:405][706]Cmd: DELETE
+[2019.12.03-09.08.38:848][706]Cmd: ACTOR DELETE
+[2019.12.03-09.08.38:920][706]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-09.08.39:059][706]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2019.12.03-09.08.39:396][706]LogEditorActor: Deleted 1 Actors (0.547 secs)
+[2019.12.03-09.08.41:195][866]Cmd: TRANSACTION UNDO
+[2019.12.03-09.08.41:195][866]LogEditorTransaction: Undo Delete Actors
+[2019.12.03-09.08.45:587][223]Cmd: DELETE
+[2019.12.03-09.08.45:588][223]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.12.03-09.08.45:588][223]LogGeometryMode: Warning: Unable to resolve BoxBrush212 Brush in new BSP, see above
+[2019.12.03-09.08.45:588][223]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-09.08.49:250][522]Cmd: TRANSACTION UNDO
+[2019.12.03-09.08.49:250][522]LogEditorTransaction: Undo Modifier [Delete]
+[2019.12.03-09.08.50:298][561]Cmd: TRANSACTION UNDO
+[2019.12.03-09.08.50:298][561]LogEditorTransaction: Undo Modifier [Edit]
+[2019.12.03-09.08.50:798][605]Cmd: TRANSACTION UNDO
+[2019.12.03-09.08.50:798][605]LogEditorTransaction: Undo Modifier [Delete]
+[2019.12.03-09.08.51:730][644]Cmd: TRANSACTION UNDO
+[2019.12.03-09.08.51:730][644]LogEditorTransaction: Undo Move Actors
+[2019.12.03-09.08.52:219][644]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/Station.Station:PersistentLevel.BoxBrush211_31.BrushComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.12.03-09.09.32:225][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.09.40:494][ 67]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.03-09.10.06:563][476]Cmd: TRANSACTION UNDO
+[2019.12.03-09.10.06:563][476]LogEditorTransaction: Undo Move Actors
+[2019.12.03-09.10.07:323][476]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.12.03-09.10.07:323][476]LogGeometryMode: Warning: Unable to resolve BoxBrush209 Brush in new BSP, see above
+[2019.12.03-09.10.07:323][476]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-09.10.14:926][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.10.17:713][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.10.25:309][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.10.28:216][187]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.03-09.10.36:162][757]Cmd: DELETE
+[2019.12.03-09.10.36:162][757]Cmd: ACTOR DELETE
+[2019.12.03-09.10.36:235][757]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-09.10.36:352][757]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2019.12.03-09.10.36:664][757]LogEditorActor: Deleted 1 Actors (0.502 secs)
+[2019.12.03-09.10.57:586][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.11.12:939][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.11.18:131][313]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.03-09.11.19:246][372]Cmd: DELETE
+[2019.12.03-09.11.19:246][372]Cmd: ACTOR DELETE
+[2019.12.03-09.11.19:305][372]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-09.11.19:391][372]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2019.12.03-09.11.19:769][372]LogEditorActor: Deleted 1 Actors (0.522 secs)
+[2019.12.03-09.11.25:371][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.11.29:763][302]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.03-09.11.37:430][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.11.51:362][301]Cmd: DELETE
+[2019.12.03-09.11.51:362][301]Cmd: ACTOR DELETE
+[2019.12.03-09.11.51:420][301]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-09.11.51:521][301]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2019.12.03-09.11.51:943][301]LogEditorActor: Deleted 1 Actors (0.580 secs)
+[2019.12.03-09.12.08:807][605]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-09.12.28:682][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.12.34:217][770]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.03-09.12.40:624][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.13.12:654][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.13.25:814][363]LogGeometryMode: Warning: Unable to find BoxBrush195 Brush(s) in new BSP
+[2019.12.03-09.13.25:814][363]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-09.13.36:056][363]LogGeometryMode: Warning: Unable to find BoxBrush197 Brush(s) in new BSP
+[2019.12.03-09.13.36:056][363]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-09.13.40:976][804]LogGeometryMode: Warning: Unable to find BoxBrush196 Brush(s) in new BSP
+[2019.12.03-09.13.40:976][804]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-09.13.43:063][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.14.07:768][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.15.36:416][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.16.17:529][680]LogUObjectHash: Compacting FUObjectHashTables data took   7.59ms
+[2019.12.03-09.16.19:481][680]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_Auto7DDD172D045CD947BFD4348B787CA2BE3.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto7.umap'
+[2019.12.03-09.16.19:491][680]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 2.119
+[2019.12.03-09.16.19:491][680]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.119
+[2019.12.03-09.16.22:815][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-09.16.35:011][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.16.35:818][792]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.03-09.16.49:875][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.17.26:685][543]LogGeometryMode: Warning: Unable to find BoxBrush218 Brush(s) in new BSP
+[2019.12.03-09.17.26:685][543]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-09.17.58:152][416]LogGeometryMode: Warning: Unable to find BoxBrush218 Brush(s) in new BSP
+[2019.12.03-09.17.58:152][416]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-09.18.11:883][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.18.15:462][946]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.03-09.18.34:078][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.18.48:282][487]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush223)
+[2019.12.03-09.19.20:684][899]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush223)
+[2019.12.03-09.19.21:268][943]Cmd: DELETE
+[2019.12.03-09.19.21:268][943]Cmd: ACTOR DELETE
+[2019.12.03-09.19.21:392][943]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-09.19.21:576][943]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2019.12.03-09.19.21:891][943]LogEditorActor: Deleted 1 Actors (0.623 secs)
+[2019.12.03-09.20.10:986][101]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush222)
+[2019.12.03-09.20.16:094][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.20.18:981][758]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.03-09.20.34:531][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.20.52:055][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.20.52:114][702]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-09.20.52:136][702]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.03-09.20.52:136][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-09.20.52:136][702]PIE: New page: PIE session: Station (Dec 2, 2019, 11:20:52 PM)
+[2019.12.03-09.20.52:137][702]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.03-09.20.52:285][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.148018s)
+[2019.12.03-09.20.52:285][702]LogAIModule: Creating AISystem for world Station
+[2019.12.03-09.20.52:286][702]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2019.12.03-09.20.52:286][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.149157s)
+[2019.12.03-09.20.52:429][702]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2019.12.03-09.20.52:493][702]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.03-09.20.52:511][702]LogInit: FAudioDevice initialized.
+[2019.12.03-09.20.52:543][702]LogLoad: Game class is 'GameModeBase'
+[2019.12.03-09.20.52:557][702]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.03-04.20.52
+[2019.12.03-09.20.52:558][702]LogWorld: Bringing up level for play took: 0.013917
+[2019.12.03-09.20.52:572][702]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 0.549
+[2019.12.03-09.20.52:572][702]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.03-09.24.42:443][338]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.03-09.24.42:443][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.24.42:482][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-09.24.42:483][338]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.03-09.24.42:563][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.24.42:576][338]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2019.12.03-09.24.42:598][339]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2019.12.03-09.24.51:096][144]LogGeometryMode: Warning: Unable to find BoxBrush212 Brush(s) in new BSP
+[2019.12.03-09.24.51:096][144]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-09.25.25:390][288]LogGeometryMode: Warning: Unable to find BoxBrush201_16 Brush(s) in new BSP
+[2019.12.03-09.25.25:390][288]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-09.25.47:657][599]Cmd: EDCALLBACK SURFPROPS
+[2019.12.03-09.25.51:972][ 32]LogGeometryMode: Warning: Unable to find BoxBrush225 Brush(s) in new BSP
+[2019.12.03-09.25.51:972][ 32]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.03-09.25.52:568][ 85]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush225)
+[2019.12.03-09.26.07:539][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.26.55:274][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.27.27:923][856]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-09.27.27:943][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-09.27.28:090][856]LogUObjectHash: Compacting FUObjectHashTables data took   8.73ms
+[2019.12.03-09.27.29:780][856]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/StationD5C07F7144272AE917594DAFED1C235A.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.12.03-09.27.29:859][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.12.03-09.27.30:158][856]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_BuiltData81F3CD8B43FE57D3DE460AA7CBBB5C9A.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
