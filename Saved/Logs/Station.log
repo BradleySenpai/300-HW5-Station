@@ -11342,3 +11342,594 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.04-09.17.22:864][208]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/StationCB77631E4ABC852743BE248C157E6151.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
 [2019.12.04-09.17.22:909][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
 [2019.12.04-09.17.23:311][208]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_BuiltData444325B6464065C1751F7DBA98DE3B41.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.12.04-09.21.44:878][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-09.22.03:422][178]LogAssetEditorManager: Opening Asset editor for Material /Game/assests/material/screen.screen
+[2019.12.04-09.22.03:455][178]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-09.22.04:993][178]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-09.22.05:150][178]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.22.05:155][178]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-09.22.06:614][209]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.22.09:785][314]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-09.22.17:789][659]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-09.22.17:790][659]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-09.22.17:790][659]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-09.22.17:790][659]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-09.24.43:269][791]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-09.24.43:395][792]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.24.43:407][792]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.12.04-09.24.44:827][833]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.24.46:092][906]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-09.24.47:543][969]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.24.49:800][ 58]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-09.24.53:063][207]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-09.24.53:063][207]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-09.24.53:063][207]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-09.24.53:063][207]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-09.27.21:660][391]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2019.12.04-09.27.21:661][391]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 0.079
+[2019.12.04-09.27.21:664][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assests/material/screen] ([1] browsable assets)...
+[2019.12.04-09.27.21:705][391]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assests/material/screen.screen]
+[2019.12.04-09.27.21:705][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/assests/material/screen]
+[2019.12.04-09.27.21:738][391]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/screen_Auto3DFCDD56947B8D07ECE7D05BEA96CE139.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/assests/material/screen_Auto3.uasset'
+[2019.12.04-09.27.21:741][391]LogFileHelpers: Auto-saving content packages took 0.079
+[2019.12.04-09.27.53:483][385]LogAssetEditorManager: Opening Asset editor for Material /Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.TutorialMaterial
+[2019.12.04-09.27.53:488][385]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.27.53:515][385]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2019.12.04-09.27.53:631][385]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.27.53:730][385]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.27.53:814][385]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.27.54:156][385]LogSlate: Window 'Tutorials' being destroyed
+[2019.12.04-09.27.56:215][484]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-09.27.57:631][560]LogUObjectGlobals: Warning: Failed to find object 'Object None.MaterialEditor_MaterialProperties'
+[2019.12.04-09.27.57:632][560]LogUObjectGlobals: Warning: Failed to find object 'Object None.MaterialEditor_MaterialProperties'
+[2019.12.04-09.27.57:854][572]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2019.12.04-09.27.57:855][572]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2019.12.04-09.27.58:325][600]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2019.12.04-09.27.58:326][600]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2019.12.04-09.27.58:783][628]LogUObjectGlobals: Warning: Failed to find object 'Object None.MaterialPalette'
+[2019.12.04-09.27.58:784][628]LogUObjectGlobals: Warning: Failed to find object 'Object None.MaterialPalette'
+[2019.12.04-09.28.00:337][719]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2019.12.04-09.28.00:339][719]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2019.12.04-09.28.00:530][729]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-09.28.00:530][729]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-09.28.00:530][729]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-09.28.00:530][729]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-09.28.18:325][904]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.28.18:415][905]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.28.20:048][  4]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.28.20:422][ 22]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.28.23:266][205]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-09.28.28:803][542]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-09.28.28:803][542]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-09.28.28:803][542]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-09.28.28:803][542]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-09.29.07:884][221]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.29.07:995][222]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.29.15:645][581]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-09.29.21:337][719]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-09.29.21:337][719]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-09.29.21:337][719]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-09.29.21:337][719]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-09.52.02:206][375]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.02:237][376]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.52.05:507][578]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-09.52.05:666][587]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_1, compiling. 
+[2019.12.04-09.52.06:279][621]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-09.52.11:885][915]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-09.52.11:885][915]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-09.52.11:885][915]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-09.52.11:885][915]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-09.52.12:615][955]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.13:189][990]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.52.13:768][ 19]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_1, compiling. 
+[2019.12.04-09.52.15:259][107]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.52.15:267][107]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.16:737][189]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.17:214][216]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.52.20:483][416]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-09.52.20:859][438]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.20:895][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.52.22:523][536]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.52.26:577][767]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.52.26:614][767]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.27:871][812]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.52.27:908][812]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.29:187][868]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.52.29:204][868]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.52.29:221][868]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.30:543][930]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.52.31:635][979]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.31:673][979]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.52.32:366][ 11]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.52.34:872][142]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-09.52.38:103][271]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-09.52.38:103][271]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-09.52.38:103][271]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-09.52.38:103][271]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-09.52.38:703][299]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.04-09.52.42:199][523]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.52.42:232][523]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.42:768][551]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.52.43:534][589]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.52.43:569][589]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.44:184][623]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.52.44:616][646]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.52.44:651][646]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.45:415][689]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.52.45:489][693]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.45:525][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.52.45:565][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.52.45:601][693]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.45:633][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.52.45:675][693]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.45:699][693]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.04-09.52.46:597][751]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.52.48:733][880]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-09.52.51:408][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-09.52.51:502][ 48]LogMaterialEditor: Applying material TutorialMaterial
+[2019.12.04-09.52.54:153][ 48]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.54:223][ 48]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.52.54:268][ 48]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.54:333][ 48]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.52.54:530][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.12.04-09.52.54:560][ 48]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.04-09.52.54:560][ 48]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.04-09.52.57:881][ 48]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.04-09.52.57:881][ 48]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-09.52.57:887][ 48]TextureStreamingBuild: Display: Compiling optional shaders took 3.343 seconds.
+[2019.12.04-09.52.57:962][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.12.04-09.53.02:960][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-09.53.03:377][375]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-09.53.03:377][375]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-09.53.03:378][375]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-09.53.03:378][375]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-09.53.07:870][672]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.53.07:891][672]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.53.07:891][672]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.53.07:924][672]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.53.07:963][673]LogEditorTransaction: Undo Edit R
+[2019.12.04-09.53.07:968][673]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.53.08:004][673]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.53.08:038][673]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.53.08:087][673]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-09.53.08:889][706]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.04-09.53.08:929][707]LogEditorTransaction: Undo Edit Constant
+[2019.12.04-09.53.08:935][707]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.53.08:961][707]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.53.08:992][707]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.53.09:038][707]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-09.53.09:878][750]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.04-09.53.12:384][868]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-09.53.14:530][994]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-09.53.14:530][994]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-09.53.14:530][994]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-09.53.14:530][994]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-09.53.14:992][ 22]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.53.15:255][ 37]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.53.15:286][ 37]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.53.15:607][ 52]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.04-09.53.18:145][182]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-09.53.20:224][292]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-09.53.20:224][292]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-09.53.20:224][292]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-09.53.20:224][292]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-09.53.20:521][307]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.53.20:928][326]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.53.20:955][326]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.53.21:587][361]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.53.22:843][423]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.53.22:871][423]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.53.23:626][460]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.53.25:455][553]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-09.53.26:968][644]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.53.27:004][644]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-09.53.27:036][644]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.04-09.53.27:873][697]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.53.29:926][818]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-09.53.32:449][973]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-09.53.32:449][973]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-09.53.32:449][973]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-09.53.32:449][973]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-09.54.08:974][896]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.12.04-09.54.08:974][896]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 0.101
+[2019.12.04-09.54.08:980][896]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial] ([1] browsable assets)...
+[2019.12.04-09.54.09:033][896]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.TutorialMaterial]
+[2019.12.04-09.54.09:034][896]OBJ SavePackage: Finished generating thumbnails for package [/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial]
+[2019.12.04-09.54.09:120][896]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/TutorialMaterial_Auto4F19ECACE405768316C8222B540EB7BEB.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial_Auto4.uasset'
+[2019.12.04-09.54.09:128][896]LogFileHelpers: Auto-saving content packages took 0.152
+[2019.12.04-09.54.15:650][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-09.54.18:354][ 67]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.54.18:424][ 68]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.54.25:165][447]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-09.54.26:284][513]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-09.54.27:611][589]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-09.54.31:123][788]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-09.54.36:684][ 96]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-09.54.36:684][ 96]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-09.54.36:684][ 96]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-09.54.36:684][ 96]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-10.01.44:966][783]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.12.04-10.01.45:926][785]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.12.04-10.01.56:203][470]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-10.01.56:225][470]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.01.56:225][470]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-10.01.58:202][578]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.01.58:661][603]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-10.02.00:980][722]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-10.02.01:565][752]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.02.05:941][989]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-10.02.08:538][127]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.02.09:766][199]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-10.02.09:803][199]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-10.02.11:486][281]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.02.12:152][319]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-10.02.14:298][426]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.02.17:164][591]LogMaterialEditor: Applying material screen
+[2019.12.04-10.02.18:675][591]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-10.02.18:808][591]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.02.18:825][591]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-10.02.18:876][591]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-10.02.19:033][591]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.12.04-10.02.19:085][591]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.04-10.02.24:213][591]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.04-10.02.24:213][591]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.02.24:216][591]TextureStreamingBuild: Display: Compiling optional shaders took 5.145 seconds.
+[2019.12.04-10.02.24:311][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.12.04-10.02.25:740][640]LogMaterialEditor: Saving and Compiling material screen
+[2019.12.04-10.02.30:532][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/material/screen" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/material/screen.uasset" SILENT=true
+[2019.12.04-10.02.30:554][640]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/screen01221A934302EFF9CBA9F581361533B2.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/material/screen.uasset'
+[2019.12.04-10.02.30:587][640]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-10.02.30:587][640]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-10.02.30:587][640]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-10.02.30:587][640]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-10.02.33:308][707]LogSlate: Window 'Message' being destroyed
+[2019.12.04-10.02.35:411][831]LogMaterialEditor: Saving and Compiling material screen
+[2019.12.04-10.02.35:429][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/material/screen" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/material/screen.uasset" SILENT=true
+[2019.12.04-10.02.35:474][831]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/screenF586DB564089194E15FC9883ECEE10B2.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/material/screen.uasset'
+[2019.12.04-10.02.36:670][904]LogMaterialEditor: Saving and Compiling material screen
+[2019.12.04-10.02.36:693][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/material/screen" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/material/screen.uasset" SILENT=true
+[2019.12.04-10.02.36:742][904]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/screen16B14F9D41C4214D68BE0F8FEA456A25.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/material/screen.uasset'
+[2019.12.04-10.03.14:626][361]Cmd: SELECT NONE
+[2019.12.04-10.03.39:958][706]LogSlate: Window 'Message' being destroyed
+[2019.12.04-10.03.40:954][761]LogMaterialEditor: Saving and Compiling material TutorialMaterial
+[2019.12.04-10.03.41:961][761]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-10.03.42:039][761]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.03.42:068][761]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-10.03.42:113][761]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-10.03.42:332][761]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2019.12.04-10.03.42:346][761]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.04-10.03.47:492][761]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.04-10.03.47:492][761]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.03.47:499][761]TextureStreamingBuild: Display: Compiling optional shaders took 5.167 seconds.
+[2019.12.04-10.03.47:587][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.12.04-10.03.52:236][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial" FILE="../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" SILENT=true
+[2019.12.04-10.03.52:319][761]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/TutorialMaterial22F605FA4EB5013F9A4733B5C2E7CC0F.tmp' to '../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset'
+[2019.12.04-10.04.04:800][335]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-10.04.04:832][336]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.04.06:544][431]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-10.04.07:372][477]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.04.08:605][550]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-10.04.08:657][550]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2019.12.04-10.04.10:842][658]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.04.13:048][777]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-10.04.15:652][932]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-10.04.16:210][960]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.04.18:053][ 59]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-10.04.18:093][ 59]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2019.12.04-10.04.19:243][119]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.04.20:118][170]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-10.04.22:006][276]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-10.04.22:913][322]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.04.23:273][338]LogMaterialEditor: Saving and Compiling material TutorialMaterial
+[2019.12.04-10.04.24:526][338]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-10.04.24:656][338]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-10.04.24:709][338]LogMaterial: Display: Missing cached shader map for material TutorialMaterial, compiling. 
+[2019.12.04-10.04.24:845][338]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.12.04-10.04.24:922][338]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.04-10.04.30:756][338]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.04-10.04.30:756][338]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.04.30:760][338]TextureStreamingBuild: Display: Compiling optional shaders took 5.851 seconds.
+[2019.12.04-10.04.30:841][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.12.04-10.04.35:338][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial" FILE="../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" SILENT=true
+[2019.12.04-10.04.35:387][338]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/TutorialMaterialE8EFBE1C4372AF9B72FC4A85A18F3450.tmp' to '../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset'
+[2019.12.04-10.04.35:409][338]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-10.04.35:409][338]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-10.04.35:409][338]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-10.04.35:409][338]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-10.04.39:786][582]LogSlate: Window 'TutorialMaterial' being destroyed
+[2019.12.04-10.04.57:120][830]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/assests/material/bluescreen.bluescreen
+[2019.12.04-10.04.57:346][830]LogRenderer: Reallocating scene render targets to support 1336x920 Format 10 NumSamples 1 (Frame:1).
+[2019.12.04-10.05.18:321][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-10.05.30:892][649]LogAssetEditorManager: Opening Asset editor for Material /Game/assests/material/screen.screen
+[2019.12.04-10.05.30:899][649]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.12.04-10.05.31:023][649]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.12.04-10.05.31:052][649]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.12.04-10.05.31:082][649]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.05.31:112][649]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-10.05.32:715][717]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.05.37:327][945]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-10.05.42:582][200]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-10.05.42:582][200]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-10.05.42:582][200]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-10.05.42:582][200]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-10.05.47:329][481]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.12.04-10.05.47:373][482]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.05.52:490][689]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-10.05.59:213][828]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-10.05.59:213][828]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-10.05.59:213][828]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-10.05.59:213][828]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-10.08.00:767][158]LogSlate: Window 'bluescreen' being destroyed
+[2019.12.04-10.08.00:774][158]LogSlate: Window 'bluescreen' being destroyed
+[2019.12.04-10.08.00:873][158]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2019.12.04-10.08.00:949][158]TextureStreamingBuild: Display: Compiling optional shaders took 0.010 seconds.
+[2019.12.04-10.08.01:040][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.12.04-10.08.01:972][195]LogAssetEditorManager: Opening Asset editor for Material /Game/assests/material/screen.screen
+[2019.12.04-10.08.01:977][195]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.12.04-10.08.02:113][195]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.12.04-10.08.02:134][195]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.08.02:140][195]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.12.04-10.08.02:205][195]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-10.08.04:118][275]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.08.07:193][430]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-10.08.11:488][662]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.12.04-10.08.12:392][709]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.08.16:488][866]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-10.08.25:531][ 26]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-10.08.25:531][ 26]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-10.08.25:531][ 26]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-10.08.25:531][ 26]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-10.09.10:674][113]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.12.04-10.09.10:694][113]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.09.16:058][420]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-10.09.21:347][714]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-10.09.21:347][714]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-10.09.21:347][714]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-10.09.21:347][714]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-10.09.23:255][825]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.12.04-10.09.23:291][825]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.09.27:086][ 25]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-10.09.30:844][223]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.04-10.09.30:845][223]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.04-10.09.30:845][223]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.04-10.09.30:845][223]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-10.09.34:902][478]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.12.04-10.09.34:940][479]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.09.36:602][571]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.12.04-10.09.36:729][571]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.09.36:735][571]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.12.04-10.09.36:836][571]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.09.36:844][571]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.12.04-10.09.36:936][571]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.09.39:517][696]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.09.42:669][824]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-10.09.47:232][ 32]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.12.04-10.09.47:232][ 32]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.12.04-10.09.47:232][ 32]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.12.04-10.09.47:232][ 32]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-10.09.49:260][166]LogMaterialEditor: Applying material screen
+[2019.12.04-10.09.50:029][166]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.12.04-10.09.50:262][166]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.09.50:279][166]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-10.09.50:355][166]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-10.09.50:643][166]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2019.12.04-10.09.50:657][166]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.04-10.09.56:872][166]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.04-10.09.56:872][166]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.04-10.09.56:879][166]TextureStreamingBuild: Display: Compiling optional shaders took 6.236 seconds.
+[2019.12.04-10.09.56:969][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.12.04-10.09.57:754][200]LogMaterialEditor: Saving and Compiling material screen
+[2019.12.04-10.10.04:934][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/material/screen" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/material/screen.uasset" SILENT=true
+[2019.12.04-10.10.04:991][200]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/screen8C48D07F46E3CFB4241BE8A1BB3664E8.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/material/screen.uasset'
+[2019.12.04-10.10.05:034][200]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.12.04-10.10.05:034][200]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.12.04-10.10.05:034][200]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.12.04-10.10.05:034][200]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-10.11.33:250][122]LogSlate: Window 'screen' being destroyed
+[2019.12.04-10.11.34:669][208]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/assests/material/bluescreen.bluescreen
+[2019.12.04-10.11.54:405][725]LogSlate: Window 'bluescreen' being destroyed
+[2019.12.04-10.11.54:520][725]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2019.12.04-10.11.54:545][725]TextureStreamingBuild: Display: Compiling optional shaders took 0.011 seconds.
+[2019.12.04-10.11.54:635][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.12.04-10.11.57:296][866]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2019.12.04-10.12.00:330][866]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.04-10.12.00:688][866]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2019.12.04-10.12.01:619][932]LogAssetEditorManager: Opening Asset editor for Material /Game/assests/material/screen.screen
+[2019.12.04-10.12.01:652][932]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2019.12.04-10.12.01:826][932]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2019.12.04-10.12.01:896][932]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2019.12.04-10.12.01:957][932]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.12.01:974][932]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-10.12.03:291][984]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.12.08:751][209]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.12.14:414][366]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-10.12.21:790][520]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.12.04-10.12.21:790][520]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.12.04-10.12.21:790][520]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.12.04-10.12.21:790][520]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-10.12.45:877][515]LogMaterialEditor: Saving and Compiling material screen
+[2019.12.04-10.12.45:909][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/material/screen" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/material/screen.uasset" SILENT=true
+[2019.12.04-10.12.45:957][515]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/screen5ACEAF2F4E93EF8EF2DB5993EECFFC50.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/material/screen.uasset'
+[2019.12.04-10.12.48:288][651]LogSlate: Window 'screen' being destroyed
+[2019.12.04-10.12.56:016][209]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/assests/material/blue.blue
+[2019.12.04-10.14.12:910][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-10.14.14:800][467]LogSlate: Window 'blue' being destroyed
+[2019.12.04-10.14.14:897][467]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2019.12.04-10.14.14:918][467]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.12.04-10.14.14:999][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.12.04-10.14.16:931][583]LogAssetEditorManager: Opening Asset editor for Material /Game/assests/material/screen.screen
+[2019.12.04-10.14.16:936][583]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.12.04-10.14.17:085][583]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.12.04-10.14.17:163][583]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.12.04-10.14.17:252][583]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.14.17:268][583]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-10.14.18:845][650]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.14.25:936][954]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.14.25:984][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-10.14.27:010][  8]LogMaterialEditor: Saving and Compiling material screen
+[2019.12.04-10.14.27:030][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/material/screen" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/material/screen.uasset" SILENT=true
+[2019.12.04-10.14.27:085][  8]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/screenCF2AD8224E934AA619B1E6856A38A192.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/material/screen.uasset'
+[2019.12.04-10.14.30:623][167]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.12.04-10.14.31:894][218]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.12.04-10.14.32:051][219]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.14.34:960][372]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.12.04-10.14.35:039][372]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.14.36:929][456]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.12.04-10.14.37:119][457]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.14.43:111][788]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.12.04-10.14.43:561][805]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.14.46:094][935]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.12.04-10.14.46:237][935]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.12.04-10.14.46:420][935]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.12.04-10.14.47:455][974]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.14.47:852][995]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.12.04-10.14.47:972][995]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.14.47:978][995]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.12.04-10.14.48:064][995]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.14.48:071][995]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.12.04-10.14.48:220][995]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.14.53:360][190]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.14.59:737][274]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-10.15.08:275][389]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.12.04-10.15.08:275][389]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.12.04-10.15.08:275][389]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.12.04-10.15.08:275][389]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-10.15.17:047][739]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2019.12.04-10.15.17:047][739]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 0.088
+[2019.12.04-10.15.17:050][739]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assests/material/blue] ([1] browsable assets)...
+[2019.12.04-10.15.17:103][739]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/assests/material/blue.blue]
+[2019.12.04-10.15.17:103][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/assests/material/blue]
+[2019.12.04-10.15.17:120][739]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/blue_Auto5106AF32C44F90A1C280C49970AB89CC2.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/assests/material/blue_Auto5.uasset'
+[2019.12.04-10.15.17:123][739]LogFileHelpers: Auto-saving content packages took 0.074
+[2019.12.04-10.15.52:535][292]LogSlate: Window 'Message' being destroyed
+[2019.12.04-10.15.56:110][529]LogMaterialEditor: Applying material screen
+[2019.12.04-10.15.57:030][529]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.12.04-10.15.57:337][529]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.15.57:370][529]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-10.15.57:503][529]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-10.15.57:779][529]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.12.04-10.15.57:884][529]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.04-10.16.06:316][529]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.04-10.16.06:316][529]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.04-10.16.06:323][529]TextureStreamingBuild: Display: Compiling optional shaders took 8.452 seconds.
+[2019.12.04-10.16.06:418][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.12.04-10.16.14:810][990]LogMaterialEditor: Saving and Compiling material screen
+[2019.12.04-10.16.22:004][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/material/screen" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/material/screen.uasset" SILENT=true
+[2019.12.04-10.16.22:056][990]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/screenBD018C1E47B89BCA3F952B945477C4BE.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/material/screen.uasset'
+[2019.12.04-10.16.22:090][990]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.12.04-10.16.22:090][990]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.12.04-10.16.22:090][990]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.12.04-10.16.22:090][990]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-10.16.27:166][308]LogSlate: Window 'screen' being destroyed
+[2019.12.04-10.16.28:481][378]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/assests/material/blue.blue
+[2019.12.04-10.17.32:378][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-10.17.32:468][621]LogSlate: Window 'blue' being destroyed
+[2019.12.04-10.17.32:563][621]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2019.12.04-10.17.32:583][621]TextureStreamingBuild: Display: Compiling optional shaders took 0.008 seconds.
+[2019.12.04-10.17.32:671][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.12.04-10.17.37:561][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-10.17.37:605][ 71]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.04-10.17.37:605][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-10.17.37:605][ 71]PIE: New page: PIE session: Station (Dec 4, 2019, 12:17:37 AM)
+[2019.12.04-10.17.37:636][ 71]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.04-10.17.38:439][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.802744s)
+[2019.12.04-10.17.38:460][ 71]LogAIModule: Creating AISystem for world Station
+[2019.12.04-10.17.38:474][ 71]LogPlayLevel: PIE: World Init took: (0.034581s)
+[2019.12.04-10.17.38:474][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.838236s)
+[2019.12.04-10.17.38:557][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2019.12.04-10.17.38:652][ 71]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-10.17.38:674][ 71]LogInit: FAudioDevice initialized.
+[2019.12.04-10.17.38:739][ 71]LogLoad: Game class is 'GameModeBase'
+[2019.12.04-10.17.38:775][ 71]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.04-05.17.38
+[2019.12.04-10.17.38:780][ 71]LogWorld: Bringing up level for play took: 0.038243
+[2019.12.04-10.17.38:852][ 71]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 0.829
+[2019.12.04-10.17.38:852][ 71]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.04-10.17.42:229][386]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.04-10.17.42:234][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-10.17.42:269][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-10.17.42:269][386]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.04-10.17.42:376][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-10.17.42:390][386]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.12.04-10.17.42:492][387]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2019.12.04-10.17.45:098][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-10.17.45:295][613]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/assests/material/blue.blue
+[2019.12.04-10.18.11:895][332]LogAssetEditorManager: Opening Asset editor for Material /Game/assests/material/screen.screen
+[2019.12.04-10.18.11:902][332]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.04-10.18.12:100][332]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.04-10.18.12:190][332]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.18.12:196][332]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.04-10.18.12:365][332]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-10.18.13:117][339]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.18.15:243][433]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.04-10.18.16:669][477]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.18.17:111][500]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.04-10.18.17:199][500]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.18.20:599][657]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.04-10.18.21:165][670]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.18.23:776][774]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.04-10.18.24:196][787]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.18.27:361][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-10.18.29:480][ 23]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.18.31:489][113]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2019.12.04-10.18.37:602][359]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-10.18.40:495][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-10.18.40:506][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2019.12.04-10.18.41:416][522]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.04-10.18.41:476][522]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2019.12.04-10.18.43:715][627]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.04-10.18.45:305][682]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.18.49:080][892]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.18.55:023][213]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-10.18.55:146][220]LogMaterialEditor: Applying material screen
+[2019.12.04-10.18.56:254][220]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.04-10.18.56:458][220]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.18.56:499][220]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-10.18.56:641][220]LogMaterial: Display: Missing cached shader map for material screen, compiling. 
+[2019.12.04-10.18.56:914][220]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2019.12.04-10.18.56:928][220]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.04-10.19.04:870][220]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.04-10.19.04:870][220]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.04-10.19.04:873][220]TextureStreamingBuild: Display: Compiling optional shaders took 7.957 seconds.
+[2019.12.04-10.19.04:949][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.12.04-10.19.14:492][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.12.04-10.19.14:515][766]TextureStreamingBuild: Display: Compiling optional shaders took 0.011 seconds.
+[2019.12.04-10.19.14:588][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.12.04-10.19.23:754][172]LogMaterialEditor: Saving and Compiling material screen
+[2019.12.04-10.19.25:919][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/material/screen" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/material/screen.uasset" SILENT=true
+[2019.12.04-10.19.25:971][172]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/screenBE0E9B914E9702CBD60E91AF4F47C5F8.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/material/screen.uasset'
+[2019.12.04-10.19.25:996][172]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.12.04-10.19.25:996][172]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.12.04-10.19.25:996][172]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.12.04-10.19.25:996][172]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.04-10.19.27:797][250]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/assests/material/blue.blue
+[2019.12.04-10.19.54:835][ 31]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.04-10.19.54:877][ 31]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.19.54:877][ 31]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-10.19.56:576][118]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.19.56:708][126]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.04-10.19.56:806][126]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-10.19.57:374][153]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.19.57:985][185]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.04-10.19.58:068][185]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-10.19.58:921][219]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.20.00:132][281]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.04-10.20.00:177][281]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-10.20.00:737][309]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.20.01:297][335]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.04-10.20.01:364][335]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.04-10.20.01:395][335]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.04-10.20.01:733][350]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-10.20.06:489][635]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-10.20.14:472][102]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-10.20.16:166][107]LogSlate: Window 'Message' being destroyed
+[2019.12.04-10.20.16:175][107]LogSlate: Window 'blue' being destroyed
+[2019.12.04-10.20.16:178][107]LogSlate: Window 'blue' being destroyed
+[2019.12.04-10.20.16:431][107]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2019.12.04-10.20.16:459][107]TextureStreamingBuild: Display: Compiling optional shaders took 0.012 seconds.
+[2019.12.04-10.20.16:570][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.12.04-10.20.25:325][897]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-10.20.25:335][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.04-10.20.25:426][897]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.12.04-10.20.27:377][897]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/StationAB5CF5134670096301E52B9B288C99E8.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.12.04-10.20.27:434][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.12.04-10.20.27:880][897]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_BuiltDataACD691DB4FF69B936C8BB599E35C9554.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
