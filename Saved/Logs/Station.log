@@ -13324,3 +13324,87 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.05-09.32.41:483][ 87]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/StationC5B72EDB468357D47ECAD0B03BA89A7E.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
 [2019.12.05-09.32.41:558][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
 [2019.12.05-09.32.41:889][ 87]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_BuiltData48EC382D4D5031484E67A183DB410BCB.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.12.05-09.33.30:256][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-17.28.26:685][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-17.28.34:001][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-17.28.57:081][526]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.12.06-17.29.18:222][646]LogEditorViewport: Clicking on Actor (LMB): keycard_C (keycard)
+[2019.12.06-17.29.19:903][777]Cmd: DELETE
+[2019.12.06-17.29.19:914][777]Cmd: ACTOR DELETE
+[2019.12.06-17.29.20:000][777]LogEditorActor: Deleted Actor: keycard_C
+[2019.12.06-17.29.20:251][777]LogUObjectHash: Compacting FUObjectHashTables data took  27.01ms
+[2019.12.06-17.29.20:252][777]LogEditorActor: Deleted 1 Actors (0.305 secs)
+[2019.12.06-17.29.21:078][845]LogEditorViewport: Clicking on Actor (LMB): key_elavater_C (key_elavater)
+[2019.12.06-17.29.21:601][884]Cmd: DELETE
+[2019.12.06-17.29.21:613][884]Cmd: ACTOR DELETE
+[2019.12.06-17.29.21:651][884]LogEditorActor: Deleted Actor: key_elavater_C
+[2019.12.06-17.29.21:760][884]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.12.06-17.29.21:760][884]LogEditorActor: Deleted 1 Actors (0.148 secs)
+[2019.12.06-17.29.23:755][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-17.29.23:837][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-17.29.23:874][ 43]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-17.29.23:874][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-17.29.23:875][ 43]PIE: New page: PIE session: Station (Dec 6, 2019, 7:29:23 AM)
+[2019.12.06-17.29.23:934][ 43]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-17.29.24:628][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.693539s)
+[2019.12.06-17.29.24:629][ 43]LogAIModule: Creating AISystem for world Station
+[2019.12.06-17.29.24:630][ 43]LogPlayLevel: PIE: World Init took: (0.001883s)
+[2019.12.06-17.29.24:631][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.696156s)
+[2019.12.06-17.29.24:713][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2019.12.06-17.29.24:821][ 43]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.06-17.29.24:847][ 43]LogInit: FAudioDevice initialized.
+[2019.12.06-17.29.24:881][ 43]LogLoad: Game class is 'GameModeBase'
+[2019.12.06-17.29.24:899][ 43]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-12.29.24
+[2019.12.06-17.29.24:900][ 43]LogWorld: Bringing up level for play took: 0.017949
+[2019.12.06-17.29.24:919][ 43]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 1.521
+[2019.12.06-17.29.24:930][ 43]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-17.29.28:860][419]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-17.29.28:861][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-17.29.28:910][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-17.29.28:911][419]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-17.29.29:037][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-17.29.29:076][419]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2019.12.06-17.29.29:141][420]LogPlayLevel: Display: Destroying online subsystem :Context_154
+[2019.12.06-17.29.31:572][607]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.12.06-17.29.35:395][792]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2019.12.06-17.29.36:330][836]LogEditorViewport: Clicking on Actor (CTRL LMB): PlayerStart (NetworkPlayerStart)
+[2019.12.06-17.29.37:317][882]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.12.06-17.29.39:083][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-17.29.39:160][976]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-17.29.39:184][976]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-17.29.39:185][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-17.29.39:185][976]PIE: New page: PIE session: Station (Dec 6, 2019, 7:29:39 AM)
+[2019.12.06-17.29.39:258][976]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-17.29.39:480][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.222298s)
+[2019.12.06-17.29.39:481][976]LogAIModule: Creating AISystem for world Station
+[2019.12.06-17.29.39:481][976]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2019.12.06-17.29.39:481][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.223345s)
+[2019.12.06-17.29.39:563][976]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.12.06-17.29.39:632][976]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.06-17.29.39:654][976]LogInit: FAudioDevice initialized.
+[2019.12.06-17.29.39:683][976]LogLoad: Game class is 'GameModeBase'
+[2019.12.06-17.29.39:700][976]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-12.29.39
+[2019.12.06-17.29.39:701][976]LogWorld: Bringing up level for play took: 0.016777
+[2019.12.06-17.29.39:715][976]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 0.317
+[2019.12.06-17.29.39:716][976]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-17.29.42:539][277]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-17.29.42:539][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-17.29.42:581][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-17.29.42:581][277]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-17.29.42:689][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-17.29.42:709][277]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2019.12.06-17.29.42:736][278]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2019.12.06-17.29.53:940][  1]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/assests/GUI/Hud.Hud
+[2019.12.06-17.30.10:048][  2]LogUObjectHash: Compacting FUObjectHashTables data took  33.00ms
+[2019.12.06-17.30.11:735][  2]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_Auto6D5B326A549BD34EC1C8F1A8CE7D82DA4.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto6.umap'
+[2019.12.06-17.30.11:742][  2]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 1.840
+[2019.12.06-17.30.11:742][  2]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.840
+[2019.12.06-17.30.20:773][604]LogSlate: Window 'Hud' being destroyed
+[2019.12.06-17.30.22:757][757]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/assests/GUI/MAINMENU.MAINMENU
+[2019.12.06-17.30.28:805][110]LogSlate: Window 'MAINMENU' being destroyed
+[2019.12.06-17.30.30:358][223]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/assests/GUI/Time.Time
+[2019.12.06-17.30.34:972][493]LogSlate: Window 'Time' being destroyed
+[2019.12.06-17.30.36:350][593]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/assests/GUI/Death.Death
+[2019.12.06-17.31.01:238][214]LogSlate: Window 'Death' being destroyed
+[2019.12.06-17.31.04:949][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/GUI/Death" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/GUI/Death.uasset" SILENT=true
+[2019.12.06-17.31.05:367][493]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/DeathF0848BB7429358E2957904B1434F8347.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/GUI/Death.uasset'
