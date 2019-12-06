@@ -2618,3 +2618,313 @@ Script Stack (0 frames):
 [2019.12.06-21.15.28:875][685]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/StationDD4D279C41C8AE835C49FDB7F39AED71.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
 [2019.12.06-21.15.28:925][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
 [2019.12.06-21.15.29:068][685]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_BuiltDataC1D77C89432FCB58740A6788D9591172.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.12.06-21.16.12:755][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-21.16.17:533][597]LogAIModule: Creating AISystem for world MainMenu
+[2019.12.06-21.16.17:535][597]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2019.12.06-21.16.17:613][597]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2019.12.06-21.16.21:011][597]LogSlate: Window 'Save Content' being destroyed
+[2019.12.06-21.16.23:195][827]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2019.12.06-21.16.23:283][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.12.06-21.16.24:244][827]LogSlate: Window 'Save Content' being destroyed
+[2019.12.06-21.16.24:257][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/GUI/Hud" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/assests/GUI/Hud.uasset" SILENT=true
+[2019.12.06-21.16.24:303][827]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Hud43D5927442F9868796136C9C7FE02A3C.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/assests/GUI/Hud.uasset'
+[2019.12.06-21.16.24:312][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/GUI/MAINMENU" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/assests/GUI/MAINMENU.uasset" SILENT=true
+[2019.12.06-21.16.24:349][827]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/MAINMENU791989DB49D56FBE121CCA8293F643C4.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/assests/GUI/MAINMENU.uasset'
+[2019.12.06-21.16.24:447][827]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/ThirdPersonCharacter3295604E432512D0331F4EA99E0BC768.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.06-21.16.24:461][827]Cmd: MAP LOAD FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.06-21.16.24:461][827]LightingResults: New page: Lighting Build
+[2019.12.06-21.16.24:462][827]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.12.06-21.16.24:554][827]MapCheck: New page: Map Check
+[2019.12.06-21.16.24:554][827]LightingResults: New page: Lighting Build
+[2019.12.06-21.16.24:657][827]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2019.12.06-21.16.24:821][827]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.06-21.16.24:904][827]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.12.06-21.16.24:936][827]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.06-21.16.24:936][827]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2019.12.06-21.16.24:937][827]LogFileHelpers: Loading map 'MainMenu' took 0.477
+[2019.12.06-21.16.32:921][672]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-21.16.32:993][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.06-21.16.32:993][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-21.16.32:993][672]PIE: New page: PIE session: MainMenu (Dec 6, 2019, 11:16:32 AM)
+[2019.12.06-21.16.32:993][672]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.12.06-21.16.32:995][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001275s)
+[2019.12.06-21.16.32:995][672]LogAIModule: Creating AISystem for world MainMenu
+[2019.12.06-21.16.32:995][672]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2019.12.06-21.16.32:995][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002127s)
+[2019.12.06-21.16.33:100][672]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2019.12.06-21.16.33:103][672]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-21.16.33:128][672]LogInit: FAudioDevice initialized.
+[2019.12.06-21.16.33:156][672]LogLoad: Game class is 'GameModeBase'
+[2019.12.06-21.16.33:158][672]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.12.06-16.16.33
+[2019.12.06-21.16.33:158][672]LogWorld: Bringing up level for play took: 0.000631
+[2019.12.06-21.16.33:174][672]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.462
+[2019.12.06-21.16.33:174][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.06-21.16.36:241][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-21.16.36:322][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.06-21.16.36:322][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-21.16.36:348][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-21.16.36:349][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.06-21.16.36:434][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-21.16.36:442][  7]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.12.06-21.16.36:461][  8]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2019.12.06-21.16.39:131][297]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2019.12.06-21.16.39:210][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.12.06-21.16.39:212][297]Cmd: MAP LOAD FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.06-21.16.39:212][297]LightingResults: New page: Lighting Build
+[2019.12.06-21.16.39:212][297]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.12.06-21.16.39:213][297]MapCheck: New page: Map Check
+[2019.12.06-21.16.39:213][297]LightingResults: New page: Lighting Build
+[2019.12.06-21.16.39:295][297]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2019.12.06-21.16.39:305][297]LogAIModule: Creating AISystem for world MainMenu
+[2019.12.06-21.16.39:473][297]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.06-21.16.39:580][297]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2019.12.06-21.16.39:612][297]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.06-21.16.39:612][297]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.132ms to complete.
+[2019.12.06-21.16.39:613][297]LogFileHelpers: Loading map 'MainMenu' took 0.404
+[2019.12.06-21.16.46:583][999]BlueprintLog: New page: Compile MAINMENU
+[2019.12.06-21.16.46:691][999]LogUObjectHash: Compacting FUObjectHashTables data took  11.43ms
+[2019.12.06-21.16.47:171][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/GUI/MAINMENU" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/assests/GUI/MAINMENU.uasset" SILENT=true
+[2019.12.06-21.16.47:203][ 46]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/MAINMENUAC09C85E4882C50788A6DFA5D49CE5C9.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/assests/GUI/MAINMENU.uasset'
+[2019.12.06-21.16.48:891][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/GUI/MAINMENU" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/assests/GUI/MAINMENU.uasset" SILENT=true
+[2019.12.06-21.16.48:922][223]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/MAINMENU2AB7BC6547E2DF63CED20596122D2DA5.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/assests/GUI/MAINMENU.uasset'
+[2019.12.06-21.16.50:317][366]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-21.16.50:387][366]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.06-21.16.50:387][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-21.16.50:387][366]PIE: New page: PIE session: MainMenu (Dec 6, 2019, 11:16:50 AM)
+[2019.12.06-21.16.50:387][366]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.12.06-21.16.50:388][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001171s)
+[2019.12.06-21.16.50:389][366]LogAIModule: Creating AISystem for world MainMenu
+[2019.12.06-21.16.50:389][366]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2019.12.06-21.16.50:389][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001990s)
+[2019.12.06-21.16.50:477][366]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2019.12.06-21.16.50:479][366]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-21.16.50:507][366]LogInit: FAudioDevice initialized.
+[2019.12.06-21.16.50:537][366]LogLoad: Game class is 'GameModeBase'
+[2019.12.06-21.16.50:538][366]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.12.06-16.16.50
+[2019.12.06-21.16.50:538][366]LogWorld: Bringing up level for play took: 0.000371
+[2019.12.06-21.16.50:552][366]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0.159
+[2019.12.06-21.16.50:552][366]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.06-21.17.05:753][  3]LogNet: Browse: /Game/Maps/Station
+[2019.12.06-21.17.05:753][  3]LogLoad: LoadMap: /Game/Maps/Station
+[2019.12.06-21.17.05:834][  3]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2019.12.06-21.17.06:150][  3]LogAIModule: Creating AISystem for world Station
+[2019.12.06-21.17.06:151][  3]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-21.17.06:182][  3]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-16.17.06
+[2019.12.06-21.17.06:184][  3]LogWorld: Bringing up level for play took: 0.032284
+[2019.12.06-21.17.06:185][  3]LogLoad: Took 0.431730 seconds to LoadMap(/Game/Maps/Station)
+[2019.12.06-21.17.08:860][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.06-21.17.08:860][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-21.17.08:895][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-21.17.08:895][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.06-21.17.09:009][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-21.17.09:022][264]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2019.12.06-21.17.09:041][265]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2019.12.06-21.17.33:544][911]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-21.17.33:609][911]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.06-21.17.33:609][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-21.17.33:609][911]PIE: New page: PIE session: MainMenu (Dec 6, 2019, 11:17:33 AM)
+[2019.12.06-21.17.33:609][911]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.12.06-21.17.33:611][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001269s)
+[2019.12.06-21.17.33:611][911]LogAIModule: Creating AISystem for world MainMenu
+[2019.12.06-21.17.33:611][911]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2019.12.06-21.17.33:611][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002020s)
+[2019.12.06-21.17.33:687][911]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2019.12.06-21.17.33:689][911]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-21.17.33:712][911]LogInit: FAudioDevice initialized.
+[2019.12.06-21.17.33:742][911]LogLoad: Game class is 'GameModeBase'
+[2019.12.06-21.17.33:743][911]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.12.06-16.17.33
+[2019.12.06-21.17.33:743][911]LogWorld: Bringing up level for play took: 0.000370
+[2019.12.06-21.17.33:759][911]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 1.046
+[2019.12.06-21.17.33:759][911]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.06-21.17.48:040][386]LogNet: Browse: /Game/Maps/Station
+[2019.12.06-21.17.48:040][386]LogLoad: LoadMap: /Game/Maps/Station
+[2019.12.06-21.17.48:124][386]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.12.06-21.17.48:373][386]LogAIModule: Creating AISystem for world Station
+[2019.12.06-21.17.48:373][386]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-21.17.48:414][386]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-16.17.48
+[2019.12.06-21.17.48:415][386]LogWorld: Bringing up level for play took: 0.040841
+[2019.12.06-21.17.48:417][386]LogLoad: Took 0.376103 seconds to LoadMap(/Game/Maps/Station)
+[2019.12.06-21.21.27:584][789]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.06-21.21.27:584][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-21.21.27:621][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-21.21.27:621][789]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.06-21.21.27:719][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-21.21.27:731][789]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2019.12.06-21.21.27:755][790]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2019.12.06-21.21.28:836][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-21.21.29:013][918]LogAIModule: Creating AISystem for world GameOver
+[2019.12.06-21.21.29:015][918]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/GameOver.GameOver
+[2019.12.06-21.21.29:099][918]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2019.12.06-21.21.29:101][918]Cmd: MAP LOAD FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.06-21.21.29:101][918]LightingResults: New page: Lighting Build
+[2019.12.06-21.21.29:102][918]LoadErrors: New page: Loading map: GameOver.umap
+[2019.12.06-21.21.29:102][918]MapCheck: New page: Map Check
+[2019.12.06-21.21.29:102][918]LightingResults: New page: Lighting Build
+[2019.12.06-21.21.29:186][918]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2019.12.06-21.21.29:385][918]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.06-21.21.29:496][918]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2019.12.06-21.21.29:537][918]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.06-21.21.29:537][918]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2019.12.06-21.21.29:537][918]LogFileHelpers: Loading map 'GameOver' took 0.439
+[2019.12.06-21.21.31:044][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-21.21.31:102][ 69]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GameOver.GameOver:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GameOver.GameOver:PersistentLevel.GameOver' with GeneratedClass '/Game/Maps/GameOver.GameOver_C' with ClassGeneratedBy '/Game/Maps/GameOver.GameOver:PersistentLevel.GameOver'
+[2019.12.06-21.21.31:102][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-21.21.31:102][ 69]PIE: New page: PIE session: GameOver (Dec 6, 2019, 11:21:31 AM)
+[2019.12.06-21.21.31:102][ 69]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameOver
+[2019.12.06-21.21.31:104][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001332s)
+[2019.12.06-21.21.31:104][ 69]LogAIModule: Creating AISystem for world GameOver
+[2019.12.06-21.21.31:105][ 69]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2019.12.06-21.21.31:105][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameOver.GameOver to /Game/Maps/UEDPIE_0_GameOver.GameOver (0.002190s)
+[2019.12.06-21.21.31:206][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   8.58ms
+[2019.12.06-21.21.31:211][ 69]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-21.21.31:247][ 69]LogInit: FAudioDevice initialized.
+[2019.12.06-21.21.31:278][ 69]LogLoad: Game class is 'GameModeBase'
+[2019.12.06-21.21.31:279][ 69]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameOver.GameOver up for play (max tick rate 0) at 2019.12.06-16.21.31
+[2019.12.06-21.21.31:279][ 69]LogWorld: Bringing up level for play took: 0.000357
+[2019.12.06-21.21.31:293][ 69]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameOver 0.58
+[2019.12.06-21.21.31:293][ 69]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GameOver.GameOver:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GameOver.GameOver:PersistentLevel.GameOver' with GeneratedClass '/Game/Maps/GameOver.GameOver_C' with ClassGeneratedBy '/Game/Maps/GameOver.GameOver:PersistentLevel.GameOver'
+[2019.12.06-21.21.35:409][507]LogNet: Browse: /Game/Maps/Station
+[2019.12.06-21.21.35:409][507]LogLoad: LoadMap: /Game/Maps/Station
+[2019.12.06-21.21.35:490][507]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.12.06-21.21.35:763][507]LogAIModule: Creating AISystem for world Station
+[2019.12.06-21.21.35:763][507]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-21.21.35:819][507]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-16.21.35
+[2019.12.06-21.21.35:820][507]LogWorld: Bringing up level for play took: 0.055860
+[2019.12.06-21.21.35:823][507]LogLoad: Took 0.413890 seconds to LoadMap(/Game/Maps/Station)
+[2019.12.06-21.21.38:005][715]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GameOver.GameOver:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GameOver.GameOver:PersistentLevel.GameOver' with GeneratedClass '/Game/Maps/GameOver.GameOver_C' with ClassGeneratedBy '/Game/Maps/GameOver.GameOver:PersistentLevel.GameOver'
+[2019.12.06-21.21.38:006][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-21.21.38:042][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-21.21.38:042][715]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GameOver.GameOver:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GameOver.GameOver:PersistentLevel.GameOver' with GeneratedClass '/Game/Maps/GameOver.GameOver_C' with ClassGeneratedBy '/Game/Maps/GameOver.GameOver:PersistentLevel.GameOver'
+[2019.12.06-21.21.38:139][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-21.21.38:152][715]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.12.06-21.21.38:176][716]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2019.12.06-21.21.41:553][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-21.21.41:950][ 88]LogAIModule: Creating AISystem for world Station
+[2019.12.06-21.21.42:046][ 88]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Station.Station
+[2019.12.06-21.21.42:164][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2019.12.06-21.21.42:166][ 88]Cmd: MAP LOAD FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.06-21.21.42:166][ 88]LightingResults: New page: Lighting Build
+[2019.12.06-21.21.42:166][ 88]LoadErrors: New page: Loading map: Station.umap
+[2019.12.06-21.21.42:167][ 88]MapCheck: New page: Map Check
+[2019.12.06-21.21.42:167][ 88]LightingResults: New page: Lighting Build
+[2019.12.06-21.21.42:249][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2019.12.06-21.21.42:745][ 88]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.06-21.21.42:835][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2019.12.06-21.21.42:865][ 88]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.06-21.21.42:865][ 88]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.23ms to complete.
+[2019.12.06-21.21.42:865][ 88]LogFileHelpers: Loading map 'Station' took 0.700
+[2019.12.06-21.23.13:587][967]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.06-21.23.14:153][967]LogUObjectHash: Compacting FUObjectHashTables data took   8.73ms
+[2019.12.06-21.23.43:610][463]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.06-21.23.44:073][463]LogUObjectHash: Compacting FUObjectHashTables data took   9.30ms
+[2019.12.06-21.23.44:225][463]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/ThirdPersonCharacterCA43531849EA3FE903DEE99FEF2FCF80.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.06-21.23.45:116][525]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-21.23.45:194][525]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-21.23.45:194][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-21.23.45:194][525]PIE: New page: PIE session: Station (Dec 6, 2019, 11:23:45 AM)
+[2019.12.06-21.23.45:194][525]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-21.23.45:380][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.185612s)
+[2019.12.06-21.23.45:380][525]LogAIModule: Creating AISystem for world Station
+[2019.12.06-21.23.45:381][525]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2019.12.06-21.23.45:381][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.186715s)
+[2019.12.06-21.23.45:476][525]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2019.12.06-21.23.45:478][525]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-21.23.45:501][525]LogInit: FAudioDevice initialized.
+[2019.12.06-21.23.45:507][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-21.23.45:535][525]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-21.23.45:551][525]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-16.23.45
+[2019.12.06-21.23.45:552][525]LogWorld: Bringing up level for play took: 0.015559
+[2019.12.06-21.23.45:568][525]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 0.856
+[2019.12.06-21.23.45:568][525]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-21.24.16:209][544]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-21.24.16:210][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-21.24.16:236][544]LogSlate: Window 'Station Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.06-21.24.16:281][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-21.24.16:282][544]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-21.24.16:385][544]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2019.12.06-21.24.16:440][545]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2019.12.06-21.25.00:231][249]LogEditorViewport: Clicking on Actor (LMB): keycard_C (keycard2)
+[2019.12.06-21.25.10:468][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-21.25.10:476][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.06-21.25.10:558][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.12.06-21.25.12:301][ 32]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/StationF31C04FE45E842988B5C2487F3CA492D.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.12.06-21.25.12:362][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.12.06-21.25.12:548][ 32]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_BuiltData6124BB2C4201855350FA77A7B3195787.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.12.06-21.26.03:679][480]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.06-21.26.04:209][480]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2019.12.06-21.26.04:688][505]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/ThirdPersonCharacterAAE530714988AF8A7719B69A91107D1B.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.06-21.26.07:534][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-21.26.08:978][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-21.26.08:978][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-21.26.08:978][797]PIE: New page: PIE session: Station (Dec 6, 2019, 11:26:08 AM)
+[2019.12.06-21.26.08:978][797]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-21.26.09:170][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.191750s)
+[2019.12.06-21.26.09:171][797]LogAIModule: Creating AISystem for world Station
+[2019.12.06-21.26.09:171][797]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2019.12.06-21.26.09:171][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.192787s)
+[2019.12.06-21.26.09:266][797]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2019.12.06-21.26.09:270][797]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-21.26.09:296][797]LogInit: FAudioDevice initialized.
+[2019.12.06-21.26.09:296][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-21.26.09:342][797]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-21.26.09:366][797]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-16.26.09
+[2019.12.06-21.26.09:367][797]LogWorld: Bringing up level for play took: 0.023932
+[2019.12.06-21.26.09:383][797]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 0.671
+[2019.12.06-21.26.09:406][797]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-21.26.38:400][963]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Picked up keycard #0
+[2019.12.06-21.26.40:836][147]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-21.26.40:836][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-21.26.40:880][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-21.26.40:880][147]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-21.26.40:978][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-21.26.40:990][147]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2019.12.06-21.26.41:029][148]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2019.12.06-21.26.42:205][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-21.27.23:513][657]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.06-21.27.24:057][657]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2019.12.06-21.27.26:544][827]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/ThirdPersonCharacterD1D934A243DC42B67073A799E0B1683D.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.06-21.27.27:381][888]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-21.27.27:445][888]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-21.27.27:445][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-21.27.27:445][888]PIE: New page: PIE session: Station (Dec 6, 2019, 11:27:27 AM)
+[2019.12.06-21.27.27:445][888]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-21.27.27:637][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.191979s)
+[2019.12.06-21.27.27:638][888]LogAIModule: Creating AISystem for world Station
+[2019.12.06-21.27.27:638][888]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2019.12.06-21.27.27:638][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.192871s)
+[2019.12.06-21.27.27:731][888]LogUObjectHash: Compacting FUObjectHashTables data took   8.02ms
+[2019.12.06-21.27.27:734][888]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-21.27.27:758][888]LogInit: FAudioDevice initialized.
+[2019.12.06-21.27.27:767][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-21.27.27:800][888]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-21.27.27:816][888]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-16.27.27
+[2019.12.06-21.27.27:817][888]LogWorld: Bringing up level for play took: 0.016110
+[2019.12.06-21.27.27:833][888]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 1.121
+[2019.12.06-21.27.27:834][888]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-21.27.53:214][505]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Picked up keycard #0
+[2019.12.06-21.27.55:321][637]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-21.27.55:321][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-21.27.55:336][637]LogSlate: Window 'Station Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.06-21.27.55:398][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-21.27.55:399][637]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-21.27.55:520][637]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2019.12.06-21.27.55:577][638]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2019.12.06-21.28.00:874][ 57]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.06-21.28.01:352][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2019.12.06-21.28.01:773][ 75]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/ThirdPersonCharacterC72743C1459A7F5D7B8BE9A76326699F.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.06-21.28.35:255][774]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.06-21.28.35:786][774]LogUObjectHash: Compacting FUObjectHashTables data took   9.05ms
+[2019.12.06-21.28.36:055][779]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/ThirdPersonCharacter176071D244B8AE8A973DA1A5D8B61F79.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.06-21.29.03:691][153]LogEditorViewport: Clicking on Actor (LMB): keycard_C (keycard2)
+[2019.12.06-21.29.04:486][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-21.29.04:493][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.06-21.29.04:587][209]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2019.12.06-21.29.06:190][209]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/StationB0016B2A4626D4681BA4C3878325D2BB.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.12.06-21.29.06:256][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.12.06-21.29.06:376][209]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_BuiltDataDC413D444B82FA3A5191B0A000141B9F.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.12.06-21.29.54:214][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-21.29.54:223][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.06-21.29.54:317][542]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2019.12.06-21.29.55:834][542]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station62183D8847917B942D98FC95D60497B4.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.12.06-21.29.55:889][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.12.06-21.29.56:039][542]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_BuiltData0646F283406ECD222DE5CB9FB3AD01B9.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
