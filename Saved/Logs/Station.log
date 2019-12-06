@@ -1490,3 +1490,1131 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.06-19.38.39:896][ 71]LogWorld: Bringing up level for play took: 0.011516
 [2019.12.06-19.38.39:909][ 71]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 1.26
 [2019.12.06-19.38.39:917][ 71]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-19.40.40:451][  9]LogNet: Browse: /Game/Maps/GameOver
+[2019.12.06-19.40.40:452][  9]LogLoad: LoadMap: /Game/Maps/GameOver
+[2019.12.06-19.40.40:552][  9]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2019.12.06-19.40.40:560][  9]LogAIModule: Creating AISystem for world GameOver
+[2019.12.06-19.40.40:561][  9]LogLoad: Game class is 'GameModeBase'
+[2019.12.06-19.40.40:561][  9]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameOver.GameOver up for play (max tick rate 0) at 2019.12.06-14.40.40
+[2019.12.06-19.40.40:562][  9]LogWorld: Bringing up level for play took: 0.000460
+[2019.12.06-19.40.40:562][  9]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.06-19.40.40:564][  9]LogLoad: Took 0.111999 seconds to LoadMap(/Game/Maps/GameOver)
+[2019.12.06-19.40.50:426][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-19.40.50:512][  8]LogNet: Browse: /Game/Maps/Station
+[2019.12.06-19.40.50:512][  8]LogLoad: LoadMap: /Game/Maps/Station
+[2019.12.06-19.40.50:592][  8]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.12.06-19.40.50:592][  8]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-19.40.50:787][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.194520s)
+[2019.12.06-19.40.50:787][  8]LogAIModule: Creating AISystem for world Station
+[2019.12.06-19.40.50:788][  8]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2019.12.06-19.40.50:788][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.195500s)
+[2019.12.06-19.40.50:788][  8]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-19.40.50:807][  8]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-14.40.50
+[2019.12.06-19.40.50:808][  8]LogWorld: Bringing up level for play took: 0.019704
+[2019.12.06-19.40.50:810][  8]LogLoad: Took 0.297570 seconds to LoadMap(/Game/Maps/UEDPIE_0_Station)
+[2019.12.06-19.40.52:727][165]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-19.40.52:727][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-19.40.52:762][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-19.40.52:763][165]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-19.40.52:863][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-19.40.52:875][165]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.12.06-19.40.52:901][166]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2019.12.06-19.47.13:454][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-19.48.27:039][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-19.48.27:553][622]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-19.48.27:602][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-19.48.27:603][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-19.48.27:603][622]PIE: New page: PIE session: Station (Dec 6, 2019, 9:48:27 AM)
+[2019.12.06-19.48.27:603][622]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-19.48.27:789][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.185725s)
+[2019.12.06-19.48.27:789][622]LogAIModule: Creating AISystem for world Station
+[2019.12.06-19.48.27:790][622]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2019.12.06-19.48.27:790][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.186887s)
+[2019.12.06-19.48.27:884][622]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2019.12.06-19.48.27:889][622]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-19.48.27:917][622]LogInit: FAudioDevice initialized.
+[2019.12.06-19.48.27:948][622]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-19.48.27:968][622]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-14.48.27
+[2019.12.06-19.48.27:969][622]LogWorld: Bringing up level for play took: 0.019925
+[2019.12.06-19.48.27:985][622]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 1.33
+[2019.12.06-19.48.27:985][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-19.50.28:195][473]LogNet: Browse: /Game/Maps/GameOver
+[2019.12.06-19.50.28:196][473]LogLoad: LoadMap: /Game/Maps/GameOver
+[2019.12.06-19.50.28:298][473]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2019.12.06-19.50.28:306][473]LogAIModule: Creating AISystem for world GameOver
+[2019.12.06-19.50.28:306][473]LogLoad: Game class is 'GameModeBase'
+[2019.12.06-19.50.28:307][473]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameOver.GameOver up for play (max tick rate 0) at 2019.12.06-14.50.28
+[2019.12.06-19.50.28:307][473]LogWorld: Bringing up level for play took: 0.000481
+[2019.12.06-19.50.28:308][473]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.06-19.50.28:309][473]LogLoad: Took 0.114690 seconds to LoadMap(/Game/Maps/GameOver)
+[2019.12.06-19.50.38:838][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-19.50.38:960][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-19.50.38:960][654]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-19.50.38:988][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-19.50.38:989][654]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-19.50.39:074][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-19.50.39:082][654]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2019.12.06-19.50.39:117][655]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.12.06-19.50.41:525][919]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.06-19.50.41:525][919]Can't find target actor or component.
+[2019.12.06-19.50.47:252][540]LogEditorViewport: Clicking on Actor (LMB): keycard_C (keycard)
+[2019.12.06-19.50.48:014][621]Cmd: DELETE
+[2019.12.06-19.50.48:014][621]Cmd: ACTOR DELETE
+[2019.12.06-19.50.48:042][621]LogEditorActor: Deleted Actor: keycard_C
+[2019.12.06-19.50.48:125][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.12.06-19.50.48:126][621]LogEditorActor: Deleted 1 Actors (0.112 secs)
+[2019.12.06-19.50.48:772][688]LogEditorViewport: Clicking on Actor (LMB): key_elavater_C (key_elavater)
+[2019.12.06-19.50.48:910][700]Cmd: DELETE
+[2019.12.06-19.50.48:910][700]Cmd: ACTOR DELETE
+[2019.12.06-19.50.48:941][700]LogEditorActor: Deleted Actor: key_elavater_C
+[2019.12.06-19.50.49:021][700]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.12.06-19.50.49:021][700]LogEditorActor: Deleted 1 Actors (0.111 secs)
+[2019.12.06-19.50.50:541][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-19.56.01:163][865]LogEditorTransaction: Undo Remove Widget
+[2019.12.06-19.56.03:560][ 93]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-19.56.03:630][ 93]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-19.56.03:631][ 93]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.06-19.56.03:631][ 93]LogPlayLevel: [PlayLevel] Compiling MAINMENU before play...
+[2019.12.06-19.56.04:088][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
+[2019.12.06-19.56.04:088][ 93]LogPlayLevel: PlayLevel: Blueprint regeneration took 457 ms (1 blueprints)
+[2019.12.06-19.56.04:088][ 93]PIE: New page: PIE session: Station (Dec 6, 2019, 9:56:04 AM)
+[2019.12.06-19.56.04:088][ 93]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-19.56.04:282][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.195286s)
+[2019.12.06-19.56.04:283][ 93]LogAIModule: Creating AISystem for world Station
+[2019.12.06-19.56.04:283][ 93]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2019.12.06-19.56.04:283][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.196362s)
+[2019.12.06-19.56.04:368][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.12.06-19.56.04:372][ 93]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-19.56.04:397][ 93]LogInit: FAudioDevice initialized.
+[2019.12.06-19.56.04:433][ 93]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-19.56.04:451][ 93]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-14.56.04
+[2019.12.06-19.56.04:452][ 93]LogWorld: Bringing up level for play took: 0.018493
+[2019.12.06-19.56.04:467][ 93]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 1.809
+[2019.12.06-19.56.04:467][ 93]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-19.56.06:092][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-19.56.09:519][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-19.56.09:519][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-19.56.09:558][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-19.56.09:558][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-19.56.09:659][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-19.56.09:672][585]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.12.06-19.56.09:700][586]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.12.06-19.56.44:021][935]Cmd: TRANSACTION UNDO
+[2019.12.06-19.56.44:021][935]LogEditorTransaction: Undo Reset to Default
+[2019.12.06-19.57.07:147][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-19.57.07:250][155]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-19.57.07:314][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-19.57.07:314][155]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.06-19.57.07:315][155]LogPlayLevel: [PlayLevel] Compiling MAINMENU before play...
+[2019.12.06-19.57.07:671][155]LogPlayLevel: [PlayLevel] Compiling Hud before play...
+[2019.12.06-19.57.07:673][155]LogBlueprint: Error: [Compiler Hud] Binding: Property ' Text Delegate ' on Widget ' TextBlock_108 ': Member:GetText_0 Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2019.12.06-19.57.07:674][155]LogBlueprint: Warning: [Compiler Hud] [6370.85] Compile of Hud failed. 1 Fatal Issue(s) 0 Warning(s) [in 2 ms] (/Game/assests/GUI/Hud.Hud)
+[2019.12.06-19.57.08:088][155]LogUObjectHash: Compacting FUObjectHashTables data took   8.38ms
+[2019.12.06-19.57.08:088][155]LogPlayLevel: PlayLevel: Blueprint regeneration took 774 ms (2 blueprints)
+[2019.12.06-19.57.08:088][155]BlueprintLog: Blueprint Hud failed to compile
+[2019.12.06-19.57.16:704][155]LogSlate: Window 'Message' being destroyed
+[2019.12.06-19.57.17:725][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-19.57.26:952][157]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.06-19.57.27:411][180]LogEditorTransaction: Undo Remove Widget
+[2019.12.06-19.57.28:262][268]LogEditorTransaction: Undo Delete current selection
+[2019.12.06-19.57.34:621][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/GUI/Hud" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/assests/GUI/Hud.uasset" SILENT=true
+[2019.12.06-19.57.34:651][869]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/HudD2BFC4084FEC10FE2430319256F6128F.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/assests/GUI/Hud.uasset'
+[2019.12.06-19.57.34:928][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-19.57.35:031][904]BlueprintLog: New page: Compile Hud
+[2019.12.06-19.57.35:463][904]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2019.12.06-19.57.38:031][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-19.57.38:139][151]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-19.57.38:198][151]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-19.57.38:198][151]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.06-19.57.38:199][151]LogPlayLevel: [PlayLevel] Compiling MAINMENU before play...
+[2019.12.06-19.57.38:649][151]LogUObjectHash: Compacting FUObjectHashTables data took   9.82ms
+[2019.12.06-19.57.38:649][151]LogPlayLevel: PlayLevel: Blueprint regeneration took 450 ms (1 blueprints)
+[2019.12.06-19.57.38:649][151]PIE: New page: PIE session: Station (Dec 6, 2019, 9:57:38 AM)
+[2019.12.06-19.57.38:649][151]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-19.57.38:848][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.198179s)
+[2019.12.06-19.57.38:848][151]LogAIModule: Creating AISystem for world Station
+[2019.12.06-19.57.38:849][151]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2019.12.06-19.57.38:849][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.199212s)
+[2019.12.06-19.57.38:939][151]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.12.06-19.57.38:943][151]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-19.57.38:969][151]LogInit: FAudioDevice initialized.
+[2019.12.06-19.57.38:995][151]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-19.57.39:007][151]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-14.57.39
+[2019.12.06-19.57.39:008][151]LogWorld: Bringing up level for play took: 0.011769
+[2019.12.06-19.57.39:023][151]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 0.365
+[2019.12.06-19.57.39:032][151]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-19.57.56:385][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-19.57.56:386][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-19.57.56:425][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-19.57.56:425][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-19.57.56:517][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-19.57.56:531][876]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.12.06-19.57.56:568][877]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2019.12.06-19.58.04:535][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-19.58.07:846][965]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.111 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.06-19.58.27:236][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-19.58.37:775][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-19.59.12:669][720]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-19.59.12:781][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.12.06-19.59.14:178][720]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_Auto3D57FC7084D3DBD0F42746D87043A631D.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto3.umap'
+[2019.12.06-19.59.14:193][720]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 1.496
+[2019.12.06-19.59.14:193][720]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.496
+[2019.12.06-19.59.14:197][720]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assests/GUI/MAINMENU] ([1] browsable assets)...
+[2019.12.06-19.59.14:197][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/assests/GUI/MAINMENU]
+[2019.12.06-19.59.14:229][720]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/MAINMENU_Auto3682D03844BD9746281B547BAE0F21990.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/assests/GUI/MAINMENU_Auto3.uasset'
+[2019.12.06-19.59.14:233][720]LogFileHelpers: Auto-saving content packages took 0.037
+[2019.12.06-20.01.03:088][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.01.40:619][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.01.48:279][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.01.48:400][869]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush2)
+[2019.12.06-20.01.51:945][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.02.07:241][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.02.07:385][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.02.11:653][204]LogEditorViewport: Clicking Background
+[2019.12.06-20.02.12:569][270]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush309)
+[2019.12.06-20.02.13:663][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.02.14:150][375]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.06-20.02.44:563][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.03.14:963][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.03.16:174][235]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.03.16:292][243]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush83)
+[2019.12.06-20.03.16:325][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.03.20:241][515]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush308)
+[2019.12.06-20.03.20:988][565]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush309)
+[2019.12.06-20.03.26:596][968]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush309)
+[2019.12.06-20.03.40:876][880]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush308)
+[2019.12.06-20.03.44:747][ 92]Cmd: TRANSACTION UNDO
+[2019.12.06-20.03.44:747][ 92]LogEditorTransaction: Undo Move Actors
+[2019.12.06-20.03.45:340][ 92]LogGeometryMode: Warning: Unable to find 8 Vertex(s) in new BSP
+[2019.12.06-20.03.45:340][ 92]LogGeometryMode: Warning: Unable to resolve BoxBrush309 Brush in new BSP, see above
+[2019.12.06-20.03.45:340][ 92]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.06-20.03.46:783][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.03.53:279][568]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush309)
+[2019.12.06-20.04.00:596][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.04.11:942][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.04.12:052][827]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-20.04.12:133][827]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.04.12:134][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-20.04.12:134][827]PIE: New page: PIE session: Station (Dec 6, 2019, 10:04:12 AM)
+[2019.12.06-20.04.12:134][827]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-20.04.12:395][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.261086s)
+[2019.12.06-20.04.12:396][827]LogAIModule: Creating AISystem for world Station
+[2019.12.06-20.04.12:397][827]LogPlayLevel: PIE: World Init took: (0.001409s)
+[2019.12.06-20.04.12:397][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.262862s)
+[2019.12.06-20.04.12:512][827]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2019.12.06-20.04.12:520][827]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-20.04.12:551][827]LogInit: FAudioDevice initialized.
+[2019.12.06-20.04.12:586][827]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-20.04.12:609][827]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-15.04.12
+[2019.12.06-20.04.12:610][827]LogWorld: Bringing up level for play took: 0.022721
+[2019.12.06-20.04.12:627][827]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station -0.032
+[2019.12.06-20.04.12:628][827]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.04.24:566][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.04.24:567][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.04.24:603][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-20.04.24:604][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.04.24:695][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.04.24:708][747]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2019.12.06-20.04.24:734][748]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.12.06-20.05.19:240][413]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.06-20.05.47:811][899]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2019.12.06-20.05.48:296][899]LogUObjectHash: Compacting FUObjectHashTables data took  10.68ms
+[2019.12.06-20.05.49:349][974]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-20.05.49:401][974]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.05.49:401][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-20.05.49:401][974]PIE: New page: PIE session: Station (Dec 6, 2019, 10:05:49 AM)
+[2019.12.06-20.05.49:401][974]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-20.05.49:615][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.213207s)
+[2019.12.06-20.05.49:615][974]LogAIModule: Creating AISystem for world Station
+[2019.12.06-20.05.49:615][974]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2019.12.06-20.05.49:616][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.214097s)
+[2019.12.06-20.05.49:699][974]LogUObjectHash: Compacting FUObjectHashTables data took   8.35ms
+[2019.12.06-20.05.49:701][974]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-20.05.49:723][974]LogInit: FAudioDevice initialized.
+[2019.12.06-20.05.49:782][974]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-20.05.49:795][974]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-15.05.49
+[2019.12.06-20.05.49:796][974]LogWorld: Bringing up level for play took: 0.013030
+[2019.12.06-20.05.49:811][974]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 1.151
+[2019.12.06-20.05.49:811][974]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.05.56:378][535]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.05.56:379][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.05.56:413][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-20.05.56:413][535]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.05.56:507][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.05.56:529][535]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2019.12.06-20.05.56:556][536]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2019.12.06-20.06.02:122][ 17]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-20.06.02:179][ 17]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.06.02:179][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-20.06.02:179][ 17]PIE: New page: PIE session: Station (Dec 6, 2019, 10:06:02 AM)
+[2019.12.06-20.06.02:179][ 17]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-20.06.02:385][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.206964s)
+[2019.12.06-20.06.02:386][ 17]LogAIModule: Creating AISystem for world Station
+[2019.12.06-20.06.02:386][ 17]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2019.12.06-20.06.02:386][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.208327s)
+[2019.12.06-20.06.02:462][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2019.12.06-20.06.02:464][ 17]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-20.06.02:486][ 17]LogInit: FAudioDevice initialized.
+[2019.12.06-20.06.02:520][ 17]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-20.06.02:532][ 17]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-15.06.02
+[2019.12.06-20.06.02:533][ 17]LogWorld: Bringing up level for play took: 0.012662
+[2019.12.06-20.06.02:548][ 17]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station -0.111
+[2019.12.06-20.06.02:548][ 17]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.06.08:852][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.06.08:852][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.06.08:886][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-20.06.08:887][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.06.08:981][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.06.08:991][547]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.12.06-20.06.09:016][548]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2019.12.06-20.06.34:575][921]BlueprintLog: New page: Compile Hud
+[2019.12.06-20.06.34:673][921]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2019.12.06-20.06.35:649][  8]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-20.06.35:704][  8]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.06.35:704][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-20.06.35:704][  8]PIE: New page: PIE session: Station (Dec 6, 2019, 10:06:35 AM)
+[2019.12.06-20.06.35:704][  8]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-20.06.35:900][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.196079s)
+[2019.12.06-20.06.35:900][  8]LogAIModule: Creating AISystem for world Station
+[2019.12.06-20.06.35:901][  8]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2019.12.06-20.06.35:901][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.197408s)
+[2019.12.06-20.06.35:999][  8]LogUObjectHash: Compacting FUObjectHashTables data took   8.73ms
+[2019.12.06-20.06.36:001][  8]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-20.06.36:024][  8]LogInit: FAudioDevice initialized.
+[2019.12.06-20.06.36:062][  8]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-20.06.36:081][  8]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-15.06.36
+[2019.12.06-20.06.36:082][  8]LogWorld: Bringing up level for play took: 0.018297
+[2019.12.06-20.06.36:096][  8]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station -0.564
+[2019.12.06-20.06.36:096][  8]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.06.46:908][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.06.46:909][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.06.46:947][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-20.06.46:948][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.06.47:047][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.06.47:060][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2019.12.06-20.06.47:085][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.12.06-20.07.55:125][207]LogSlate: Took 0.001889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.06-20.08.20:752][839]BlueprintLog: New page: Compile Hud
+[2019.12.06-20.08.20:857][839]LogUObjectHash: Compacting FUObjectHashTables data took  10.26ms
+[2019.12.06-20.09.14:976][389]LogUObjectArray: Warning: Other object in slot
+[2019.12.06-20.09.14:976][389]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.06-20.09.15:644][389]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.667 s
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: 
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\SKismetInspector.cpp] [Line: 628]
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: Object in KismetInspector is invalid, see TTP 281915
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: Stack: 
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffaddf7a779 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffaddd15b83 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffaddd13372 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea3e2b UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffae033479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea2571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea26d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffae0339354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea2571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea26d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffae033479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea2571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea26d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffae0339354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea2571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:644][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea26d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea26d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea2571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea277a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffadfea50fe UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffae012d714 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffae012e211 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffae01568d2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffae012e2a2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffae017a859 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffae0179a4d UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ff63f287a6a UE4Editor.exe!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ff63f29554c UE4Editor.exe!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ff63f2955ca UE4Editor.exe!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ff63f2a316c UE4Editor.exe!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ff63f2a5b8e UE4Editor.exe!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffb154b4034 KERNEL32.DLL!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: [Callstack] 0x00007ffb17c33691 ntdll.dll!UnknownFunction []
+[2019.12.06-20.09.15:645][389]LogOutputDevice: Error: 
+[2019.12.06-20.09.15:646][389]LogStats:                SubmitErrorReport -  0.000 s
+[2019.12.06-20.09.16:156][389]LogStats:                    SendNewReport -  0.510 s
+[2019.12.06-20.09.16:156][389]LogStats:             FDebug::EnsureFailed -  1.179 s
+[2019.12.06-20.09.58:439][634]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.12.06-20.10.26:689][910]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Station.Station:PersistentLevel.Station
+[2019.12.06-20.10.37:220][899]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/assests/blueprints/keycard.keycard
+[2019.12.06-20.12.05:076][786]LogUObjectHash: Compacting FUObjectHashTables data took   8.15ms
+[2019.12.06-20.12.07:161][786]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_Auto458314F9B4D4C34311A99F6BE82363AD8.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto4.umap'
+[2019.12.06-20.12.07:173][786]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 2.200
+[2019.12.06-20.12.07:173][786]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.200
+[2019.12.06-20.12.07:176][786]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([1] browsable assets)...
+[2019.12.06-20.12.07:176][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2019.12.06-20.12.07:229][786]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/ThirdPersonGameMode_Auto486C66D404FEF147051C8428171F70DB4.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto4.uasset'
+[2019.12.06-20.12.07:237][786]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assests/GUI/Hud] ([1] browsable assets)...
+[2019.12.06-20.12.07:237][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/assests/GUI/Hud]
+[2019.12.06-20.12.07:237][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/GUI/Hud" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/assests/GUI/Hud_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.12.06-20.12.07:269][786]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Hud_Auto4EDD9E48D499D44FD7120D7AB5CA108CA.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/assests/GUI/Hud_Auto4.uasset'
+[2019.12.06-20.12.07:273][786]LogFileHelpers: Auto-saving content packages took 0.098
+[2019.12.06-20.13.10:686][708]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.06-20.13.11:246][708]LogUObjectHash: Compacting FUObjectHashTables data took   8.36ms
+[2019.12.06-20.13.15:781][190]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.15:781][190]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.06-20.13.15:782][190]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: 
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: Stack: 
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffaba14c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffab99c6fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffab99d4e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffabdb337f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffab8695cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffab8651e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffae0135984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffae03215e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffae017d70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffae015af5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffae0150287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffae2dab726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffae2d9ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffae2dad77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffae2d9c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffb17917281 USER32.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffb17916c53 USER32.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ffae2dae946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ff63f285d3e UE4Editor.exe!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ff63f29554c UE4Editor.exe!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ff63f2955ca UE4Editor.exe!UnknownFunction []
+[2019.12.06-20.13.15:782][190]LogOutputDevice: Error: [Callstack] 0x00007ff63f2a316c UE4Editor.exe!UnknownFunction []
+[2019.12.06-20.13.15:783][190]LogOutputDevice: Error: [Callstack] 0x00007ff63f2a5b8e UE4Editor.exe!UnknownFunction []
+[2019.12.06-20.13.15:783][190]LogOutputDevice: Error: [Callstack] 0x00007ffb154b4034 KERNEL32.DLL!UnknownFunction []
+[2019.12.06-20.13.15:783][190]LogOutputDevice: Error: [Callstack] 0x00007ffb17c33691 ntdll.dll!UnknownFunction []
+[2019.12.06-20.13.15:783][190]LogOutputDevice: Error: 
+[2019.12.06-20.13.15:787][190]LogStats:                SubmitErrorReport -  0.000 s
+[2019.12.06-20.13.16:186][190]LogStats:                    SendNewReport -  0.399 s
+[2019.12.06-20.13.16:186][190]LogStats:             FDebug::EnsureFailed -  0.405 s
+[2019.12.06-20.13.16:186][190]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:187][190]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:190][190]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:193][190]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:199][191]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:203][191]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:212][192]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:214][192]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:220][193]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:221][193]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:228][194]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:230][194]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:236][195]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:238][195]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:244][196]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:245][196]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:247][196]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:252][197]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:254][197]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:256][197]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:261][198]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:262][198]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:264][198]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:269][199]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:270][199]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:272][199]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:277][200]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:279][200]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:283][200]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:290][201]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:292][201]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:295][201]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:304][202]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:306][202]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:312][203]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:314][203]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:320][204]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:322][204]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:329][205]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:330][205]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:337][206]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:339][206]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:346][207]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:350][207]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:358][208]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:361][208]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:367][209]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:369][209]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:375][210]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:377][210]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:383][211]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:385][211]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:391][212]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:394][212]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:399][213]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:402][213]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:406][213]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:417][214]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:420][214]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:423][214]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:429][215]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:430][215]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:433][215]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:438][216]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:440][216]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:446][217]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:448][217]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:455][218]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:456][218]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:469][219]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:471][219]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:477][220]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:478][220]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:485][221]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:487][221]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:492][222]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:494][222]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:496][222]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:502][223]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:504][223]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:510][224]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:512][224]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:517][225]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:519][225]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:520][225]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:527][226]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:528][226]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:535][227]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:536][227]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:543][228]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:545][228]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:552][229]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:553][229]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:560][230]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:562][230]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:569][231]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:570][231]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:576][232]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:577][232]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:580][232]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:584][233]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:585][233]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:588][233]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:592][234]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:594][234]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:596][234]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:601][235]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:602][235]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:605][235]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:610][236]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:612][236]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:614][236]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:619][237]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:620][237]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:623][237]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:628][238]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:630][238]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:632][238]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:637][239]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:639][239]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:647][240]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:648][240]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:651][240]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:657][241]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:659][241]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:666][242]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:669][242]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:678][243]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:682][243]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:692][244]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:695][244]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:699][245]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:701][245]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:703][245]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:709][246]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:719][246]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:733][247]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:735][247]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:737][247]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:743][248]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:746][248]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:751][249]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:753][249]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:760][250]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:762][250]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:768][251]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:771][251]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:780][252]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:781][252]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:789][253]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:792][253]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:801][254]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:803][254]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:809][255]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:812][255]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:818][256]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:820][256]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:826][257]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:828][257]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:836][258]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:838][258]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:843][259]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:845][259]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:847][259]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:854][260]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:856][260]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:862][261]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:864][261]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:870][262]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:872][262]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:878][263]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:880][263]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:886][264]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:890][264]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:895][265]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:899][265]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:904][266]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:906][266]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:912][267]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:914][267]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:920][268]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:923][268]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:929][269]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:931][269]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:937][270]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:940][270]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:946][271]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:948][271]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:954][272]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:957][272]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:963][273]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:965][273]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:971][274]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:973][274]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:979][275]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:981][275]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:987][276]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:989][276]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:995][277]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.16:998][277]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:004][278]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:006][278]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:013][279]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:014][279]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:020][280]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:022][280]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:029][281]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:030][281]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:037][282]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:038][282]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:045][283]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:047][283]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:054][284]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:056][284]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:063][285]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:064][285]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:070][286]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:072][286]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:079][287]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:081][287]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:087][288]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:091][288]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:100][289]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:101][289]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:108][290]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:109][290]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:115][291]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:116][291]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:119][291]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:123][292]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:125][292]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:127][292]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:133][293]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:135][293]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:140][294]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:141][294]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:144][294]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:151][295]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:156][295]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:173][296]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:178][296]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:185][297]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:187][297]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:193][298]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:195][298]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:201][299]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:203][299]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:210][300]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:211][300]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:218][301]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:220][301]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:234][302]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:236][302]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:241][303]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:243][303]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:248][304]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:249][304]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:251][304]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:256][305]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:258][305]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:260][305]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:265][306]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:266][306]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:268][306]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:273][307]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:275][307]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:276][307]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:281][308]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:283][308]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:284][308]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:290][309]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:291][309]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:293][309]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:298][310]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:299][310]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:301][310]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:306][311]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:308][311]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.17:310][311]LogUObjectBase: Warning: Object is not registered
+[2019.12.06-20.13.41:721][981]BlueprintLog: New page: Compile keycard
+[2019.12.06-20.13.42:270][981]LogUObjectHash: Compacting FUObjectHashTables data took   8.70ms
+[2019.12.06-20.13.42:318][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/blueprints/keycard" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/assests/blueprints/keycard.uasset" SILENT=true
+[2019.12.06-20.13.42:360][981]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/keycard89ED0E9D4EA52FC54075E29010BEB7FF.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/assests/blueprints/keycard.uasset'
+[2019.12.06-20.14.45:606][721]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2019.12.06-20.14.46:104][721]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2019.12.06-20.14.46:663][760]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/ThirdPersonGameMode745E663540D6295AF87AD9A9596A010F.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2019.12.06-20.17.35:299][823]BlueprintLog: New page: Collapse to Function
+[2019.12.06-20.18.16:611][386]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.06-20.18.16:639][386]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Unable to find local variable with name 'howManyKaycardsArePickedUp' for  Get howManyKaycardsArePickedUp
+[2019.12.06-20.18.16:639][386]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  How Many Kaycards Are Picked Up  could not be found in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2019.12.06-20.18.16:639][386]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Unable to find local variable with name 'howManyKaycardsArePickedUp' for  Set howManyKaycardsArePickedUp
+[2019.12.06-20.18.16:639][386]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  How Many Kaycards Are Picked Up  could not be found in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2019.12.06-20.18.17:155][386]LogUObjectHash: Compacting FUObjectHashTables data took   8.97ms
+[2019.12.06-20.18.17:184][386]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [7640.35] Compile of ThirdPersonCharacter failed. 2 Fatal Issue(s) 2 Warning(s) [in 573 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.12.06-20.18.42:343][178]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.06-20.18.42:367][178]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Unable to find local variable with name 'howManyKaycardsArePickedUp' for  Get howManyKaycardsArePickedUp
+[2019.12.06-20.18.42:367][178]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  How Many Kaycards Are Picked Up  could not be found in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2019.12.06-20.18.42:367][178]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Unable to find local variable with name 'howManyKaycardsArePickedUp' for  Set howManyKaycardsArePickedUp
+[2019.12.06-20.18.42:367][178]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  How Many Kaycards Are Picked Up  could not be found in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2019.12.06-20.18.42:855][178]LogUObjectHash: Compacting FUObjectHashTables data took   8.76ms
+[2019.12.06-20.18.42:883][178]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [7666.05] Compile of ThirdPersonCharacter failed. 2 Fatal Issue(s) 2 Warning(s) [in 539 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.12.06-20.19.08:386][906]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.06-20.19.08:905][906]LogUObjectHash: Compacting FUObjectHashTables data took   9.05ms
+[2019.12.06-20.19.09:645][964]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/ThirdPersonCharacter3D6F80D545F12BE52AA0F09C182EB958.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.06-20.20.57:427][641]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.06-20.20.57:964][641]LogUObjectHash: Compacting FUObjectHashTables data took   8.64ms
+[2019.12.06-20.21.00:521][883]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/ThirdPersonCharacterE59FFCAD47892A35E6A043BCE3D23ADB.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.06-20.21.01:498][983]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-20.21.01:586][983]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.21.01:586][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-20.21.01:586][983]PIE: New page: PIE session: Station (Dec 6, 2019, 10:21:01 AM)
+[2019.12.06-20.21.01:586][983]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-20.21.01:801][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.215015s)
+[2019.12.06-20.21.01:802][983]LogAIModule: Creating AISystem for world Station
+[2019.12.06-20.21.01:802][983]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2019.12.06-20.21.01:802][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.216221s)
+[2019.12.06-20.21.01:892][983]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2019.12.06-20.21.01:897][983]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-20.21.01:922][983]LogInit: FAudioDevice initialized.
+[2019.12.06-20.21.01:930][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.21.01:964][983]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-20.21.01:978][983]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-15.21.01
+[2019.12.06-20.21.01:979][983]LogWorld: Bringing up level for play took: 0.014645
+[2019.12.06-20.21.01:995][983]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 1.33
+[2019.12.06-20.21.01:995][983]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.21.02:091][985]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2019.12.06-20.21.05:783][288]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.21.05:784][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.21.05:798][288]LogSlate: Window 'Station Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.06-20.21.05:854][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-20.21.05:854][288]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.21.05:966][288]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2019.12.06-20.21.06:021][289]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.12.06-20.21.18:625][619]BlueprintLog: New page: Collapse to Function
+[2019.12.06-20.21.45:538][446]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.06-20.21.46:075][446]LogUObjectHash: Compacting FUObjectHashTables data took   9.32ms
+[2019.12.06-20.21.46:383][454]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/ThirdPersonCharacterE62B8E4644CB2C48BDC51FBC005C6DAA.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.06-20.22.04:535][202]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.06-20.22.05:076][202]LogUObjectHash: Compacting FUObjectHashTables data took   8.49ms
+[2019.12.06-20.22.05:359][203]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/ThirdPersonCharacter766AAF404221905540974A8F80B4626A.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.06-20.22.06:043][264]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-20.22.06:120][264]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.22.06:120][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-20.22.06:120][264]PIE: New page: PIE session: Station (Dec 6, 2019, 10:22:06 AM)
+[2019.12.06-20.22.06:120][264]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-20.22.06:289][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.168934s)
+[2019.12.06-20.22.06:290][264]LogAIModule: Creating AISystem for world Station
+[2019.12.06-20.22.06:290][264]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2019.12.06-20.22.06:290][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.169804s)
+[2019.12.06-20.22.06:377][264]LogUObjectHash: Compacting FUObjectHashTables data took   8.31ms
+[2019.12.06-20.22.06:382][264]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-20.22.06:404][264]LogInit: FAudioDevice initialized.
+[2019.12.06-20.22.06:410][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.22.06:439][264]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-20.22.06:462][264]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-15.22.06
+[2019.12.06-20.22.06:464][264]LogWorld: Bringing up level for play took: 0.024184
+[2019.12.06-20.22.06:479][264]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station -0.185
+[2019.12.06-20.22.06:480][264]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.23.02:785][464]LogSlate: Window 'Station Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.06-20.23.02:795][464]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.23.02:851][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-20.23.02:851][464]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.23.02:968][464]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2019.12.06-20.23.03:071][465]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2019.12.06-20.24.53:243][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.12.06-20.24.55:132][978]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_Auto5BF35F0D5437653DA6B7779B887486B41.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto5.umap'
+[2019.12.06-20.24.55:145][978]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 1.993
+[2019.12.06-20.24.55:145][978]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.993
+[2019.12.06-20.24.55:150][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.12.06-20.24.55:172][978]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.12.06-20.24.55:172][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.12.06-20.24.55:271][978]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/ThirdPersonCharacter_Auto58229C9EC4F2737CFD736F2A2ED639522.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2019.12.06-20.24.55:277][978]LogFileHelpers: Auto-saving content packages took 0.127
+[2019.12.06-20.25.05:515][ 21]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/ThirdPersonCharacter82B21F8D47ADD9F29355118399DF4274.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.06-20.25.05:962][ 56]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.06-20.25.06:484][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   7.63ms
+[2019.12.06-20.25.08:252][217]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-20.25.08:323][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.25.08:323][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-20.25.08:323][217]PIE: New page: PIE session: Station (Dec 6, 2019, 10:25:08 AM)
+[2019.12.06-20.25.08:323][217]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-20.25.08:520][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.196595s)
+[2019.12.06-20.25.08:521][217]LogAIModule: Creating AISystem for world Station
+[2019.12.06-20.25.08:521][217]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2019.12.06-20.25.08:521][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.197570s)
+[2019.12.06-20.25.08:614][217]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2019.12.06-20.25.08:617][217]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-20.25.08:643][217]LogInit: FAudioDevice initialized.
+[2019.12.06-20.25.08:651][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.25.08:684][217]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-20.25.08:697][217]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-15.25.08
+[2019.12.06-20.25.08:698][217]LogWorld: Bringing up level for play took: 0.013243
+[2019.12.06-20.25.08:715][217]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 0.04
+[2019.12.06-20.25.08:715][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.25.42:740][  1]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.25.42:740][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.25.42:755][  1]LogSlate: Window 'Station Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.06-20.25.42:814][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-20.25.42:815][  1]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.25.42:945][  1]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2019.12.06-20.25.43:002][  2]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2019.12.06-20.27.18:308][815]LogEditorTransaction: Undo Clear Children
+[2019.12.06-20.27.18:317][815]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Station.Station:PersistentLevel.ThirdPersonCharacter_167.CollisionCylinder) Component already registered.
+[2019.12.06-20.27.30:604][ 39]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.06-20.27.31:145][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2019.12.06-20.27.31:484][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-20.27.31:556][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.27.31:556][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-20.27.31:557][ 61]PIE: New page: PIE session: Station (Dec 6, 2019, 10:27:31 AM)
+[2019.12.06-20.27.31:557][ 61]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-20.27.31:755][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.198316s)
+[2019.12.06-20.27.31:756][ 61]LogAIModule: Creating AISystem for world Station
+[2019.12.06-20.27.31:756][ 61]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2019.12.06-20.27.31:756][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.199227s)
+[2019.12.06-20.27.31:850][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   8.69ms
+[2019.12.06-20.27.31:855][ 61]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-20.27.31:884][ 61]LogInit: FAudioDevice initialized.
+[2019.12.06-20.27.31:911][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.27.31:943][ 61]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-20.27.31:957][ 61]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-15.27.31
+[2019.12.06-20.27.31:957][ 61]LogWorld: Bringing up level for play took: 0.013611
+[2019.12.06-20.27.31:974][ 61]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 1.291
+[2019.12.06-20.27.31:974][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.29.32:454][908]LogNet: Browse: /Game/Maps/GameOver
+[2019.12.06-20.29.32:454][908]LogLoad: LoadMap: /Game/Maps/GameOver
+[2019.12.06-20.29.32:561][908]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2019.12.06-20.29.32:569][908]LogAIModule: Creating AISystem for world GameOver
+[2019.12.06-20.29.32:570][908]LogLoad: Game class is 'GameModeBase'
+[2019.12.06-20.29.32:570][908]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameOver.GameOver up for play (max tick rate 0) at 2019.12.06-15.29.32
+[2019.12.06-20.29.32:571][908]LogWorld: Bringing up level for play took: 0.000435
+[2019.12.06-20.29.32:571][908]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.06-20.29.32:572][908]LogLoad: Took 0.118316 seconds to LoadMap(/Game/Maps/GameOver)
+[2019.12.06-20.29.36:512][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.29.36:585][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.29.36:585][273]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.29.36:601][273]LogSlate: Window 'Station Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.06-20.29.36:636][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-20.29.36:637][273]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.29.36:748][273]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2019.12.06-20.29.36:798][274]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2019.12.06-20.29.47:963][421]LogRenderer: Reallocating scene render targets to support 1272x708 Format 10 NumSamples 1 (Frame:1).
+[2019.12.06-20.30.13:343][119]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.06-20.30.13:870][119]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2019.12.06-20.30.14:420][155]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-20.30.14:485][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.30.14:485][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-20.30.14:485][155]PIE: New page: PIE session: Station (Dec 6, 2019, 10:30:14 AM)
+[2019.12.06-20.30.14:485][155]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-20.30.14:688][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.202724s)
+[2019.12.06-20.30.14:689][155]LogAIModule: Creating AISystem for world Station
+[2019.12.06-20.30.14:689][155]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2019.12.06-20.30.14:689][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.204208s)
+[2019.12.06-20.30.14:782][155]LogUObjectHash: Compacting FUObjectHashTables data took   8.40ms
+[2019.12.06-20.30.14:785][155]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-20.30.14:809][155]LogInit: FAudioDevice initialized.
+[2019.12.06-20.30.14:833][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.30.14:866][155]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-20.30.14:879][155]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-15.30.14
+[2019.12.06-20.30.14:880][155]LogWorld: Bringing up level for play took: 0.012892
+[2019.12.06-20.30.14:895][155]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 0.209
+[2019.12.06-20.30.14:896][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.30.41:766][431]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.30.41:766][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.30.41:781][431]LogSlate: Window 'Station Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.06-20.30.41:831][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-20.30.41:831][431]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.30.41:949][431]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2019.12.06-20.30.42:005][432]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2019.12.06-20.35.00:438][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.35.02:457][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.35.02:531][322]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush309)
+[2019.12.06-20.35.03:199][372]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.35.03:334][380]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.35.04:256][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.35.05:232][539]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.35.06:151][622]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.12.06-20.35.07:606][741]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.35.09:130][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.35.10:191][945]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.06-20.35.12:049][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.35.13:878][241]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.06-20.35.14:493][297]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.35.14:823][322]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.06-20.35.17:274][520]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.35.19:136][672]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush309)
+[2019.12.06-20.35.31:563][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.35.46:359][697]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.35.46:448][704]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush309)
+[2019.12.06-20.35.55:930][446]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush308)
+[2019.12.06-20.35.58:914][628]Cmd: TRANSACTION UNDO
+[2019.12.06-20.35.58:914][628]LogEditorTransaction: Undo Move Actors
+[2019.12.06-20.35.59:466][628]LogGeometryMode: Warning: Unable to find 8 Vertex(s) in new BSP
+[2019.12.06-20.35.59:466][628]LogGeometryMode: Warning: Unable to resolve BoxBrush309 Brush in new BSP, see above
+[2019.12.06-20.35.59:466][628]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.06-20.36.00:968][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.36.12:777][610]LogEditorViewport: Clicking on Actor (LMB): sliding_door_C (sliding_door12)
+[2019.12.06-20.36.14:904][796]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush307)
+[2019.12.06-20.36.15:837][877]LogEditorViewport: Clicking on Actor (CTRL LMB): sliding_door_C (sliding_door13)
+[2019.12.06-20.36.43:831][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.36.46:770][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.37.30:390][467]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2019.12.06-20.37.31:030][467]LogUObjectHash: Compacting FUObjectHashTables data took  12.09ms
+[2019.12.06-20.37.31:740][506]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/ThirdPersonGameMode26EE917F489C46402EB6EC8DF234590A.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2019.12.06-20.37.32:584][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.37.32:712][569]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-20.37.32:780][569]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.37.32:780][569]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.06-20.37.32:800][569]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.12.06-20.37.33:359][569]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2019.12.06-20.37.33:360][569]LogPlayLevel: PlayLevel: Blueprint regeneration took 578 ms (1 blueprints)
+[2019.12.06-20.37.33:360][569]PIE: New page: PIE session: Station (Dec 6, 2019, 10:37:33 AM)
+[2019.12.06-20.37.33:360][569]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-20.37.33:544][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.184405s)
+[2019.12.06-20.37.33:545][569]LogAIModule: Creating AISystem for world Station
+[2019.12.06-20.37.33:545][569]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2019.12.06-20.37.33:545][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.185434s)
+[2019.12.06-20.37.33:647][569]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2019.12.06-20.37.33:652][569]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-20.37.33:677][569]LogInit: FAudioDevice initialized.
+[2019.12.06-20.37.33:711][569]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-20.37.33:724][569]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-15.37.33
+[2019.12.06-20.37.33:725][569]LogWorld: Bringing up level for play took: 0.013285
+[2019.12.06-20.37.33:739][569]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 1.045
+[2019.12.06-20.37.33:739][569]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.37.34:513][612]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.40.56:430][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.40.56:431][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.40.56:472][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-20.40.56:473][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.40.56:574][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.40.56:588][950]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2019.12.06-20.40.56:629][951]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2019.12.06-20.41.06:597][676]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.41.07:619][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.41.11:864][ 71]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush308)
+[2019.12.06-20.41.13:124][171]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush309)
+[2019.12.06-20.41.15:457][369]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush309)
+[2019.12.06-20.41.23:677][953]LogEditorViewport: Clicking Background
+[2019.12.06-20.41.32:231][605]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush309)
+[2019.12.06-20.41.34:744][808]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush13)
+[2019.12.06-20.41.35:987][906]LogEditorViewport: Clicking on Actor (LMB): sliding_door_C (sliding_door15)
+[2019.12.06-20.41.38:139][ 83]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush309)
+[2019.12.06-20.41.39:965][235]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush13)
+[2019.12.06-20.41.41:148][337]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush309)
+[2019.12.06-20.41.42:317][431]LogEditorViewport: Clicking on Actor (LMB): sliding_door_C (sliding_door14)
+[2019.12.06-20.41.44:598][616]LogEditorViewport: Clicking on Actor (CTRL LMB): sliding_door_C (sliding_door15)
+[2019.12.06-20.42.17:380][319]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush290)
+[2019.12.06-20.42.59:150][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.43.00:722][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.43.00:880][758]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2019.12.06-20.43.03:398][758]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_Auto659B2E2EA47CC3A81E4D094947DAB9828.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto6.umap'
+[2019.12.06-20.43.03:410][758]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 2.660
+[2019.12.06-20.43.03:410][758]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.660
+[2019.12.06-20.43.03:414][758]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.12.06-20.43.03:432][758]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.12.06-20.43.03:432][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.12.06-20.43.03:527][758]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/ThirdPersonCharacter_Auto6B4EF307A407A73F4576D008D8997CDF3.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto6.uasset'
+[2019.12.06-20.43.03:530][758]LogFileHelpers: Auto-saving content packages took 0.117
+[2019.12.06-20.46.02:249][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.46.10:074][813]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.06-20.46.14:049][102]Cmd: TRANSACTION UNDO
+[2019.12.06-20.46.14:049][102]LogEditorTransaction: Undo Move Actors
+[2019.12.06-20.46.14:714][102]LogGeometryMode: Warning: Unable to find 4 Vertex(s) in new BSP
+[2019.12.06-20.46.14:714][102]LogGeometryMode: Warning: Unable to resolve BoxBrush311 Brush in new BSP, see above
+[2019.12.06-20.46.14:714][102]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.06-20.46.20:351][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.46.28:080][915]Cmd: POLY SELECT MATCHING TEXTURE
+[2019.12.06-20.46.29:380][  4]Cmd: POLY SELECT MATCHING TEXTURE
+[2019.12.06-20.46.31:040][122]LogEditorViewport: Clicking Background
+[2019.12.06-20.46.31:914][190]LogEditorViewport: Clicking Background
+[2019.12.06-20.46.32:323][218]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush311)
+[2019.12.06-20.46.36:494][500]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush311)
+[2019.12.06-20.46.56:277][688]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.47.56:923][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.48.13:116][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.48.25:092][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.48.39:965][612]LogEditorViewport: Clicking on Actor (LMB): sliding_door_C (sliding_door14)
+[2019.12.06-20.48.53:555][656]LogEditorViewport: Clicking on Actor (LMB): sliding_door_C (sliding_door15)
+[2019.12.06-20.49.12:900][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.49.48:261][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.50.01:619][870]Cmd: DELETE
+[2019.12.06-20.50.01:619][870]Cmd: ACTOR DELETE
+[2019.12.06-20.50.01:685][870]LogEditorActor: Deleted Actor: Brush
+[2019.12.06-20.50.01:810][870]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2019.12.06-20.50.02:227][870]LogEditorActor: Deleted 1 Actors (0.608 secs)
+[2019.12.06-20.50.05:378][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.50.05:667][120]LogActorFactory: Actor Factory created Cube
+[2019.12.06-20.50.07:009][204]LogActorFactory: Actor Factory created Cube
+[2019.12.06-20.50.12:689][632]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.06-20.50.22:452][354]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.06-20.51.48:635][857]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2019.12.06-20.51.53:172][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.52.47:175][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.52.47:284][320]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-20.52.47:362][320]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.52.47:363][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-20.52.47:363][320]PIE: New page: PIE session: Station (Dec 6, 2019, 10:52:47 AM)
+[2019.12.06-20.52.47:363][320]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-20.52.47:615][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.251810s)
+[2019.12.06-20.52.47:616][320]LogAIModule: Creating AISystem for world Station
+[2019.12.06-20.52.47:616][320]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2019.12.06-20.52.47:616][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.253210s)
+[2019.12.06-20.52.47:709][320]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2019.12.06-20.52.47:712][320]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-20.52.47:736][320]LogInit: FAudioDevice initialized.
+[2019.12.06-20.52.47:763][320]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-20.52.47:777][320]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-15.52.47
+[2019.12.06-20.52.47:778][320]LogWorld: Bringing up level for play took: 0.014089
+[2019.12.06-20.52.47:792][320]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 1.097
+[2019.12.06-20.52.47:802][320]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.56.09:941][686]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.56.09:942][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.56.09:987][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-20.56.09:988][686]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.56.10:096][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.56.10:110][686]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2019.12.06-20.56.10:145][687]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2019.12.06-20.56.54:742][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.12.06-20.56.56:841][319]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_Auto7B0DDC3B94932F61141CA429421BCBECF.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto7.umap'
+[2019.12.06-20.56.56:857][319]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 2.206
+[2019.12.06-20.56.56:857][319]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.206
+[2019.12.06-20.57.37:491][441]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-20.58.02:920][498]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2019.12.06-20.58.10:481][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-20.59.05:888][436]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-20.59.05:962][436]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.59.05:962][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-20.59.05:962][436]PIE: New page: PIE session: Station (Dec 6, 2019, 10:59:05 AM)
+[2019.12.06-20.59.05:962][436]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.06-20.59.06:179][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.216169s)
+[2019.12.06-20.59.06:179][436]LogAIModule: Creating AISystem for world Station
+[2019.12.06-20.59.06:180][436]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2019.12.06-20.59.06:180][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.217261s)
+[2019.12.06-20.59.06:307][436]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2019.12.06-20.59.06:312][436]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-20.59.06:335][436]LogInit: FAudioDevice initialized.
+[2019.12.06-20.59.06:369][436]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.06-20.59.06:391][436]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.06-15.59.06
+[2019.12.06-20.59.06:391][436]LogWorld: Bringing up level for play took: 0.021250
+[2019.12.06-20.59.06:406][436]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station -0.295
+[2019.12.06-20.59.06:406][436]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.59.12:439][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.59.12:439][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.59.12:484][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-20.59.12:484][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.06-20.59.12:586][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-20.59.12:599][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2019.12.06-20.59.12:636][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2019.12.06-21.00.03:947][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2019.12.06-21.00.04:829][719]Cmd: DELETE
+[2019.12.06-21.00.04:829][719]Cmd: ACTOR DELETE
+[2019.12.06-21.00.04:864][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.06-21.00.04:950][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.12.06-21.00.04:950][719]LogEditorActor: Deleted 1 Actors (0.121 secs)
+[2019.12.06-21.00.10:623][276]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2019.12.06-21.00.11:594][369]Cmd: DELETE
+[2019.12.06-21.00.11:594][369]Cmd: ACTOR DELETE
+[2019.12.06-21.00.11:629][369]LogEditorActor: Deleted Actor: TriggerBox
+[2019.12.06-21.00.11:718][369]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2019.12.06-21.00.11:719][369]LogEditorActor: Deleted 1 Actors (0.125 secs)
+[2019.12.06-21.00.14:697][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-21.00.16:833][906]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.06-21.00.18:237][ 17]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.06-21.00.36:263][778]LogGeometryMode: Warning: Unable to find BoxBrush309 Brush(s) in new BSP
+[2019.12.06-21.00.36:264][778]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.06-21.07.03:342][995]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-21.07.03:465][995]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2019.12.06-21.07.05:505][995]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_Auto8892DE6684A9B48561D9928BAA0886775.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto8.umap'
+[2019.12.06-21.07.05:522][995]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 2.166
+[2019.12.06-21.07.05:522][995]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.166
+[2019.12.06-21.15.20:022][220]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-21.15.20:031][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.06-21.15.20:115][220]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2019.12.06-21.15.22:299][220]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/StationD7237F984990CE24487D2D8B38FC5E37.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.12.06-21.15.22:379][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.12.06-21.15.22:603][220]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_BuiltData2797D46E4EE1034CB2422180276C3A5F.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.12.06-21.15.27:047][685]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-21.15.27:053][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.06-21.15.27:149][685]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2019.12.06-21.15.28:875][685]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/StationDD4D279C41C8AE835C49FDB7F39AED71.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.12.06-21.15.28:925][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.12.06-21.15.29:068][685]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_BuiltDataC1D77C89432FCB58740A6788D9591172.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
