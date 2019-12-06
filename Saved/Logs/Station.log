@@ -1096,3 +1096,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.06-21.59.17:928][954]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station8174876A415EAA797C92F381EEA420B2.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
 [2019.12.06-21.59.17:973][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
 [2019.12.06-21.59.18:174][954]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_BuiltData009DDF6C4B8778FC42A07BB47A3201B9.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.12.06-22.00.17:574][245]LogSlate: Window 'Time' being destroyed
+[2019.12.06-22.00.17:581][245]LogSlate: Window 'Time' being destroyed
+[2019.12.06-22.00.26:738][227]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-22.00.36:229][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-22.00.40:911][703]Cmd: TRANSACTION UNDO
+[2019.12.06-22.00.40:911][703]LogEditorTransaction: Undo Move Actors
+[2019.12.06-22.00.43:666][921]LogEditorViewport: Clicking on Actor (LMB): keycard_C (keycard2)
+[2019.12.06-22.00.51:580][748]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.06-22.00.57:416][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-22.00.58:291][451]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.06-22.01.03:413][ 21]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.06-22.01.09:748][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-22.01.09:754][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.06-22.01.09:842][748]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2019.12.06-22.01.11:289][748]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station738A3A5F4778ECDFACC4719F93DB1161.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.12.06-22.01.11:333][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.12.06-22.01.11:456][748]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_BuiltData2E6E316D48DF1A5ACE70079E103313DE.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.12.06-22.01.15:595][207]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.12.06-22.01.20:251][207]LogSlate: Window 'Save Content' being destroyed
+[2019.12.06-22.01.26:191][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/blueprints/keycard" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/assests/blueprints/keycard.uasset" SILENT=true
+[2019.12.06-22.01.26:223][887]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/keycardE361DD3548B477F6EFBCA1B0DB285A2F.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/assests/blueprints/keycard.uasset'
+[2019.12.06-22.01.27:280][  8]BlueprintLog: New page: Compile keycard
+[2019.12.06-22.01.27:608][  8]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2019.12.06-22.01.27:754][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/blueprints/keycard" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/assests/blueprints/keycard.uasset" SILENT=true
+[2019.12.06-22.01.27:790][ 19]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/keycardC76F639F43071C2A5B308BBEAFD64B0F.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/assests/blueprints/keycard.uasset'
+[2019.12.06-22.01.31:395][433]LogEditorViewport: Clicking Background
+[2019.12.06-22.01.31:889][489]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-22.01.31:897][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.06-22.01.31:973][489]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2019.12.06-22.01.33:516][489]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/StationEB7E891E42371862E047E09EE485DAF0.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.12.06-22.01.33:559][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.12.06-22.01.33:674][489]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_BuiltData32F9D43D4FB3B792527348BE732A3606.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
