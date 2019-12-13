@@ -2900,3 +2900,531 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.12-13.53.47:862][419]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
 [2019.12.12-13.53.55:998][607]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2019.12.12-13.54.09:793][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-13.54.35:029][335]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2019.12.12-13.54.38:705][335]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_Auto07D3D5EF6478DAD5CC3E712B6CF68FDE6.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto0.umap'
+[2019.12.12-13.54.38:714][335]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 3.808
+[2019.12.12-13.54.38:714][335]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.808
+[2019.12.13-03.19.49:069][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-03.21.11:511][786]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-03.21.12:322][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-03.21.13:975][936]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-03.21.26:511][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-03.24.25:683][638]Cmd: TRANSACTION UNDO
+[2019.12.13-03.24.25:683][638]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.12.13-03.24.26:809][638]Cmd: TRANSACTION UNDO
+[2019.12.13-03.24.26:818][638]LogEditorTransaction: Undo Animatable Property Changed
+[2019.12.13-03.24.26:839][638]Cmd: TRANSACTION UNDO
+[2019.12.13-03.24.26:839][638]LogEditorTransaction: Undo Animatable Property Changed
+[2019.12.13-03.24.26:857][638]Cmd: TRANSACTION UNDO
+[2019.12.13-03.24.26:857][638]LogEditorTransaction: Undo Animatable Property Changed
+[2019.12.13-03.24.26:896][638]Cmd: TRANSACTION UNDO
+[2019.12.13-03.24.26:896][638]LogEditorTransaction: Undo Animatable Property Changed
+[2019.12.13-03.24.27:084][640]Cmd: TRANSACTION UNDO
+[2019.12.13-03.24.27:084][640]LogEditorTransaction: Undo Animatable Property Changed
+[2019.12.13-03.24.27:251][641]Cmd: TRANSACTION UNDO
+[2019.12.13-03.24.27:260][641]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.13-03.25.02:975][582]LogUObjectHash: Compacting FUObjectHashTables data took  12.77ms
+[2019.12.13-03.25.05:900][582]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_Auto1EC353D284665FD85077250910A1D5D86.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto1.umap'
+[2019.12.13-03.25.05:908][582]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 3.173
+[2019.12.13-03.25.05:908][582]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.173
+[2019.12.13-03.27.23:428][654]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-03.28.11:183][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-03.28.18:405][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-03.28.51:204][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-03.30.02:029][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-03.30.08:170][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-03.30.10:810][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-03.31.59:830][971]BlueprintLog: New page: Compile button
+[2019.12.13-03.32.01:268][971]LogUObjectHash: Compacting FUObjectHashTables data took  32.58ms
+[2019.12.13-03.32.15:018][256]BlueprintLog: New page: Compile button
+[2019.12.13-03.32.15:681][256]LogUObjectHash: Compacting FUObjectHashTables data took  10.91ms
+[2019.12.13-03.32.16:018][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/blueprints/button" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/blueprints/button.uasset" SILENT=true
+[2019.12.13-03.32.16:562][256]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/button756AB63F4FBCDE8843A64A97A5FA1A24.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/blueprints/button.uasset'
+[2019.12.13-03.36.48:464][816]BlueprintLog: New page: Compile button
+[2019.12.13-03.36.49:157][816]LogUObjectHash: Compacting FUObjectHashTables data took  19.62ms
+[2019.12.13-03.36.50:269][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assests/blueprints/button" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/blueprints/button.uasset" SILENT=true
+[2019.12.13-03.36.50:503][873]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/buttonF6E85C3E4C9E2783D4B21B94141F8185.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/assests/blueprints/button.uasset'
+[2019.12.13-03.36.56:620][134]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.13-03.36.56:780][134]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-03.37.00:520][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-03.37.01:525][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.13-03.37.01:652][315]LogUObjectHash: Compacting FUObjectHashTables data took  14.23ms
+[2019.12.13-03.37.02:400][315]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.12.13-03.37.02:439][315]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2019.12.13-03.37.02:469][315]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X128)
+[2019.12.13-03.37.05:099][315]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station9194C6394E75DFB5A6EEF08FBEFCED33.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.12.13-03.37.05:583][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.12.13-03.37.06:148][315]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_BuiltData172FA05D447F384C30F2C4A3FB119C10.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.12.13-03.37.07:235][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-03.37.07:322][352]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-03.37.07:558][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.13-03.37.07:560][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-03.37.07:571][352]PIE: New page: PIE session: Station (Dec 12, 2019, 5:37:07 PM)
+[2019.12.13-03.37.07:682][352]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.13-03.37.08:431][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.748609s)
+[2019.12.13-03.37.08:505][352]LogAIModule: Creating AISystem for world Station
+[2019.12.13-03.37.08:516][352]LogPlayLevel: PIE: World Init took: (0.084472s)
+[2019.12.13-03.37.08:527][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.844852s)
+[2019.12.13-03.37.08:788][352]LogUObjectHash: Compacting FUObjectHashTables data took  10.09ms
+[2019.12.13-03.37.08:969][352]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-03.37.09:039][352]LogInit: FAudioDevice initialized.
+[2019.12.13-03.37.09:099][352]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.13-03.37.09:301][352]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.12-22.37.09
+[2019.12.13-03.37.09:312][352]LogWorld: Bringing up level for play took: 0.210567
+[2019.12.13-03.37.09:422][352]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.13-03.37.09:475][352]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 1.639
+[2019.12.13-03.37.09:476][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.13-03.40.12:188][914]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.13-03.40.12:193][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-03.40.12:262][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-03.40.12:263][914]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.13-03.40.12:558][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-03.40.12:642][914]LogUObjectHash: Compacting FUObjectHashTables data took  10.18ms
+[2019.12.13-03.40.13:017][915]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2019.12.13-03.40.17:173][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-03.44.08:422][ 58]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.13-03.44.09:353][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   8.56ms
+[2019.12.13-03.44.17:181][544]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-03.44.17:276][544]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.13-03.44.17:276][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-03.44.17:276][544]PIE: New page: PIE session: Station (Dec 12, 2019, 5:44:17 PM)
+[2019.12.13-03.44.17:349][544]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.13-03.44.17:845][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.495010s)
+[2019.12.13-03.44.17:846][544]LogAIModule: Creating AISystem for world Station
+[2019.12.13-03.44.17:846][544]LogPlayLevel: PIE: World Init took: (0.001585s)
+[2019.12.13-03.44.17:847][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.497105s)
+[2019.12.13-03.44.18:128][544]LogUObjectHash: Compacting FUObjectHashTables data took  11.41ms
+[2019.12.13-03.44.18:211][544]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-03.44.18:242][544]LogInit: FAudioDevice initialized.
+[2019.12.13-03.44.18:275][544]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.13-03.44.18:321][544]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.12-22.44.18
+[2019.12.13-03.44.18:323][544]LogWorld: Bringing up level for play took: 0.046997
+[2019.12.13-03.44.18:337][544]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.13-03.44.18:340][544]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 03
+[2019.12.13-03.44.18:341][544]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 0.505
+[2019.12.13-03.44.18:342][544]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.13-03.44.32:617][449]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 13
+[2019.12.13-03.45.48:014][589]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 23
+[2019.12.13-03.46.20:181][831]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 33
+[2019.12.13-03.46.46:400][667]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.13-03.46.46:400][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-03.46.46:477][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-03.46.46:500][667]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.13-03.46.46:638][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-03.46.46:678][667]LogUObjectHash: Compacting FUObjectHashTables data took  10.31ms
+[2019.12.13-03.46.46:805][668]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2019.12.13-03.46.48:511][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-03.47.35:317][  4]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-03.47.35:352][  4]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.13-03.47.35:353][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-03.47.35:353][  4]PIE: New page: PIE session: Station (Dec 12, 2019, 5:47:35 PM)
+[2019.12.13-03.47.35:436][  4]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.13-03.47.35:842][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.406120s)
+[2019.12.13-03.47.35:843][  4]LogAIModule: Creating AISystem for world Station
+[2019.12.13-03.47.35:844][  4]LogPlayLevel: PIE: World Init took: (0.001513s)
+[2019.12.13-03.47.35:844][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.408042s)
+[2019.12.13-03.47.35:963][  4]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2019.12.13-03.47.36:046][  4]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-03.47.36:069][  4]LogInit: FAudioDevice initialized.
+[2019.12.13-03.47.36:134][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-03.47.36:167][  4]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.13-03.47.36:217][  4]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.12-22.47.36
+[2019.12.13-03.47.36:219][  4]LogWorld: Bringing up level for play took: 0.050413
+[2019.12.13-03.47.36:232][  4]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.13-03.47.36:236][  4]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 03
+[2019.12.13-03.47.36:371][  4]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 0.535
+[2019.12.13-03.47.36:372][  4]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.13-03.47.51:388][389]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.13-03.47.51:389][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-03.47.51:429][389]LogSlate: Window 'Station Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-03.47.51:520][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-03.47.51:521][389]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.13-03.47.51:727][389]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2019.12.13-03.47.51:811][390]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2019.12.13-03.50.33:631][184]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.13-03.50.34:298][184]LogUObjectHash: Compacting FUObjectHashTables data took  10.19ms
+[2019.12.13-03.50.35:737][264]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-03.50.35:823][264]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.13-03.50.35:823][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-03.50.35:824][264]PIE: New page: PIE session: Station (Dec 12, 2019, 5:50:35 PM)
+[2019.12.13-03.50.35:852][264]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Station
+[2019.12.13-03.50.36:229][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.377239s)
+[2019.12.13-03.50.36:229][264]LogAIModule: Creating AISystem for world Station
+[2019.12.13-03.50.36:230][264]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2019.12.13-03.50.36:230][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Station.Station to /Game/Maps/UEDPIE_0_Station.Station (0.378470s)
+[2019.12.13-03.50.36:352][264]LogUObjectHash: Compacting FUObjectHashTables data took  10.26ms
+[2019.12.13-03.50.36:433][264]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-03.50.36:457][264]LogInit: FAudioDevice initialized.
+[2019.12.13-03.50.36:467][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-03.50.36:501][264]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.13-03.50.36:533][264]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.12-22.50.36
+[2019.12.13-03.50.36:536][264]LogWorld: Bringing up level for play took: 0.033614
+[2019.12.13-03.50.36:549][264]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.13-03.50.36:551][264]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 03
+[2019.12.13-03.50.36:559][264]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Station 0.722
+[2019.12.13-03.50.36:559][264]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.13-03.50.52:299][126]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 13
+[2019.12.13-03.52.10:281][638]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 23
+[2019.12.13-03.52.41:899][552]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 33
+[2019.12.13-03.53.29:695][445]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 33
+[2019.12.13-03.54.38:409][473]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.13-03.54.38:409][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-03.54.38:434][473]LogSlate: Window 'Station Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-03.54.38:565][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-03.54.38:565][473]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Station.Station:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Station.Station:PersistentLevel.Station' with GeneratedClass '/Game/Maps/Station.Station_C' with ClassGeneratedBy '/Game/Maps/Station.Station:PersistentLevel.Station'
+[2019.12.13-03.54.38:760][473]LogUObjectHash: Compacting FUObjectHashTables data took  10.05ms
+[2019.12.13-03.54.38:864][474]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2019.12.13-03.54.40:702][591]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.13-03.54.41:355][591]LogUObjectHash: Compacting FUObjectHashTables data took  10.19ms
+[2019.12.13-03.54.42:744][617]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonCharacterB1CCFD9943D8C2FC554C9F80A6765AC9.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.13-03.56.54:623][237]LogUObjectHash: Compacting FUObjectHashTables data took   9.60ms
+[2019.12.13-03.56.57:164][237]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_Auto286A7BA3B4BAFED013AB472A1F8DDB4AB.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto2.umap'
+[2019.12.13-03.56.57:180][237]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 2.667
+[2019.12.13-03.56.57:180][237]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.667
+[2019.12.13-03.57.29:939][591]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/ThirdPersonCharacter07B2E95E41C656B7EE7E01B2444EBEA4.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.13-03.57.32:192][740]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-03.57.34:567][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-03.57.34:580][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.13-03.57.34:687][892]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2019.12.13-03.57.37:472][892]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/StationAF0F448646A8DAC353DD8B92937AE047.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.12.13-03.57.37:529][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.12.13-03.57.37:799][892]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_BuiltDataC1CBFDFF462BDBE65BEAC3BE78ABFE46.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.12.13-04.01.40:529][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-04.01.45:518][902]LogAIModule: Creating AISystem for world MainMenu
+[2019.12.13-04.01.45:524][902]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2019.12.13-04.01.45:660][902]LogUObjectHash: Compacting FUObjectHashTables data took  10.80ms
+[2019.12.13-04.01.45:664][902]Cmd: MAP LOAD FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.13-04.01.45:665][902]LightingResults: New page: Lighting Build
+[2019.12.13-04.01.45:673][902]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.12.13-04.01.45:733][902]MapCheck: New page: Map Check
+[2019.12.13-04.01.45:733][902]LightingResults: New page: Lighting Build
+[2019.12.13-04.01.46:476][902]LogUObjectHash: Compacting FUObjectHashTables data took  19.23ms
+[2019.12.13-04.01.49:468][902]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.13-04.01.49:742][902]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2019.12.13-04.01.49:827][902]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.13-04.01.49:828][902]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.687ms to complete.
+[2019.12.13-04.01.49:828][902]LogFileHelpers: Loading map 'MainMenu' took 4.167
+[2019.12.13-04.01.52:394][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-04.01.52:480][128]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-04.01.52:553][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.13-04.01.52:553][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-04.01.52:553][128]PIE: New page: PIE session: MainMenu (Dec 12, 2019, 6:01:52 PM)
+[2019.12.13-04.01.52:585][128]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.12.13-04.01.52:587][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002299s)
+[2019.12.13-04.01.52:596][128]LogAIModule: Creating AISystem for world MainMenu
+[2019.12.13-04.01.52:596][128]LogPlayLevel: PIE: World Init took: (0.008892s)
+[2019.12.13-04.01.52:596][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.011666s)
+[2019.12.13-04.01.52:730][128]LogUObjectHash: Compacting FUObjectHashTables data took   9.44ms
+[2019.12.13-04.01.52:819][128]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-04.01.52:848][128]LogInit: FAudioDevice initialized.
+[2019.12.13-04.01.52:879][128]LogLoad: Game class is 'GameModeBase'
+[2019.12.13-04.01.52:880][128]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.12.12-23.01.52
+[2019.12.13-04.01.52:880][128]LogWorld: Bringing up level for play took: 0.000519
+[2019.12.13-04.01.52:958][128]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 1.122
+[2019.12.13-04.01.52:958][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.13-04.02.43:017][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-04.02.43:137][276]LogNet: Browse: /Game/Maps/Options
+[2019.12.13-04.02.43:137][276]LogLoad: LoadMap: /Game/Maps/Options
+[2019.12.13-04.02.43:264][276]LogUObjectHash: Compacting FUObjectHashTables data took  11.08ms
+[2019.12.13-04.02.43:282][276]LogAIModule: Creating AISystem for world Options
+[2019.12.13-04.02.43:283][276]LogLoad: Game class is 'GameModeBase'
+[2019.12.13-04.02.43:284][276]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Options.Options up for play (max tick rate 0) at 2019.12.12-23.02.43
+[2019.12.13-04.02.43:284][276]LogWorld: Bringing up level for play took: 0.000602
+[2019.12.13-04.02.43:285][276]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.13-04.02.43:374][276]LogLoad: Took 0.236294 seconds to LoadMap(/Game/Maps/Options)
+[2019.12.13-04.02.48:658][665]LogNet: Browse: /Game/Maps/MainMenu
+[2019.12.13-04.02.48:658][665]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2019.12.13-04.02.48:791][665]LogUObjectHash: Compacting FUObjectHashTables data took   7.59ms
+[2019.12.13-04.02.48:792][665]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.12.13-04.02.48:794][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001997s)
+[2019.12.13-04.02.48:795][665]LogAIModule: Creating AISystem for world MainMenu
+[2019.12.13-04.02.48:796][665]LogPlayLevel: PIE: World Init took: (0.001570s)
+[2019.12.13-04.02.48:796][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003858s)
+[2019.12.13-04.02.48:796][665]LogLoad: Game class is 'GameModeBase'
+[2019.12.13-04.02.48:797][665]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.12.12-23.02.48
+[2019.12.13-04.02.48:798][665]LogWorld: Bringing up level for play took: 0.000891
+[2019.12.13-04.02.48:798][665]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.13-04.02.48:801][665]LogLoad: Took 0.143097 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2019.12.13-04.02.50:102][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-04.02.50:102][769]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.13-04.02.50:134][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-04.02.50:134][769]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.13-04.02.50:265][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-04.02.50:278][769]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2019.12.13-04.02.50:340][770]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2019.12.13-04.02.51:947][923]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-04.02.52:053][923]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.13-04.02.52:054][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-04.02.52:054][923]PIE: New page: PIE session: MainMenu (Dec 12, 2019, 6:02:52 PM)
+[2019.12.13-04.02.52:098][923]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.12.13-04.02.52:100][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002331s)
+[2019.12.13-04.02.52:101][923]LogAIModule: Creating AISystem for world MainMenu
+[2019.12.13-04.02.52:101][923]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2019.12.13-04.02.52:101][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003857s)
+[2019.12.13-04.02.52:236][923]LogUObjectHash: Compacting FUObjectHashTables data took   8.46ms
+[2019.12.13-04.02.52:320][923]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-04.02.52:342][923]LogInit: FAudioDevice initialized.
+[2019.12.13-04.02.52:371][923]LogLoad: Game class is 'GameModeBase'
+[2019.12.13-04.02.52:372][923]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.12.12-23.02.52
+[2019.12.13-04.02.52:373][923]LogWorld: Bringing up level for play took: 0.000561
+[2019.12.13-04.02.52:389][923]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.553
+[2019.12.13-04.02.52:389][923]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.13-04.02.53:359][ 10]LogNet: Browse: /Game/Maps/Station
+[2019.12.13-04.02.53:359][ 10]LogLoad: LoadMap: /Game/Maps/Station
+[2019.12.13-04.02.53:522][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2019.12.13-04.02.54:406][ 10]LogAIModule: Creating AISystem for world Station
+[2019.12.13-04.02.54:406][ 10]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.13-04.02.54:496][ 10]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Station.Station up for play (max tick rate 0) at 2019.12.12-23.02.54
+[2019.12.13-04.02.54:498][ 10]LogWorld: Bringing up level for play took: 0.090558
+[2019.12.13-04.02.54:499][ 10]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.13-04.02.54:501][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 03
+[2019.12.13-04.02.54:501][ 10]LogLoad: Took 1.141988 seconds to LoadMap(/Game/Maps/Station)
+[2019.12.13-04.03.10:245][959]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 13
+[2019.12.13-04.04.39:879][220]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 23
+[2019.12.13-04.05.11:744][441]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 33
+[2019.12.13-04.06.08:331][488]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 33
+[2019.12.13-04.07.03:216][426]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 33
+[2019.12.13-04.07.56:635][953]LogNet: Browse: /Game/Maps/GameOver
+[2019.12.13-04.07.56:646][953]LogLoad: LoadMap: /Game/Maps/GameOver
+[2019.12.13-04.07.56:922][953]LogUObjectHash: Compacting FUObjectHashTables data took   9.12ms
+[2019.12.13-04.07.56:965][953]LogAIModule: Creating AISystem for world GameOver
+[2019.12.13-04.07.56:966][953]LogLoad: Game class is 'GameModeBase'
+[2019.12.13-04.07.56:968][953]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameOver.GameOver up for play (max tick rate 0) at 2019.12.12-23.07.56
+[2019.12.13-04.07.56:968][953]LogWorld: Bringing up level for play took: 0.000738
+[2019.12.13-04.07.56:969][953]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.13-04.07.56:987][953]LogLoad: Took 0.340159 seconds to LoadMap(/Game/Maps/GameOver)
+[2019.12.13-04.08.31:833][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-04.08.34:021][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-04.08.34:021][234]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.13-04.08.34:055][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-04.08.34:056][234]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.13-04.08.34:201][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-04.08.34:221][234]LogUObjectHash: Compacting FUObjectHashTables data took   9.13ms
+[2019.12.13-04.08.34:287][235]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2019.12.13-04.08.39:420][597]LogAIModule: Creating AISystem for world Station
+[2019.12.13-04.08.39:720][597]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Station.Station
+[2019.12.13-04.08.39:848][597]LogUObjectHash: Compacting FUObjectHashTables data took   9.11ms
+[2019.12.13-04.08.39:852][597]Cmd: MAP LOAD FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.13-04.08.39:852][597]LightingResults: New page: Lighting Build
+[2019.12.13-04.08.39:853][597]LoadErrors: New page: Loading map: Station.umap
+[2019.12.13-04.08.39:854][597]MapCheck: New page: Map Check
+[2019.12.13-04.08.39:854][597]LightingResults: New page: Lighting Build
+[2019.12.13-04.08.39:986][597]LogUObjectHash: Compacting FUObjectHashTables data took   9.19ms
+[2019.12.13-04.08.43:957][597]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.13-04.08.44:114][597]LogUObjectHash: Compacting FUObjectHashTables data took   8.27ms
+[2019.12.13-04.08.44:174][597]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.13-04.08.44:182][597]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 7.04ms to complete.
+[2019.12.13-04.08.44:182][597]LogFileHelpers: Loading map 'Station' took 4.332
+[2019.12.13-04.09.11:330][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-04.09.11:524][167]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2019.12.13-04.09.33:575][318]Cmd: TRANSACTION UNDO
+[2019.12.13-04.09.33:575][318]LogEditorTransaction: Undo Animatable Property Changed
+[2019.12.13-04.09.34:415][351]Cmd: TRANSACTION UNDO
+[2019.12.13-04.09.34:415][351]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.12.13-04.09.39:716][351]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.12.13-04.13.05:758][624]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.13-04.13.06:011][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.13.06:019][624]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.13-04.13.26:884][600]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.13-04.13.26:921][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.13.35:796][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.13.38:453][141]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.13-04.13.38:584][141]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.13.38:604][141]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.13-04.13.38:681][141]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.14.47:186][951]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.13-04.14.47:238][951]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.14.48:062][994]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.13-04.14.48:108][994]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.14.49:296][ 53]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.13-04.14.49:348][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.14.50:188][ 95]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.13-04.14.50:237][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.14.51:796][170]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2019.12.13-04.14.51:917][170]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.14.51:942][170]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (SkySphereMesh)
+[2019.12.13-04.14.54:417][254]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.13-04.14.54:533][254]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.19.04:002][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2019.12.13-04.19.04:047][ 22]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.12.13-04.19.04:075][ 22]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X128)
+[2019.12.13-04.19.04:113][ 22]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X128)
+[2019.12.13-04.19.07:043][ 22]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_Auto3301E9AD64AA1DD22A31409A813EF7911.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto3.umap'
+[2019.12.13-04.19.07:051][ 22]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 3.157
+[2019.12.13-04.19.07:051][ 22]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.157
+[2019.12.13-04.20.17:701][941]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.13-04.20.17:745][941]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.20.23:024][199]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.13-04.20.23:075][199]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.20.28:260][462]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.21.02:435][861]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.21.20:518][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-04.22.27:055][770]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.23.52:918][691]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.24.04:652][342]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.29.07:136][910]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-04.29.07:291][910]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2019.12.13-04.29.07:882][910]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.12.13-04.29.07:910][910]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2019.12.13-04.29.07:919][910]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X128)
+[2019.12.13-04.29.07:922][910]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X128)
+[2019.12.13-04.29.10:162][910]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_Auto40B1EF81745F760858754DA8338ADF1F1.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto4.umap'
+[2019.12.13-04.29.10:170][910]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 2.985
+[2019.12.13-04.29.10:170][910]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.985
+[2019.12.13-05.13.17:896][778]Cmd: TRANSACTION UNDO
+[2019.12.13-05.13.17:896][778]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.12.13-05.13.22:416][916]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.13.44:609][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.13.51:176][591]Cmd: TRANSACTION UNDO
+[2019.12.13-05.13.51:176][591]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.12.13-05.13.51:660][591]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.12.13-05.13.58:227][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.14.10:423][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.16.13:907][148]Cmd: TRANSACTION UNDO
+[2019.12.13-05.16.13:907][148]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.12.13-05.16.14:595][148]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.12.13-05.16.16:279][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.16.39:718][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.16.47:033][846]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.16.48:749][945]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.16.56:145][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.17.30:465][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.17.30:597][399]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2019.12.13-05.17.31:192][399]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.12.13-05.17.31:203][399]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X128)
+[2019.12.13-05.17.33:454][399]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_Auto565B21C85413842097A9CF4BFFFD2E402.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto5.umap'
+[2019.12.13-05.17.33:461][399]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 2.976
+[2019.12.13-05.17.33:461][399]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.976
+[2019.12.13-05.17.58:616][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.18.02:408][923]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.18.21:804][ 32]Cmd: TRANSACTION UNDO
+[2019.12.13-05.18.21:804][ 32]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.12.13-05.18.22:347][ 32]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.12.13-05.18.26:146][241]Cmd: TRANSACTION UNDO
+[2019.12.13-05.18.26:146][241]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.12.13-05.18.26:487][241]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.12.13-05.18.26:978][261]Cmd: TRANSACTION UNDO
+[2019.12.13-05.18.26:979][261]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.12.13-05.18.34:930][720]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.18.41:739][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.19.09:326][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.20.01:882][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.20.13:854][821]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.20.13:864][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.13-05.20.13:975][821]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2019.12.13-05.20.14:520][821]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.12.13-05.20.16:538][821]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station6D776F344D2D8312B37499B728C6C48D.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.12.13-05.20.16:634][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.12.13-05.20.17:011][821]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_BuiltData6BEEB02649F1D2796F55A799ADB502F5.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.12.13-05.21.49:264][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.22.02:748][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.22.23:028][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.22.50:962][128]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.22.55:652][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.22.57:779][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.23.16:724][718]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.23.21:986][ 51]Cmd: TRANSACTION UNDO
+[2019.12.13-05.23.21:986][ 51]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.12.13-05.23.22:515][ 51]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.12.13-05.23.37:259][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.24.39:186][567]Cmd: TRANSACTION UNDO
+[2019.12.13-05.24.39:186][567]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.12.13-05.24.39:650][567]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.12.13-05.24.43:476][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.24.49:948][199]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.13-05.24.52:898][327]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.13-05.24.53:337][359]Cmd: POLY SELECT MATCHING TEXTURE
+[2019.12.13-05.25.49:527][152]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush)
+[2019.12.13-05.25.50:421][211]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush)
+[2019.12.13-05.25.51:756][302]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush)
+[2019.12.13-05.25.54:453][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.25.54:546][493]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.12.13-05.25.54:547][493]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.12.13-05.25.54:547][493]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.13-05.27.47:926][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.27.48:593][803]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.13-05.28.06:660][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.28.06:761][340]LogGeometryMode: Warning: Unable to find 4 Edge(s) in new BSP
+[2019.12.13-05.28.06:761][340]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.12.13-05.28.06:761][340]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.13-05.28.10:105][553]Cmd: TRANSACTION UNDO
+[2019.12.13-05.28.10:105][553]LogEditorTransaction: Undo Modifier [Split]
+[2019.12.13-05.28.13:575][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.28.13:663][717]LogGeometryMode: Warning: Unable to find 4 Edge(s) in new BSP
+[2019.12.13-05.28.13:663][717]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.12.13-05.28.13:663][717]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.13-05.28.17:400][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.28.17:487][970]LogGeometryMode: Warning: Unable to find 4 Edge(s) in new BSP
+[2019.12.13-05.28.17:487][970]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.12.13-05.28.17:487][970]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.13-05.29.11:261][953]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.29.12:266][ 39]Cmd: DELETE
+[2019.12.13-05.29.12:267][ 39]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2019.12.13-05.29.12:267][ 39]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.12.13-05.29.12:267][ 39]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.13-05.29.14:592][157]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2019.12.13-05.29.15:760][242]Cmd: DELETE
+[2019.12.13-05.29.16:758][242]Cmd: ACTOR DELETE
+[2019.12.13-05.29.16:888][242]LogEditorActor: Deleted Actor: Brush
+[2019.12.13-05.29.17:081][242]LogUObjectHash: Compacting FUObjectHashTables data took   8.66ms
+[2019.12.13-05.29.17:730][242]LogEditorActor: Deleted 1 Actors (0.958 secs)
+[2019.12.13-05.30.13:750][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.30.14:138][580]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2019.12.13-05.30.17:271][580]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_Auto6F24A7064410F1A486DF264BB59219026.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto6.umap'
+[2019.12.13-05.30.17:285][580]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 3.499
+[2019.12.13-05.30.17:286][580]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.499
+[2019.12.13-05.30.42:067][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.30.51:638][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.30.55:650][525]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.30.59:660][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.31.05:585][801]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.31.31:258][388]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.31.37:535][579]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.31.48:129][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.36.37:355][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.36.40:189][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.37.20:414][ 32]Cmd: TRANSACTION UNDO
+[2019.12.13-05.37.20:422][ 32]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.13-05.37.30:911][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-05.38.08:554][870]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.38.14:644][261]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume3)
+[2019.12.13-05.40.17:356][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.40.17:542][817]LogUObjectHash: Compacting FUObjectHashTables data took   8.40ms
+[2019.12.13-05.40.18:122][817]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.12.13-05.40.20:719][817]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_Auto7739388364A9391F8EA727F9A419C102D.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto7.umap'
+[2019.12.13-05.40.20:727][817]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 3.332
+[2019.12.13-05.40.20:727][817]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.332
+[2019.12.13-05.45.19:227][844]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.13-05.46.42:742][597]Cmd: TRANSACTION UNDO
+[2019.12.13-05.46.42:742][597]LogEditorTransaction: Undo Snap Actors To Floor
+[2019.12.13-05.46.44:688][641]Cmd: TRANSACTION UNDO
+[2019.12.13-05.46.44:688][641]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.13-05.47.11:848][224]Cmd: DELETE
+[2019.12.13-05.47.11:848][224]Cmd: ACTOR DELETE
+[2019.12.13-05.47.11:989][224]LogEditorActor: Deleted Actor: Brush
+[2019.12.13-05.47.12:284][224]LogUObjectHash: Compacting FUObjectHashTables data took   9.87ms
+[2019.12.13-05.47.12:876][224]LogEditorActor: Deleted 1 Actors (1.029 secs)
+[2019.12.13-05.47.13:654][269]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.13-05.47.13:655][269]Can't find target actor or component.
+[2019.12.13-05.47.15:334][382]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.13-05.47.16:406][461]Cmd: DELETE
+[2019.12.13-05.47.16:406][461]Cmd: ACTOR DELETE
+[2019.12.13-05.47.16:474][461]LogEditorActor: Deleted Actor: Brush
+[2019.12.13-05.47.16:572][461]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2019.12.13-05.47.17:194][461]LogEditorActor: Deleted 1 Actors (0.788 secs)
+[2019.12.13-05.47.22:595][807]Cmd: DELETE
+[2019.12.13-05.47.22:595][807]Cmd: ACTOR DELETE
+[2019.12.13-05.47.22:667][807]LogEditorActor: Deleted Actor: Brush
+[2019.12.13-05.47.22:784][807]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2019.12.13-05.47.23:385][807]LogEditorActor: Deleted 1 Actors (0.789 secs)
+[2019.12.13-05.47.25:004][909]Cmd: DELETE
+[2019.12.13-05.47.25:004][909]Cmd: ACTOR DELETE
+[2019.12.13-05.47.25:071][909]LogEditorActor: Deleted Actor: Brush
+[2019.12.13-05.47.25:173][909]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2019.12.13-05.47.25:765][909]LogEditorActor: Deleted 1 Actors (0.761 secs)
+[2019.12.13-05.47.38:671][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-05.47.38:685][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.13-05.47.38:797][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.12.13-05.47.42:457][869]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station3C1F1794461F5A562C2614A1BCF7BC95.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.12.13-05.47.42:572][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.12.13-05.47.42:867][869]LogSavePackage: Moving '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Saved/Station_BuiltDataECEB3F924DD9DE9DDC63FFA56735B958.tmp' to '../../../../../../Users/devin/OneDrive/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
