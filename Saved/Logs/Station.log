@@ -1447,3 +1447,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.13-20.20.13:170][633]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/StationC0033A8F4482CA45699D4FAD3CE4C64E.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
 [2019.12.13-20.20.13:227][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
 [2019.12.13-20.20.14:650][633]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_BuiltData740A7E6D4A3F4EEE291ED1AF14DC54D2.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.12.13-20.38.41:422][808]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-20.38.41:504][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.12.13-20.38.43:670][808]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_Auto4D10D4A5347DFFE399CC95999CAD0AEF0.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto4.umap'
+[2019.12.13-20.38.43:687][808]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 2.246
+[2019.12.13-20.38.43:687][808]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.246
+[2019.12.13-20.51.54:890][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-20.51.54:972][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.12.13-20.51.57:259][696]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_Auto50B237857487983D63A1F6285872C67EB.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto5.umap'
+[2019.12.13-20.51.57:272][696]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 2.367
+[2019.12.13-20.51.57:272][696]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.367
+[2019.12.13-21.20.44:751][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-21.20.56:417][293]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-21.20.58:389][484]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-21.20.58:394][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.13-21.20.58:461][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.12.13-21.20.58:902][484]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2019.12.13-21.21.00:738][484]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/StationBDD3933E44FFBA61B8AA09B587F3C8A2.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.12.13-21.21.00:800][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.12.13-21.21.02:230][484]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_BuiltData87528122478C3F6388214B84913633F1.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.12.13-21.21.16:048][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
