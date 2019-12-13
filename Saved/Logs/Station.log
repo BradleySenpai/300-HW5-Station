@@ -1392,3 +1392,47 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.13-19.27.55:254][834]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station2891A5E3498B7ACFACB7D488FCB4E56E.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
 [2019.12.13-19.27.55:319][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
 [2019.12.13-19.27.56:778][834]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_BuiltDataE75B016F4E66E1877F8354AFCD2E5747.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.12.13-19.28.26:473][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-19.29.01:999][544]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.13-19.29.03:008][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-19.29.03:133][656]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.12.13-19.29.03:185][656]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-19.29.03:185][656]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.13-19.29.03:185][656]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.12.13-19.29.03:228][656]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-19.29.03:228][656]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.13-19.29.03:228][656]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2019.12.13-19.29.03:300][656]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.12.13-19.29.03:322][656]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-19.29.03:322][656]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.13-19.29.03:322][656]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.12.13-19.29.03:351][656]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-19.29.03:351][656]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.13-19.29.03:351][656]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.12.13-19.29.03:380][656]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-19.29.03:380][656]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.13-19.29.03:380][656]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.12.13-19.29.03:416][656]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-19.29.03:416][656]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.13-19.29.03:416][656]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2019.12.13-19.29.03:446][656]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-19.29.03:446][656]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.13-19.29.03:446][656]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.12.13-19.29.03:482][656]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-19.29.03:482][656]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.12.13-19.29.03:544][656]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.12.13-19.29.06:100][844]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.13-19.29.07:025][924]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-19.29.07:049][926]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.13-19.29.10:415][288]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.13-19.29.10:444][288]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-19.29.53:534][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-19.29.58:475][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-19.30.16:214][121]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-19.30.16:221][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.13-19.30.16:284][121]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.12.13-19.30.16:704][121]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2019.12.13-19.30.16:716][121]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X128)
+[2019.12.13-19.30.18:615][121]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station43566E8941D4486CCFD216A71CC477FE.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.12.13-19.30.18:661][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.12.13-19.30.20:056][121]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_BuiltDataEE88292244B1D4E489358B8880E721E7.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
