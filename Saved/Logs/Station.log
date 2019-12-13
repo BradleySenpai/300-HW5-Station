@@ -1363,3 +1363,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.13-19.23.44:640][730]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station2303156B498D89473B8A82A731EB60C5.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
 [2019.12.13-19.23.44:694][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
 [2019.12.13-19.23.46:030][730]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_BuiltData2449734C448B1897B779A887485FF200.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.12.13-19.25.08:374][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-19.25.08:539][157]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.13-19.25.08:594][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-19.25.25:280][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-19.25.35:876][288]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-19.25.37:973][510]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.13-19.25.40:688][821]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.13-19.25.43:376][123]Cmd: DELETE
+[2019.12.13-19.25.43:376][123]Cmd: ACTOR DELETE
+[2019.12.13-19.25.43:425][123]LogEditorActor: Deleted Actor: BlockingVolume
+[2019.12.13-19.25.43:489][123]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.12.13-19.25.43:490][123]LogEditorActor: Deleted 1 Actors (0.113 secs)
+[2019.12.13-19.25.46:029][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-19.25.49:512][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-19.26.14:457][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-19.27.14:930][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-19.27.29:240][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-19.27.32:612][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-19.27.33:169][640]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.13-19.27.36:130][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-19.27.39:171][305]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.13-19.27.44:458][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-19.27.45:586][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-19.27.52:765][834]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-19.27.52:772][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.13-19.27.52:840][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.12.13-19.27.55:254][834]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station2891A5E3498B7ACFACB7D488FCB4E56E.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.12.13-19.27.55:319][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.12.13-19.27.56:778][834]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_BuiltDataE75B016F4E66E1877F8354AFCD2E5747.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
