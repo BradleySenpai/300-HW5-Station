@@ -1436,3 +1436,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.13-19.30.18:615][121]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station43566E8941D4486CCFD216A71CC477FE.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
 [2019.12.13-19.30.18:661][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
 [2019.12.13-19.30.20:056][121]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_BuiltDataEE88292244B1D4E489358B8880E721E7.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
+[2019.12.13-19.32.18:641][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-19.40.16:202][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.12.13-19.40.18:428][707]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_Auto37CD99AC04B5EFE6FCEB1B992866709F0.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Autosaves/Game/Maps/Station_Auto3.umap'
+[2019.12.13-19.40.18:440][707]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Station' took 2.291
+[2019.12.13-19.40.18:440][707]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.291
+[2019.12.13-20.20.10:839][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-20.20.10:845][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.13-20.20.10:912][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.12.13-20.20.13:170][633]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/StationC0033A8F4482CA45699D4FAD3CE4C64E.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station.umap'
+[2019.12.13-20.20.13:227][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Station_BuiltData" FILE="../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset" SILENT=true
+[2019.12.13-20.20.14:650][633]LogSavePackage: Moving '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Saved/Station_BuiltData740A7E6D4A3F4EEE291ED1AF14DC54D2.tmp' to '../../../../../../Users/bradled9/Desktop/300/300-HW5-Station/Content/Maps/Station_BuiltData.uasset'
